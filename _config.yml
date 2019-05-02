@@ -17,8 +17,8 @@ title: Steinbrenner Lab
 email: astein10@uw.edu
 description: >- # this means to ignore newlines until "baseurl:"
   The University of Washington, Seattle
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://steinbrennerlab.org"
+baseurl: "/steinbrennerlab" # the subpath of your site, e.g. /blog
+url: "https://steinbrennerlab.github.io"
 twitter_username: adsteinbrenner
 github_username:  steinbrennerlab
 google_fonts:
