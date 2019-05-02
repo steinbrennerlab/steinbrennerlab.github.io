@@ -1,18 +1,17 @@
 ---
 title: "Adam Steinbrenner, Principal Investigator"
 image: 
-  path: /images/banner4.jpg
+  path: /images/blank.jpg
   thumbnail: /images/chocolate-chip-cookies-400x200.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
-permalink: /people/
+layout: page
 ---
 
 Adam has been an Assistant Professor in the Department of Biology since 2019
 
 ## Education
 
-PhD UC Berkeley
-BS Tufts University
+**PhD, Plant Biology** University of California, Berkeley <br>
+**BS, Biology** Tufts University
 
 ## Other
 

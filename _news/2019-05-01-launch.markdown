@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Lab website launched"
-date:   2019-05-02 10:34:46 -0700
-categories: jekyll update
----
-The lab website is up and running!  Check back for updates

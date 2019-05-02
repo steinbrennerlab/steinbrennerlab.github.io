@@ -34,11 +34,10 @@ plugins:
 paginate: 10  # amount of posts to show per page
 paginate_path: /page:num/
 remote_theme: "mmistakes/so-simple-theme"
-
+#collections: need to have output true to re-render each page!!
 collections:
-  - people
-  - news
-
+  people:
+    output: true
 footer_links:
   - title: Twitter
     url: https://twitter.com/adsteinbrenner
