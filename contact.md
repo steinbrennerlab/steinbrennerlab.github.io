@@ -4,7 +4,6 @@
 
 title: Contact
 layout: page
-permalink: /contact/
 ---
 The lab is new and always looking for enthusiastic researchers!  Please contact with a brief cover letter if interested.
 
