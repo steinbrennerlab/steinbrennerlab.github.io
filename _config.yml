@@ -28,11 +28,12 @@ google_fonts:
     weights: "400,400i,700,700i"    
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-so-simple
+#theme: jekyll-theme-so-simple
 plugins:
   - jekyll-feed
 paginate: 10  # amount of posts to show per page
 paginate_path: /page:num/
+remote_theme: "mmistakes/so-simple-theme"
 
 collections:
   - people
