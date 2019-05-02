@@ -1,1 +1,1 @@
-Sitemap: https://steinbrennerlab.org/sitemap.xml
+Sitemap: https://steinbrennerlab.org/_site/sitemap.xml
