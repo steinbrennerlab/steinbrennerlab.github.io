@@ -1,0 +1,5 @@
+---
+layout: post
+title:  "News item #1"
+date:   2019-05-02
+---
