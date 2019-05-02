@@ -16,7 +16,7 @@
   
     <title>Welcome to Jekyll!</title>
     <meta name="description" content="The University of Washington, Seattle">
-    <link rel="canonical" href="https://steinbrennerlab.org/_site/old/2019-05-02-welcome-to-jekyll.markdown_2.old">
+    <link rel="canonical" href="https://steinbrennerlab.org/old/2019-05-02-welcome-to-jekyll.markdown_2.old">
   
 
   <script>
@@ -26,10 +26,10 @@
     }
   </script>
 
-  <link rel="stylesheet" href="/_site/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/main.css">
   
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,700,700i|Lora:400,400i,700,700i">
-  <link rel="alternate" type="application/atom+xml" title="Steinbrenner Lab" href="/_site/feed.xml">
+  <link rel="alternate" type="application/atom+xml" title="Steinbrenner Lab" href="/feed.xml">
 <!-- start custom head snippets -->
 
 <!-- insert favicons. use http://realfavicongenerator.net/ -->
@@ -53,7 +53,7 @@
   <div class="navigation-wrapper">
     <a href="#menu-toggle" id="menu-toggle">Menu</a>
     <nav id="primary-nav" class="site-nav animated drop">
-      <ul><li><a href="/_site/research/">Research</a></li><li><a href="/_site/news/">News</a></li><li><a href="/_site/people/">People</a></li><li><a href="/_site/publications/">Publications</a></li><li><a href="/_site/contact/">Contact & Join</a></li></ul>
+      <ul><li><a href="/research/">Research</a></li><li><a href="/news/">News</a></li><li><a href="/people/">People</a></li><li><a href="/publications/">Publications</a></li><li><a href="/contact/">Contact & Join</a></li></ul>
     </nav>
   </div><!-- /.navigation-wrapper -->
 
@@ -64,7 +64,7 @@
     
     
       
-        <div class="site-title animated fadeIn"><a href="/_site/">Steinbrenner Lab</a></div>
+        <div class="site-title animated fadeIn"><a href="/">Steinbrenner Lab</a></div>
       
       <p class="site-description animated fadeIn" itemprop="description">The University of Washington, Seattle</p>
     
@@ -154,7 +154,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 </footer>
 
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-  <script src="/_site/assets/js/main.min.js"></script>
+  <script src="/assets/js/main.min.js"></script>
   <script src="https://use.fontawesome.com/releases/v5.0.12/js/all.js"></script>
 
 
