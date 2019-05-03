@@ -31,8 +31,7 @@ markdown: kramdown
 #theme: jekyll-theme-so-simple
 plugins:
   - jekyll-feed
-paginate: 10  # amount of posts to show per page
-paginate_path: /page:num/
+logo: /images/logo.jpg
 remote_theme: "mmistakes/so-simple-theme"
 #collections: need to have output true to re-render each page!!
 collections:
