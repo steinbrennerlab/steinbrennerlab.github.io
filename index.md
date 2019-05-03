@@ -3,16 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: ""
 layout: page
-image:
-  path: /images/banner8.jpg
 ---
 
-<h1 id="page-title" class="page-title">Steinbrenner Lab, UW Seattle</h1>
-{: .text-center}
+![no-alignment]({{ '/images/banner8.jpg' | absolute_url }})
 
-# Exploring plant immune systems at the University of Washington
+<h1 id="page-title" class="page-title">Exploring plant immune systems at the University of Washington</h1>
 {: .text-center}
-
 
 <img src="/images/banner2.jpg" class="align-center" alt="" style="border: #000000 2px outset;">
 

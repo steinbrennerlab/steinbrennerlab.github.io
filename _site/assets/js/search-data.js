@@ -8,4 +8,9 @@ var store = [{
         "excerpt":"The lab website is up and running!  Check back for updates ","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/2019/05/02/launch.html"
+      },{
+        "title": "Some news",
+        "excerpt":"This is the first news post ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2019/05/02/test.html"
       }]
