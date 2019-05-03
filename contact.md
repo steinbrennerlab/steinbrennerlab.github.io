@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: Contact
+permalink: /contact/
 layout: page
 ---
 The lab is new and always looking for enthusiastic researchers!  Please contact with a brief cover letter if interested.
