@@ -6,7 +6,12 @@ image:
 layout: page
 ---
 
-Adam has been an Assistant Professor in the Department of Biology since 2019
+Adam will join the UW Department of Biology as an Assistant Professor in September 2019
+
+[//]: # (This is a markdown comment)
+[//]: # (Link to a bigger picture here, then BR CLEAR)
+<img src="/images/steinbrenner2.jpg" class="align-left" alt="">
+<BR CLEAR="left">
 
 ## Education
 
@@ -17,3 +22,4 @@ Adam has been an Assistant Professor in the Department of Biology since 2019
 
 Other information
 
+</span>

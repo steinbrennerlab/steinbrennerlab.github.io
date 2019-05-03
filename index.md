@@ -5,12 +5,12 @@ title: ""
 layout: page
 ---
 
-![no-alignment]({{ '/images/banner8.jpg' | absolute_url }})
+![no-alignment]({{ '/images/homepage1.jpg' | absolute_url }})
 
 <h1 id="page-title" class="page-title">Exploring plant immune systems at the University of Washington</h1>
 {: .text-center}
 
-<img src="/images/banner2.jpg" class="align-center" alt="" style="border: #000000 2px outset;">
+<img src="/images/homepage2.jpg" class="align-center" alt="" style="border: #000000 2px outset;">
 
 ### IMMUNE RECOGNITION BY PLANTS <br>
 {: .text-center}
@@ -19,7 +19,7 @@ We study the function and evolution of plant immune systems, focusing on front-l
 
 
 
-<img src="/images/banner6.jpg" class="align-center" alt="" style="border: #000000 2px outset;">
+<img src="/images/homepage3.jpg" class="align-center" alt="" style="border: #000000 2px outset;">
 
 ### MOLECULAR GENETICS OF PLANT IMMUNITY
 {: .text-center}
@@ -28,9 +28,18 @@ We use tools and approaches from genetics, genomics, biochemistry, and molecular
 
 
 
-<img src="/images/banner5.jpg" class="align-center" alt="" style="border: #000000 2px outset;">
+<img src="/images/homepage4.jpg" class="align-center" alt="" style="border: #000000 2px outset;">
 
 ### COMBATING PESTS IN AGRICULTURE
 {: .text-center}
 Our work inspires strategies to protect crops against emerging pests and pathogens
+{: .text-center}
+
+## Contact the lab:
+{: .text-center}
+### Adam Steinbrenner <br>
+{: .text-center}
+### astein10 /at/ uw.edu <br>
+{: .text-center}
+### @ADSteinbrenner
 {: .text-center}

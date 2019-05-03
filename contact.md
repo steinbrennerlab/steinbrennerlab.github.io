@@ -6,7 +6,10 @@ title: Contact
 permalink: /contact/
 layout: page
 ---
-The lab is new and always looking for enthusiastic researchers!  Please contact with a brief cover letter if interested.
+
+![no-alignment]({{ '/images/contact1.jpg' | absolute_url }})
+
+The lab is new and always looking for enthusiastic researchers!  Please write with a brief cover letter if interested.
 
 Adam Steinbrenner <br>
 astein10 /at/ uw.edu <br>

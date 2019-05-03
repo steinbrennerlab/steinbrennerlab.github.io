@@ -1,6 +1,6 @@
 var store = [{
         "title": "Adam Steinbrenner, Principal Investigator",
-        "excerpt":"Adam has been an Assistant Professor in the Department of Biology since 2019 Education PhD, Plant Biology University of California, Berkeley BS, Biology Tufts University Other Other information ","categories": [],
+        "excerpt":"Adam will join the UW Department of Biology as an Assistant Professor in September 2019  Education PhD, Plant Biology University of California, Berkeley BS, Biology Tufts University Other Other information &lt;/span&gt; ","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/people/steinbrenner.html"
       },{
@@ -8,9 +8,4 @@ var store = [{
         "excerpt":"The lab website is up and running!  Check back for updates ","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/2019/05/02/launch.html"
-      },{
-        "title": "Some news",
-        "excerpt":"This is the first news post ","categories": [],
-        "tags": [],
-        "url": "https://steinbrennerlab.org/2019/05/02/test.html"
       }]
