@@ -4,6 +4,7 @@
 
 title: News
 layout: page
+permalink: /news/
 #Add new blocks below for new news!
 #Write in markdown, see https://paperhive.org/help/markdown
 ---
