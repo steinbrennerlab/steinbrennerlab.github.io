@@ -2,7 +2,7 @@
 title: "Adam Steinbrenner, Principal Investigator"
 image: 
   path: /images/blank.jpg
-  thumbnail: /images/chocolate-chip-cookies-400x200.jpg
+  thumbnail: /images/steinbrenner1.jpg
 layout: page
 ---
 
