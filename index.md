@@ -12,18 +12,28 @@ image:
 <h2 id="page-title" class="page-title">Exploring plant immune systems at the University of Washington</h2>
 {: .text-center}
 
+
 <img src="/images/banner2.jpg" class="align-center" alt="" style="border: #000000 2px outset;">
 
-## Immune Recognition by Plants <br>
+### IMMUNE RECOGNITION BY PLANTS <br>
 {: .text-center}
+We study the function and evolution of plant immune systems, focusing on front-line receptors to detect threats
+{: .text-center}
+
+
 
 <img src="/images/banner6.jpg" class="align-center" alt="" style="border: #000000 2px outset;">
 
-## Molecular Genetics of Plant Immunity
+### MOLECULAR GENETICS OF PLANT IMMUNITY
 {: .text-center}
+We use tools and approaches from genetics, genomics, biochemistry, and molecular biology to study immunity in crops and model plant species
+{: .text-center}
+
+
 
 <img src="/images/banner5.jpg" class="align-center" alt="" style="border: #000000 2px outset;">
 
-## Combating Pests in Agriculture
+### COMBATING PESTS IN AGRICULTURE
 {: .text-center}
-
+Our work inspires strategies to protect crops against emerging pests and pathogens
+{: .text-center}

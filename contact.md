@@ -8,6 +8,6 @@ layout: page
 ---
 The lab is new and always looking for enthusiastic researchers!  Please contact with a brief cover letter if interested.
 
-Adam Steinbrenner
-astein10 /at/ uw.edu
+Adam Steinbrenner <br>
+astein10 /at/ uw.edu <br>
 @ADSteinbrenner
