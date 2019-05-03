@@ -4,12 +4,13 @@
 title: ""
 layout: page
 image:
-  path: /images/banner8_alt.jpg
+  path: /images/banner8.jpg
 ---
 
+<h1 id="page-title" class="page-title">Steinbrenner Lab, UW Seattle</h1>
+{: .text-center}
 
-
-<h2 id="page-title" class="page-title">Exploring plant immune systems at the University of Washington</h2>
+# Exploring plant immune systems at the University of Washington
 {: .text-center}
 
 
