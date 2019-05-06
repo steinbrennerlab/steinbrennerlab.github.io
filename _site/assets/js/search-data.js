@@ -1,6 +1,6 @@
 var store = [{
         "title": "Adam Steinbrenner, Principal Investigator",
-        "excerpt":"Adam will join the UW Department of Biology as an Assistant Professor in September 2019  Education PhD, Plant Biology University of California, Berkeley BS, Biology Tufts University Other Other information &lt;/span&gt; ","categories": [],
+        "excerpt":"Adam will join the UW Department of Biology as an Assistant Professor in September 2019 Experience HHMI and UC President’s Postdoctoral Fellow, University of California, San Diego (2016-2019) PhD, Plant Biology University of California, Berkeley BS, Biology Tufts University Projects I am fascinated by the plant immune system and its...","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/people/steinbrenner.html"
       },{
