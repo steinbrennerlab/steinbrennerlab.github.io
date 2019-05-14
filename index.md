@@ -35,6 +35,8 @@ We use tools and approaches from genetics, genomics, biochemistry, and molecular
 Our work inspires strategies to protect crops against emerging pests and pathogens
 {: .text-center}
 
+<img src="/images/homepage5.jpg" class="align-center" alt="" style="border: #000000 2px outset;">
+
 ## Contact the lab:
 {: .text-center}
 ### Adam Steinbrenner <br>
