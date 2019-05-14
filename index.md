@@ -10,7 +10,7 @@ layout: page
 <h1 id="page-title" class="page-title">Exploring plant immune systems at the University of Washington</h1>
 {: .text-center}
 
-<img src="/images/homepage2.jpg" class="align-center" alt="" style="border: #000000 2px outset;">
+<img src="/images/homepage2.jpg" class="align-center" alt="" style="border: #000000 2px solid;">
 
 ### IMMUNE RECOGNITION BY PLANTS <br>
 {: .text-center}
@@ -19,7 +19,7 @@ We study the function and evolution of plant immune systems, focusing on front-l
 
 
 
-<img src="/images/homepage3.jpg" class="align-center" alt="" style="border: #000000 2px outset;">
+<img src="/images/homepage3.jpg" class="align-center" alt="" style="border: #000000 2px solid;">
 
 ### MOLECULAR GENETICS OF PLANT IMMUNITY
 {: .text-center}
@@ -28,14 +28,14 @@ We use tools and approaches from genetics, genomics, biochemistry, and molecular
 
 
 
-<img src="/images/homepage4.jpg" class="align-center" alt="" style="border: #000000 2px outset;">
+<img src="/images/homepage4.jpg" class="align-center" alt="" style="border: #000000 2px solid;">
 
 ### COMBATING PESTS IN AGRICULTURE
 {: .text-center}
 Our work inspires strategies to protect crops against emerging pests and pathogens
 {: .text-center}
 
-<img src="/images/homepage5.jpg" class="align-center" alt="" style="border: #000000 2px outset;">
+<img src="/images/homepage5.jpg" class="align-center" alt="" style="border: #000000 2px solid;">
 
 ## Contact the lab:
 {: .text-center}
