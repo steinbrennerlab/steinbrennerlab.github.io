@@ -45,6 +45,8 @@ footer_links:
     url: https://github.com/steinbrennerlab
     icon: fab fa-github-square
 
+# Google Analytics
+google_analytics: UA—59952122-2
 
 copyright: "Copyright 2019, Steinbrenner Lab"
 # Exclude from processing.
