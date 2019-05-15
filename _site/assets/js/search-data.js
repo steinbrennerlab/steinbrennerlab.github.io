@@ -10,7 +10,7 @@ var store = [{
         "url": "https://steinbrennerlab.org/2019/05/02/launch.html"
       },{
         "title": "Hiring Research Technologist 1",
-        "excerpt":"We are hiring a research technologist to take on a variety of research and management roles as the lab gets going.  Please see UW Hires for the job ad and here for the flyer ","categories": [],
+        "excerpt":"We are hiring a research technologist to take on a variety of research and management roles as the lab gets going.  Please see UW Hires for the official job ad and here for the flyer (including how to apply) ","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/2019/05/13/technician.html"
       }]

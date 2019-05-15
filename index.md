@@ -40,6 +40,10 @@ Our work inspires strategies to protect crops against emerging pests and pathoge
 
 <br>
 
+---
+
+<br>
+
 <h1 id="contact" class="page-title">Contact the lab</h1>
 {: .text-center}
 ### Adam Steinbrenner <br>
@@ -48,6 +52,10 @@ Our work inspires strategies to protect crops against emerging pests and pathoge
 {: .text-center}
 ### @ADSteinbrenner
 {: .text-center}
+
+<br>
+
+---
 
 <br>
 <h1 id="latest news" class="page-title">Latest news</h1>
