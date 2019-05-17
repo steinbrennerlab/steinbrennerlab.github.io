@@ -6,11 +6,11 @@ layout: home
 posts_limit: 1
 ---
 
+
 <img src="/images/homepage1.jpg" class="align-center" alt="" style="border: #000000 1px solid;">
 
-<h1 class="entry-title p-name">Exploring plant immune systems at the University of Washington</h1>
+<h1 class="page-title">Exploring plant immune systems at the University of Washington</h1>
 {: .text-center}
-<br>
 
 <img src="/images/homepage2.jpg" class="align-center" alt="" style="border: #000000 1px solid;">
 

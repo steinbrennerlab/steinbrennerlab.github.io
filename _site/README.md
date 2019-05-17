@@ -1,7 +1,7 @@
-# steinbrennerlab.github.io
+# [http://steinbrennerlab.org](http://steinbrennerlab.org)
 The Steinbrenner lab webpage uses So Simple, a Jekyll theme https://github.com/mmistakes/so-simple-theme/tree/master/docs.  It is hosted by Github pages.  
 
-Most pages are static html.  Content is added to the "News" or "People" pages by creating .md files within the posts and people subfolders, respectively, then rebuilding the webpage in jekyll 
+Content is added to the "News" or "People" pages by creating .md files within the posts and people subfolders, respectively, then rebuilding the webpage in jekyll 
 ```bundle exec jekyll b```
 and pushing edits to github.  
 
