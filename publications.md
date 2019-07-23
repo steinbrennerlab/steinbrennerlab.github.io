@@ -10,6 +10,8 @@ permalink: /publications/
 <div class="paragraph"><span style="color:rgb(102, 102, 102)">
 <strong>For an up-to-date list, see </strong></span><a href="https://scholar.google.com/citations?user=CVyh4joAAAAJ&hl=en">Google Scholar</a><span style="color:rgb(102, 102, 102)"></span><br /><br />
 
+(0) <strong style="color:rgb(102, 102, 102)">Steinbrenner, A.D.</strong><span style="color:rgb(102, 102, 102)">,Maria Muñoz-Amatriaín, Jessica Montserrat Aguilar Venegas, Sassoum Lo, Da Shi, Nicholas Holton, Cyril Zipfel, Ruben Abagyan, Alisa Huffaker, Timothy J. Close, Eric A. Schmelz. 2019. A receptor for herbivore-associated molecular patterns mediates plant immunity. BioRxiv. <a href="https://www.biorxiv.org/content/10.1101/679803v1">link</a><br /><br />
+
 (1)&nbsp;Schultink, A., Qi, T., Lee, A.,&nbsp;<strong style="color:rgb(102, 102, 102)">Steinbrenner, A.D.</strong><span style="color:rgb(102, 102, 102)">, Staskawicz, B. &nbsp;2017. &nbsp;Roq1 mediates recognition of the Xanthomonas and Pseudomonas effector proteins XopQ and HopQ1. &nbsp;The Plant Journal. &nbsp;DOI: 10.1111/tpj.13715</span><br /><br />
 
 <span style="color:rgb(102, 102, 102)">(2) Goritschnig, S.*,&nbsp;<strong>Steinbrenner, A.D.*</strong>, Grunwald, D.J., Staskawicz, B.J.&nbsp; 2016.&nbsp;&nbsp;</span><span style="color:rgb(102, 102, 102)">Structurally Distinct Arabidopsis thaliana NLR immune receptors recognize tandem WY domains of an oomycete effector.&nbsp; New Phytologist.&nbsp; DOI: 10.1111/nph.13823 (</span><a href="https://drive.google.com/open?id=0B7L6E_qjKUdXRjZWMF9BbW5sTTA">pdf</a><span style="color:rgb(102, 102, 102)">)</span><span style="color:rgb(102, 102, 102)">&nbsp;*contributed equally<br /><br />
