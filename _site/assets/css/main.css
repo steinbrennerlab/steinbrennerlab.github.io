@@ -481,7 +481,7 @@ tr, td, th { vertical-align: middle; }
 .author-link a { text-decoration: none; }
 
 /* ========================================================================== Entries (Posts, collection documents, etc.) ========================================================================== */
-.entry { clear: both; }
+.entry { clear: both; position: relative; }
 .entry::after { clear: both; content: ""; display: table; }
 .entry a { color: inherit; }
 .entry a:hover { color: #34374C; }
@@ -490,11 +490,14 @@ tr, td, th { vertical-align: middle; }
 
 .entry-title { margin-bottom: 0.5rem; font-family: "Lora", serif; font-weight: bold; font-style: italic; letter-spacing: -1px; word-wrap: break-word; /* break long words that could overflow */ }
 .entry-title a { text-decoration: none; }
+.entry-title a[rel="bookmark"]::before { content: ''; position: absolute; left: 0; top: 0; right: 0; bottom: 0; }
 
 .entry-image { -webkit-box-ordinal-group: 0; -ms-flex-order: -1; order: -1; width: 100%; margin-bottom: 0.5rem; }
 
 .entry-meta .entry-date, .entry-meta .read-time { font-family: "Lora", serif; font-style: italic; white-space: nowrap; }
 .entry-meta .read-time + .entry-date::before { content: "\2022"; padding: 0 0.5em; }
+
+.entry-excerpt a, .u-bookmark-of { position: relative; z-index: 10; }
 
 /* Entries List Layout ========================================================================== */
 .entries-list .entry { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; margin-bottom: 2rem; }
