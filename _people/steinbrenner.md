@@ -2,18 +2,19 @@
 title: "Adam Steinbrenner, Principal Investigator"
 image: 
   path: /images/blank.jpg
+#Provide a landscape-format thumbnail image, 300 x 400 pixels.
   thumbnail: /images/steinbrenner1.jpg
 layout: page
-#Give a date and collections page will sort by seniority!
+#Give your start date below.  Collections page will sort by seniority
 date: 2019-04-01
 ---
 
 Adam will join the UW Department of Biology as an Assistant Professor in September 2019
+[//]: # (The text directly above will appear in the People page as well as your main page, https://steinbrennerlab.org/people/YourLastName.html)
 
-[//]: # (This is a markdown comment)
-[//]: # (The text above will be a preview page)
-[//]: # (For a new page, place a link to a bigger picture here, then BR CLEAR)
+[//]: # (To use a larger image for your main page provide one to Adam, otherwise I will just repeat your thumbnail image)
 <img src="/images/steinbrenner2.jpg" class="align-left" alt="">
+
 <BR CLEAR="left">
 
 ## Experience
