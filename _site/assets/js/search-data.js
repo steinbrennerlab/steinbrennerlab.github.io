@@ -35,7 +35,7 @@ var store = [{
         "url": "https://steinbrennerlab.org/2019/09/03/antonio_joins.html"
       },{
         "title": "Fall conference: APACE",
-        "excerpt":"Adam will attend the 10th Conference of the Asia-Pacific Association of Chemical Ecologists and will present in Session 3: “Signaling and Perception in Plant-Herbivore Interactions.” Say hello if you are also attending, and come to hear about INR and our future plans to understand evolution of immune recognition across bean...","categories": [],
+        "excerpt":"Prof. Steinbrenner will attend the 10th Conference of the Asia-Pacific Association of Chemical Ecologists in Hangzhou, China. He will present in Session 3: “Signaling and Perception in Plant-Herbivore Interactions.” Say hello if you are also attending, and come to hear about INR and our future plans to understand evolution of...","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/2019/09/13/APACE_2019.html"
       }]
