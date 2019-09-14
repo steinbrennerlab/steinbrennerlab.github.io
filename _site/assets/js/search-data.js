@@ -28,4 +28,14 @@ var store = [{
         "excerpt":"We will present our INR preprint and other transcriptomic and genomic follow-ups at MPMI in Glasgow and ASPB in San Jose Aug 3-7 https://aspb.org/event/plant-biology-2019/  ","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/2019/07/23/conferences.html"
+      },{
+        "title": "Antonio Chaparro joins the lab",
+        "excerpt":"The lab’s first official member has joined!  Antonio will join as a technician.  Heis a recent graduate of the UW and comes in with experience in plant molecular genetics from his undergraduate research.  Welcome Antonio! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2019/09/03/antonio_joins.html"
+      },{
+        "title": "Fall conference: APACE",
+        "excerpt":"Adam will attend the 10th Conference of the Asia-Pacific Association of Chemical Ecologists and will present in Session 3: “Signaling and Perception in Plant-Herbivore Interactions.” Say hello if you are also attending, and come to hear about INR and our future plans to understand evolution of immune recognition across bean...","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2019/09/13/APACE_2019.html"
       }]
