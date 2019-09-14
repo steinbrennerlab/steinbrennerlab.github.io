@@ -4,6 +4,11 @@ var store = [{
         "tags": [],
         "url": "https://steinbrennerlab.org/people/steinbrenner.html"
       },{
+        "title": "Antonio Chaparro, Research Technologist",
+        "excerpt":"Antonio joined the lab in September 2019  ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/people/chaparro.html"
+      },{
         "title": "Lab website launched",
         "excerpt":"The lab website is up and running!  Check back for updates ","categories": [],
         "tags": [],

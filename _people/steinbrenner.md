@@ -10,10 +10,18 @@ date: 2019-04-01
 ---
 
 Adam will join the UW Department of Biology as an Assistant Professor in September 2019
-[//]: # (The text directly above will appear in the People page as well as your main page, https://steinbrennerlab.org/people/YourLastName.html)
 
-[//]: # (To use a larger image for your main page provide one to Adam, otherwise I will just repeat your thumbnail image)
+{% comment %}
+The text directly above will appear in the People page as well as your main page, https://steinbrennerlab.org/people/YourLastName.html
+{% endcomment %}
+
+
 <img src="/images/steinbrenner2.jpg" class="align-left" alt="">
+
+{% comment %}
+(To use a larger image for your main page provide one to Adam, otherwise I will just repeat your thumbnail image)
+{% endcomment %}
+
 
 <BR CLEAR="left">
 
