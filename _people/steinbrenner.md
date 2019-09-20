@@ -9,7 +9,7 @@ layout: page
 date: 2019-04-01
 ---
 
-Adam will join the UW Department of Biology as an Assistant Professor in September 2019
+Prof. Steinbrenner joined the UW Department of Biology in September 2019
 
 {% comment %}
 The text directly above will appear in the People page as well as your main page, https://steinbrennerlab.org/people/YourLastName.html
@@ -24,6 +24,8 @@ The text directly above will appear in the People page as well as your main page
 
 
 <BR CLEAR="left">
+
+## Curriculum vitae -- <a href="https://github.com/steinbrennerlab/cv/raw/master/Steinbrenner_CV.pdf"> Steinbrenner_CV.pdf</a>
 
 ## Experience
 **HHMI and UC President's Postdoctoral Fellow**, University of California, San Diego (2016-2019) <br>
