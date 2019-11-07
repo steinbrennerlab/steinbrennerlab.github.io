@@ -9,6 +9,11 @@ var store = [{
         "tags": [],
         "url": "https://steinbrennerlab.org/people/chaparro.html"
       },{
+        "title": "Ava Kloss-Schmidt, Undergraduate Researcher",
+        "excerpt":"Ava joined the lab in September 2019 Ava is an undergraduate studying Plant Biology at UW. She joined the Steinbrenner lab in October 2019 and is excited to learn more about working with plants in a lab setting. Her favorite place in Seattle is the Volunteer Park Conservatory and she...","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/people/kloss-schmidt.html"
+      },{
         "title": "Lab website launched",
         "excerpt":"The lab website is up and running!  Check back for updates ","categories": [],
         "tags": [],
