@@ -9,8 +9,6 @@ layout: page
 date: 2019-09-01
 ---
 
-Ava joined the lab in September 2019
-
 {% comment %}
 The text directly above will appear in the People page as well as your main page, https://steinbrennerlab.org/people/YourLastName.html
 {% endcomment %}

@@ -9,7 +9,7 @@ layout: page
 date: 2019-04-01
 ---
 
-Prof. Steinbrenner joined the UW Department of Biology in September 2019
+astein10 /at/ uw.edu
 
 {% comment %}
 The text directly above will appear in the People page as well as your main page, https://steinbrennerlab.org/people/YourLastName.html
@@ -24,6 +24,8 @@ The text directly above will appear in the People page as well as your main page
 
 
 <BR CLEAR="left">
+
+Adam Steinbrenner joined the UW Department of Biology in September 2019.
 
 ## Curriculum vitae -- <a href="https://github.com/steinbrennerlab/cv/raw/master/Steinbrenner_CV.pdf"> Steinbrenner_CV.pdf</a>
 
