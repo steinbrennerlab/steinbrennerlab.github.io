@@ -5,7 +5,7 @@ var store = [{
         "url": "https://steinbrennerlab.org/people/steinbrenner.html"
       },{
         "title": "Antonio Chaparro, Research Technologist",
-        "excerpt":"Antonio joined the lab in September 2019  ","categories": [],
+        "excerpt":"Antonio joined the lab in September 2019   Tonio joined the lab in September 2019 after graduating from UW where he studied Molecular Biology and Environmental Science. He’s excited to continue growing plants and studying their complex immune systems! He also enjoys gardening, backpacking, and basketball. ","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/people/chaparro.html"
       },{
