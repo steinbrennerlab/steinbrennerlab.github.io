@@ -9,6 +9,11 @@ var store = [{
         "tags": [],
         "url": "https://steinbrennerlab.org/people/chaparro.html"
       },{
+        "title": "Anthony Garcia, Undergraduate Researcher",
+        "excerpt":"  Anthony is an undergraduate studying Plant Biology who joined the lab in October 2019. He loves learning about plant physiology, especially how plants respond to herbivores and pathogens, and also enjoys running, finding interesting music, and eating Polish and Mexican food. ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/people/garcia.html"
+      },{
         "title": "Ava Kloss-Schmidt, Undergraduate Researcher",
         "excerpt":"Ava is an undergraduate studying Plant Biology at UW. She joined the Steinbrenner lab in October 2019 and is excited to learn more about working with plants in a lab setting. Her favorite place in Seattle is the Volunteer Park Conservatory and she would spend all her time in a...","categories": [],
         "tags": [],
