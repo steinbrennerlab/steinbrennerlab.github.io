@@ -19,6 +19,11 @@ var store = [{
         "tags": [],
         "url": "https://steinbrennerlab.org/people/kloss-schmidt.html"
       },{
+        "title": "Simon Snoeck, Postdoctoral Researcher",
+        "excerpt":"spsnoeck /at/ uw.edu ##ExperienceBS, MA and Doctor of Bioscience Engineering, Ghent university ##InterestsMy PhD research focused on genetic and molecular mechanisms of pesticide resistance and long-term host plant acclimation of the generalist herbivore Tetranychus urticae. Throughout my studies, my interests gradually evolved and extended beyond arthropods. I am particularly interested...","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/people/snoeck.html"
+      },{
         "title": "Lab website launched",
         "excerpt":"The lab website is up and running!  Check back for updates ","categories": [],
         "tags": [],
