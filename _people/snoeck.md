@@ -23,9 +23,9 @@ The text directly above will appear in the People page as well as your main page
 (To use a larger image for your main page provide one to Adam, otherwise I will just repeat your thumbnail image)
 {% endcomment %}
 
-##Experience
-BS, MA and Doctor of Bioscience Engineering, Ghent university
+## Experience
+BS, MS and Doctor of Bioscience Engineering, Ghent university
 
-##Interests
+## Interests
 My PhD research focused on genetic and molecular mechanisms of pesticide resistance and long-term host plant acclimation of the generalist herbivore Tetranychus urticae. Throughout my studies, my interests gradually evolved and extended beyond arthropods. I am particularly interested in broad questions at the intersection of herbivores and host plants, and how these interactions transcend multiple scales of biology: molecular, cellular and ecological.
 As a boyscout, I love spending time outdoors while performing physical activities. Occasionally, I participate in triathlon competitions.
