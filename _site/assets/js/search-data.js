@@ -20,7 +20,7 @@ var store = [{
         "url": "https://steinbrennerlab.org/people/kloss-schmidt.html"
       },{
         "title": "Simon Snoeck, Postdoctoral Researcher",
-        "excerpt":"spsnoeck /at/ uw.edu ##ExperienceBS, MA and Doctor of Bioscience Engineering, Ghent university ##InterestsMy PhD research focused on genetic and molecular mechanisms of pesticide resistance and long-term host plant acclimation of the generalist herbivore Tetranychus urticae. Throughout my studies, my interests gradually evolved and extended beyond arthropods. I am particularly interested...","categories": [],
+        "excerpt":"spsnoeck /at/ uw.edu Experience BS, MS and Doctor of Bioscience Engineering, Ghent university Interests My PhD research focused on genetic and molecular mechanisms of pesticide resistance and long-term host plant acclimation of the generalist herbivore Tetranychus urticae. Throughout my studies, my interests gradually evolved and extended beyond arthropods. I am...","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/people/snoeck.html"
       },{
