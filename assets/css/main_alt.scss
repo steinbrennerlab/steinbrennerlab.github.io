@@ -1,0 +1,40 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+sitemap: false
+---
+
+@charset "utf-8";
+
+@import "so-simple";
+
+// Customized scss below
+
+$serif-font-family: "Lora", serif;
+$sans-serif-font-family: "Source Sans Pro", sans-serif;
+$monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier,
+  monospace;
+
+$base-font-family: $sans-serif-font-family;
+$headline-font-family: $sans-serif-font-family;
+$title-font-family: $serif-font-family;
+$description-font-family: $serif-font-family;
+$meta-font-family: $serif-font-family;
+
+// Make page titles smaller
+.page-title {
+  @include fluid-type($min-vw, $max-vw, 36px, 36px);
+  margin-bottom: 0.5em;
+  font-family: $title-font-family;
+  font-weight: $page-title-weight;
+  font-style: normal;
+  letter-spacing: -2px;
+}
+
+
+.entry-title {
+    @include fluid-type($min-vw, $max-vw, 18px, 24px);
+    -webkit-box-ordinal-group: 2;
+    -ms-flex-order: 1;
+    order: 1;
+	font-style: normal;
+  }

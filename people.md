@@ -6,5 +6,6 @@ title: People
 layout: collection
 collection: people
 entries_layout: grid
+
 permalink: /people/
 ---

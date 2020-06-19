@@ -3,7 +3,7 @@ title: "Adam Steinbrenner, Principal Investigator"
 image: 
   path: /images/blank.jpg
 #Provide a landscape-format thumbnail image, 300 x 400 pixels.
-  thumbnail: /images/steinbrenner1.jpg
+  thumbnail: /images/steinbrenner3.jpg
 layout: page
 #Give your start date below.  Collections page will sort by seniority
 date: 2019-04-01
