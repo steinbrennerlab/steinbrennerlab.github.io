@@ -849,7 +849,7 @@ figure.align-center figcaption { text-align: center; }
 
 .responsive-embed-1by1::before { padding-top: 100%; }
 
-.page-title { margin-bottom: 0.5em; font-family: "Lora", serif; font-weight: bold; font-style: normal; letter-spacing: -2px; }
+.page-title { margin-bottom: 0.5em; font-family: "Lora", serif; font-weight: normal; font-style: normal; letter-spacing: -2px; }
 .page-title { font-size: 36px; }
 @media screen and (min-width: 320px) { .page-title { font-size: calc(36px + 0 * ((100vw - 320px) / 960)); } }
 @media screen and (min-width: 1280px) { .page-title { font-size: 36px; } }

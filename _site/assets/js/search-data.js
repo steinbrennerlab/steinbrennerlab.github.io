@@ -1,5 +1,5 @@
 var store = [{
-        "title": "Adam Steinbrenner, Principal Investigator",
+        "title": "Adam Steinbrenner <br> Principal Investigator",
         "excerpt":"astein10 /at/ uw.edu Adam Steinbrenner joined the UW Department of Biology in September 2019. Curriculum vitae – Steinbrenner_CV.pdf Experience HHMI and UC President’s Postdoctoral Fellow, University of California, San Diego (2016-2019) PhD, Plant Biology University of California, Berkeley BS, Biology Tufts University Projects I am fascinated by the plant immune...","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/people/steinbrenner.html"

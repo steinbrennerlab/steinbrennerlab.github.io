@@ -1,5 +1,5 @@
 ---
-title: "Adam Steinbrenner, Principal Investigator"
+title: "Adam Steinbrenner <br> Principal Investigator"
 image: 
   path: /images/blank.jpg
 #Provide a landscape-format thumbnail image, 300 x 400 pixels.

@@ -14,7 +14,7 @@ posts_limit: 2
 
 <img src="/images/homepage2.jpg" class="align-center" alt="" style="border: #000000 1px solid;">
 
-### IMMUNE RECOGNITION BY PLANTS <br>
+<h3 class="entry-title" style="text-align:center;font-weight:bold">Immune Recognition in Plants </h3>
 {: .text-center}
 We study the function and evolution of plant immune systems, focusing on front-line receptors to detect threats
 {: .text-center}
@@ -23,7 +23,7 @@ We study the function and evolution of plant immune systems, focusing on front-l
 
 <img src="/images/homepage3.jpg" class="align-center" alt="" style="border: #000000 1px solid;">
 
-### MOLECULAR GENETICS OF PLANT IMMUNITY
+<h3 class="entry-title" style="text-align:center;font-weight:bold">Molecular Genetics of Plant Immunity</h3>
 {: .text-center}
 We use tools and approaches from genetics, genomics, biochemistry, and molecular biology to study immunity in crops and model plant species
 {: .text-center}
@@ -32,7 +32,7 @@ We use tools and approaches from genetics, genomics, biochemistry, and molecular
 
 <img src="/images/homepage4.jpg" class="align-center" alt="" style="border: #000000 1px solid;">
 
-### COMBATING PESTS IN AGRICULTURE
+<h3 class="entry-title" style="text-align:center;font-weight:bold">Combating Pests in Agriculture</h3>
 {: .text-center}
 Our work inspires strategies to protect crops against emerging pests and pathogens
 {: .text-center}

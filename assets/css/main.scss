@@ -14,7 +14,7 @@ sitemap: false
   @include fluid-type($min-vw, $max-vw, 36px, 36px);
   margin-bottom: 0.5em;
   font-family: $title-font-family;
-  font-weight: $page-title-weight;
+  font-weight: normal;
   font-style: normal;
   letter-spacing: -2px;
 }
