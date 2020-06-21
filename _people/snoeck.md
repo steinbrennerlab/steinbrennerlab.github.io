@@ -1,5 +1,5 @@
 ---
-title: "Simon Snoeck, Postdoctoral Researcher"
+title: "Simon Snoeck"
 image: 
   path: /images/blank.jpg
 #Provide a landscape-format thumbnail image, 300 x 400 pixels.
@@ -9,6 +9,7 @@ layout: page
 date: 2019-11-16
 ---
 
+Postdoctoral Researcher <br>
 spsnoeck /at/ uw.edu
 
 {% comment %}

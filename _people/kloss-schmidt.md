@@ -1,5 +1,5 @@
 ---
-title: "Ava Kloss-Schmidt, Undergraduate Researcher"
+title: "Ava Kloss-Schmidt"
 image: 
   path: /images/blank.jpg
 #Provide a landscape-format thumbnail image, 300 x 400 pixels.
@@ -8,6 +8,8 @@ layout: page
 #Give your start date below.  Collections page will sort by seniority
 date: 2019-09-01
 ---
+
+Undergraduate Researcher
 
 {% comment %}
 The text directly above will appear in the People page as well as your main page, https://steinbrennerlab.org/people/YourLastName.html

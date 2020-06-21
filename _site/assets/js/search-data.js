@@ -1,26 +1,26 @@
 var store = [{
-        "title": "Adam Steinbrenner <br> Principal Investigator",
-        "excerpt":"astein10 /at/ uw.edu Adam Steinbrenner joined the UW Department of Biology in September 2019. Curriculum vitae – Steinbrenner_CV.pdf Experience HHMI and UC President’s Postdoctoral Fellow, University of California, San Diego (2016-2019) PhD, Plant Biology University of California, Berkeley BS, Biology Tufts University Projects I am fascinated by the plant immune...","categories": [],
+        "title": "Adam Steinbrenner",
+        "excerpt":"Principal Investigator astein10 /at/ uw.edu test Adam Steinbrenner joined the UW Department of Biology in September 2019. Curriculum vitae – Steinbrenner_CV.pdf Experience HHMI and UC President’s Postdoctoral Fellow, University of California, San Diego (2016-2019) PhD, Plant Biology University of California, Berkeley BS, Biology Tufts University Projects I am fascinated by...","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/people/steinbrenner.html"
       },{
-        "title": "Antonio Chaparro, Research Technologist",
-        "excerpt":"chaparro /at/ uw.edu   Tonio joined the lab in September 2019 after graduating from UW where he studied Molecular Biology and Environmental Science. He’s excited to continue growing plants and studying their complex immune systems! He also enjoys gardening, backpacking, and basketball. ","categories": [],
+        "title": "Antonio Chaparro",
+        "excerpt":"Research Technologist chaparro /at/ uw.edu   Tonio joined the lab in September 2019 after graduating from UW where he studied Molecular Biology and Environmental Science. He’s excited to continue growing plants and studying their complex immune systems! He also enjoys gardening, backpacking, and basketball. ","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/people/chaparro.html"
       },{
-        "title": "Anthony Garcia, Undergraduate Researcher",
-        "excerpt":"  Anthony is an undergraduate studying Plant Biology who joined the lab in October 2019. He loves learning about plant physiology, especially how plants respond to herbivores and pathogens, and also enjoys running, finding interesting music, and eating Polish and Mexican food. ","categories": [],
+        "title": "Anthony Garcia",
+        "excerpt":"Undergraduate Researcher   Anthony is an undergraduate studying Plant Biology who joined the lab in October 2019. He loves learning about plant physiology, especially how plants respond to herbivores and pathogens, and also enjoys running, finding interesting music, and eating Polish and Mexican food. ","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/people/garcia.html"
       },{
-        "title": "Ava Kloss-Schmidt, Undergraduate Researcher",
-        "excerpt":"Ava is an undergraduate studying Plant Biology at UW. She joined the Steinbrenner lab in October 2019 and is excited to learn more about working with plants in a lab setting. Her favorite place in Seattle is the Volunteer Park Conservatory and she would spend all her time in a...","categories": [],
+        "title": "Ava Kloss-Schmidt",
+        "excerpt":"Undergraduate Researcher Ava is an undergraduate studying Plant Biology at UW. She joined the Steinbrenner lab in October 2019 and is excited to learn more about working with plants in a lab setting. Her favorite place in Seattle is the Volunteer Park Conservatory and she would spend all her time...","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/people/kloss-schmidt.html"
       },{
-        "title": "Simon Snoeck, Postdoctoral Researcher",
-        "excerpt":"spsnoeck /at/ uw.edu Experience BS, MS and Doctor of Bioscience Engineering, Ghent university Interests My PhD research focused on genetic and molecular mechanisms of pesticide resistance and long-term host plant acclimation of the generalist herbivore Tetranychus urticae. Throughout my studies, my interests gradually evolved and extended beyond arthropods. I am...","categories": [],
+        "title": "Simon Snoeck",
+        "excerpt":"Postdoctoral Researcher spsnoeck /at/ uw.edu Experience BS, MS and Doctor of Bioscience Engineering, Ghent university Interests My PhD research focused on genetic and molecular mechanisms of pesticide resistance and long-term host plant acclimation of the generalist herbivore Tetranychus urticae. Throughout my studies, my interests gradually evolved and extended beyond arthropods....","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/people/snoeck.html"
       },{

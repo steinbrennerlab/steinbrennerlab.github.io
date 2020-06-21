@@ -1,5 +1,5 @@
 ---
-title: "Adam Steinbrenner <br> Principal Investigator"
+title: Adam Steinbrenner
 image: 
   path: /images/blank.jpg
 #Provide a landscape-format thumbnail image, 300 x 400 pixels.
@@ -9,8 +9,10 @@ layout: page
 date: 2019-04-01
 ---
 
-astein10 /at/ uw.edu
+Principal Investigator <br>
+astein10 /at/ uw.edu <br>
 
+test
 {% comment %}
 The text directly above will appear in the People page as well as your main page, https://steinbrennerlab.org/people/YourLastName.html
 {% endcomment %}

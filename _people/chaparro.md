@@ -1,5 +1,5 @@
 ---
-title: "Antonio Chaparro, Research Technologist"
+title: "Antonio Chaparro"
 image: 
   path: /images/blank.jpg
 #Provide a landscape-format thumbnail image, 300 x 400 pixels.
@@ -9,6 +9,7 @@ layout: page
 date: 2019-09-01
 ---
 
+Research Technologist <br>
 chaparro /at/ uw.edu
 
 {% comment %}
