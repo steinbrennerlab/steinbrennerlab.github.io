@@ -12,7 +12,6 @@ date: 2019-04-01
 Principal Investigator <br>
 astein10 /at/ uw.edu <br>
 
-test
 {% comment %}
 The text directly above will appear in the People page as well as your main page, https://steinbrennerlab.org/people/YourLastName.html
 {% endcomment %}
@@ -38,6 +37,6 @@ Adam Steinbrenner joined the UW Department of Biology in September 2019.
 
 ## Projects
 
-I am fascinated by the plant immune system and its unique challenges.  Plants face would-be parasitism from arthropods, bacteria, viruses, fungi/oomycetes, nematodes etc, but the vast majority of interactions instead lead to a successful immune response.  Receptors are germline encoded and form a finite repertoire; how do plants recognize a limitless variety of threats?  Specialized defense responses can be mutually antagonistic; how does resistance activate against to different pest classes (e.g. chewing herbivory/necrotrophy vs piercing herbivory/biotrophy).  Receptors and their concordant responses are often limited to certain plant clades; how do these new recognition capacities evolve?
+I am fascinated by the plant immune system and its unique challenges.  Plants face would-be parasitism from arthropods, bacteria, viruses, fungi/oomycetes, nematodes etc, but the vast majority of interactions instead lead to a successful immune response.  Receptors are germline encoded and form a finite repertoire; how do plants recognize a limitless variety of threats?  Specialized defense responses can be mutually antagonistic; how does resistance activate against different pest classes (e.g. chewing herbivory/necrotrophy vs piercing herbivory/biotrophy)?  Receptors and their concordant responses are often limited to certain plant clades; how do these new recognition capacities evolve?
 
 In free time I'm a runner, hiker, baseball fan, and amateur home cook
