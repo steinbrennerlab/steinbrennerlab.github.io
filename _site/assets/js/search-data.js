@@ -27,7 +27,7 @@ var store = [{
         "title": "Natalia Guayazan Palacios",
         "excerpt":"Graduate Student nguaya /at/ uw.edu Natalia joined the UW Department of Biology in September 2019. Experience BS Microbiology, MS Biological Sciences, MS Computational Biology. Universidad de Los Andes. Bogotá, Colombia Interests My MS research was focused on cell and transcriptional changes that plant pathogens undergo during host colonization, and population...","categories": [],
         "tags": [],
-        "url": "https://steinbrennerlab.org/people/guayazan.html"
+        "url": "https://steinbrennerlab.org/people/guayazan_palacios.html"
       },{
         "title": "Lab website launched",
         "excerpt":"The lab website is up and running!  Check back for updates ","categories": [],
