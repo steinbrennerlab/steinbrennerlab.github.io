@@ -58,4 +58,14 @@ var store = [{
         "excerpt":"Prof. Steinbrenner will attend the 10th Conference of the Asia-Pacific Association of Chemical Ecologists in Hangzhou, China. He will present in Session 3: “Signaling and Perception in Plant-Herbivore Interactions.” Say hello if you are also attending, and come to hear about INR and our future plans to understand evolution of...","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/2019/09/13/APACE_2019.html"
+      },{
+        "title": "New Review in Current Opin. Plant Biol.",
+        "excerpt":"Adam’s new review on the evolution of cell surface immune networks is online at Current Opinion in Plant Biology and can be found here.  We would love to discuss! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2020/04/13/COPB.html"
+      },{
+        "title": "Natalia Joins the Lab",
+        "excerpt":"Natalia Guayazán-Palacios, rising 2nd year Biology grad, has joined the lab.  Welcome Natalia! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2020/06/13/natalia.html"
       }]
