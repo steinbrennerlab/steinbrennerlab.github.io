@@ -68,4 +68,14 @@ var store = [{
         "excerpt":"Natalia Guayazán-Palacios, rising 2nd year Biology grad, has joined the lab.  Welcome Natalia! ","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/2020/06/13/natalia.html"
+      },{
+        "title": "Receptor work is out in PNAS",
+        "excerpt":"Our receptor story, previously in bioRxiv, is finally published in PNAS!“A receptor-like protein mediates plant immune responses to herbivore-associated molecular patterns” ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2020/12/15/PNAS.html"
+      },{
+        "title": "Happy 2021",
+        "excerpt":"Happy new year from the lab! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2020/12/31/newyear.html"
       }]

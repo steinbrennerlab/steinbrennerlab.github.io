@@ -10,9 +10,15 @@ permalink: /publications/
 <div class="paragraph"><span style="color:rgb(102, 102, 102)">
 <strong>For an up-to-date list, see </strong></span><a href="https://scholar.google.com/citations?user=CVyh4joAAAAJ&hl=en">Google Scholar</a><span style="color:rgb(102, 102, 102)"></span><br /><br />
 
-(11) <strong style="color:rgb(102, 102, 102)">Steinbrenner, A.D.</strong><span style="color:rgb(102, 102, 102)">,Maria Muñoz-Amatriaín, Jessica Montserrat Aguilar Venegas, Sassoum Lo, Da Shi, Nicholas Holton, Cyril Zipfel, Ruben Abagyan, Alisa Huffaker, Timothy J. Close, Eric A. Schmelz. 2019. A receptor for herbivore-associated molecular patterns mediates plant immunity. BioRxiv. 
-<a href="https://www.biorxiv.org/content/10.1101/679803v1">link</a>
+(11) <strong style="color:rgb(102, 102, 102)">Steinbrenner, A.D.</strong><span style="color:rgb(102, 102, 102)">,Maria Muñoz-Amatriaín, Jessica Montserrat Aguilar-Venegas, Sassoum Lo, Satohiro Okuda, Gaetan Glauser, Julien Dongiovanni, Da Shi, Daniel Crubaugh, Nicholas Holton, Cyril Zipfel, Ruben Abagyan, Ted C.J. Turlings, Timothy J. Close, Alisa Huffaker, Eric A. Schmelz. 2019. A receptor for herbivore-associated molecular patterns mediates plant immunity. PNAS. 
+<a href="https://www.pnas.org/content/117/49/31510">(link)</a>
+<a href="https://drive.google.com/file/d/1LFd_q5M06H4S_DCx-RX5kv_cgbU6BzLm/view?usp=sharing">(pdf)</a>
 <br/><br/>
+
+<img src="/images/2020-01.png" class="align-left" width="300" alt="">
+<br/><br/>
+<BR CLEAR="left">
+
 
 (10) <strong style="color:rgb(102, 102, 102)">Steinbrenner, A.D.</strong><span style="color:rgb(102, 102, 102)">, 2020. The evolving landscape of cell surface pattern recognition across plant immune networks. Curr. Opin. Plant Biol. </span>
 <a href="https://www.sciencedirect.com/science/article/pii/S1369526620300534">(link)</a>
