@@ -6,12 +6,12 @@ layout: page
 #Research page is a static html doc.  Try to make images 250 px wide so that text wraps nicely.
 ---
 
-### Pest recognition and differentiation by plant immunity
+### Pest recognition and differentiation by plant immune receptors
 
 <img src="/images/research1.png" class="align-left" alt="">
-Plants detect pest-associated molecular patterns through surface immune receptors, which bind extracellular ligands and initiate defense signal transduction.  Many well-characterized receptors detect pathogen-associated molecular patterns (PAMPs) such as flg22, but receptors for other pest classes such as chewing herbivores are not well understood.  How do plants initiate differential signal transduction downstream of receptors for herbivores and pathogens, potentially upstream of hormonal antagonisms?
+Plants detect pests through cell surface receptors, which bind extracellular ligands and initiate defense signal transduction.  Many well-characterized receptors detect pathogen-associated molecular patterns (PAMPs), but receptors for other pest classes such as chewing herbivores are not well understood.  How do plants initiate differential signal transduction downstream of receptors for herbivores and pathogens, potentially upstream of hormonal antagonisms?
 
-We recently identified inceptin receptor INR (Steinbrenner et al. 2019, bioRxiv https://www.biorxiv.org/content/10.1101/679803v1), a receptor for inceptin peptides found in oral secretions of Lepidopteran larval herbivores (caterpillars).  We hope to study INR activation as a model for early signaling in response to herbivores.
+We recently identified the first receptor to directly detect a herbivore-associated molecular pattern (HAMP)(<a href="https://www.pnas.org/content/early/2020/11/20/2018415117">Steinbrenner et al. 2020, PNAS </a>). Inceptin receptor, INR, confers responses to peptides found in oral secretions of Lepidopteran larval herbivores (caterpillars).  We hope to study INR activation as a model for divergent early signaling events in response to herbivores.
 
 <BR CLEAR="left">
 
