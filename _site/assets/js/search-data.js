@@ -29,6 +29,11 @@ var store = [{
         "tags": [],
         "url": "https://steinbrennerlab.org/people/guayazan_palacios.html"
       },{
+        "title": "Sanjana Jadhav",
+        "excerpt":"Undergraduate Researcher   Sanjana is an undergraduate studying Biology: MCD and ESRM at UW. She joined the Steinbrenner lab in January 2021 and is excited to learn more about plants and their immune systems. In her free time she enjoys drawing, and playing tennis and cooking. ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/people/jadhav.html"
+      },{
         "title": "Lab website launched",
         "excerpt":"The lab website is up and running!  Check back for updates ","categories": [],
         "tags": [],
