@@ -34,6 +34,11 @@ var store = [{
         "tags": [],
         "url": "https://steinbrennerlab.org/people/jadhav.html"
       },{
+        "title": "Sandy Tran",
+        "excerpt":"Undergraduate Researcher   Sandy is a microbiology major who is interested in the pathology of diseases. Outside of school, she likes to draw, play video games, and read! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/people/tran.html"
+      },{
         "title": "Lab website launched",
         "excerpt":"The lab website is up and running!  Check back for updates ","categories": [],
         "tags": [],
