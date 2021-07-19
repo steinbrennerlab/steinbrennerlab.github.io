@@ -88,4 +88,14 @@ var store = [{
         "excerpt":"Happy new year from the lab! ","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/2020/12/31/newyear.html"
+      },{
+        "title": "Anthony Garcia joins as a Research Technician",
+        "excerpt":"Anthony recently graduated from UW and will stay on as a Research Technician in the lab. Congrats Anthony! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2021/06/15/anthony.html"
+      },{
+        "title": "The Steinbrenner lab at Plant Bio 21",
+        "excerpt":"The lab will be well represented at this year’s ASPB Plant Bio meeting. Our posters and talks are listed below! Simon SnoeckCS-19-1 - The evolution and ancestral reconstruction of the pattern recognition receptor INR in the PhaseoleaeThursday, July 22, 2021 2:30pm – 2:45pm EDT Natalia Guayazaán-PalaciosThursday, July 22, 2021 3:00pm...","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2021/07/19/ASPB.html"
       }]

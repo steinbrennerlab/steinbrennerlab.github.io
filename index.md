@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: ""
 layout: home
-posts_limit: 2
+posts_limit: 4
 ---
 
 
