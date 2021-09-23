@@ -10,13 +10,21 @@ permalink: /publications/
 <div class="paragraph"><span style="color:rgb(102, 102, 102)">
 <strong>For an up-to-date list, see </strong></span><a href="https://scholar.google.com/citations?user=CVyh4joAAAAJ&hl=en">Google Scholar</a><span style="color:rgb(102, 102, 102)"></span><br /><br />
 
+(12) Schultink, A, <strong style="color:rgb(102, 102, 102)">Steinbrenner, A.D.</strong><span style="color:rgb(102, 102, 102)"> 2021. A playbook for developing disease-resistant crops through immune receptor identification and transfer. Curr. Opin. Plant Biol. DOI:10.1016/j.pbi.2021.102089
+<a href="https://www.sciencedirect.com/science/article/pii/S1369526621000893">(link)</a>
+<a href="https://drive.google.com/file/d/1aLeg2RQXgjAUeg3xWW1sNg6kYbBw_xPs/view?usp=sharing">(pdf)</a>
+<br/><br/>
+
+<img src="/images/pubs_12.png" class="align-left" width="600" alt="">
+<br/><br/>
+<BR CLEAR="left">
 
 (11) <strong style="color:rgb(102, 102, 102)">Steinbrenner, A.D.</strong><span style="color:rgb(102, 102, 102)">,Maria Muñoz-Amatriaín, Jessica Montserrat Aguilar-Venegas, Sassoum Lo, Satohiro Okuda, Gaetan Glauser, Julien Dongiovanni, Da Shi, Daniel Crubaugh, Nicholas Holton, Cyril Zipfel, Ruben Abagyan, Ted C.J. Turlings, Timothy J. Close, Alisa Huffaker, Eric A. Schmelz. 2019. A receptor-like protein mediates plant immune  responses to herbivore-associated molecular patterns. PNAS. DOI:10.1073/pnas.2018415117 
 <a href="https://www.pnas.org/content/117/49/31510">(link)</a>
 <a href="https://drive.google.com/file/d/1LFd_q5M06H4S_DCx-RX5kv_cgbU6BzLm/view?usp=sharing">(pdf)</a>
 <br/><br/>
 
-<img src="/images/2020-01.png" class="align-left" width="300" alt="">
+<img src="/images/2020-01.png" class="align-left" width="400" alt="">
 <br/><br/>
 <BR CLEAR="left">
 
@@ -25,6 +33,10 @@ permalink: /publications/
 <a href="https://www.sciencedirect.com/science/article/pii/S1369526620300534">(link)</a>
 <a href="https://drive.google.com/file/d/1l3af6XfCfEOiOEakrEQ5GFnrA5SI46M4/view?usp=sharing">(pdf)</a>
 <br/><br/>
+
+<img src="/images/pubs_10.png" class="align-left" width="600" alt="">
+<br/><br/>
+<BR CLEAR="left">
 
 (9)&nbsp;Schultink, A., Qi, T., Lee, A.,&nbsp;<strong style="color:rgb(102, 102, 102)">Steinbrenner, A.D.</strong><span style="color:rgb(102, 102, 102)">, Staskawicz, B. &nbsp;2017. &nbsp;Roq1 mediates recognition of the Xanthomonas and Pseudomonas effector proteins XopQ and HopQ1. &nbsp;The Plant Journal. &nbsp;DOI: 10.1111/tpj.13715</span>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.13715">(link)</a>
@@ -36,6 +48,10 @@ permalink: /publications/
 <a href="https://drive.google.com/open?id=0B7L6E_qjKUdXRjZWMF9BbW5sTTA">(pdf)</a>
 &nbsp;*contributed equally
 <br/><br/>
+
+<img src="/images/pubs_8.png" class="align-left" width="600" alt="">
+<br/><br/>
+<BR CLEAR="left">
 
 (7)&nbsp;<strong>Steinbrenner, A.D.</strong>, Goritschnig, S., Staskawicz, B.J.&nbsp; 2015.&nbsp; Recognition and Activation Domains Contribute to Allele-Specific Responses of an Arabidopsis NLR Receptor to an Oomycete Effector Protein.&nbsp; PLoS Pathogens.&nbsp; DOI: 10.1371/journal.ppat.1004665 
 <a href="https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1004665">(link)</a>

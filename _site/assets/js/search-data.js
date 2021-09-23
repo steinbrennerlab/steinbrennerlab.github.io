@@ -98,4 +98,9 @@ var store = [{
         "excerpt":"The lab will be well represented at this year’s ASPB Plant Bio meeting. Our posters and talks are listed below! Simon SnoeckCS-19-1 - The evolution and ancestral reconstruction of the pattern recognition receptor INR in the PhaseoleaeThursday, July 22, 2021 2:30pm – 2:45pm EDT Natalia Guayazaán-PalaciosThursday, July 22, 2021 3:00pm...","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/2021/07/19/ASPB.html"
+      },{
+        "title": "Rotation students Janet Solano Sanchez and Benjamin Downing",
+        "excerpt":"Our lab will host two first year students for the Fall quarter, Janet and Ben. Welcome both!! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2021/09/23/rotations.html"
       }]
