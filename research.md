@@ -49,3 +49,7 @@ Only a subset of surface receptors have immune functions; others serve critical 
 The INR receptor is restricted to certain legume species, but its function is idiosyncratic across species.  Soybean, for example, cannot respond to inceptin despite the presence of receptor homologs.  Common bean, on the other hand, displays novel inceptin recognition capability relative to cowpea.  Long-read sequencing may allow rapid interrogation of the INR receptor locus across populations and species to better understand evolution of herbivore recognition in legumes.  Advancing technologies in legumes will also facilitate reverse genetics to understand how INR contributes to herbivore resistance in nature.
 
 Immune receptors are also useful agricultural traits. Since a given receptor is almost always unique to a given species, genus, or family, they are broadly transferrable as resistance genes. We hope to leverage the deluge of pangenomic resources in plants to facilitate rapid trait discovery.
+
+## Properties and utility of LRR ectodomain networks
+
+In constrast to analogous Toll-like receptors in animals, plant immune-related LRR sensors form a highly diversified network of heterotypic ectodomain interactions (Smakowska-Luzan 2018 doi:10.1038/nature25184). We are working to develop orthogonal ligand-sensing systems across plant and non-plant models for biotechnological use in both agriculture and medicine.
