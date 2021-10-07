@@ -23,7 +23,7 @@ We recently identified the first cell surface receptor to directly detect a liga
 <img src="/images/research00.png" class="align-left" alt="">
 
 <br>
-<br>
+<br><br><br>
 
 ## Pest recognition and differentiation by plant immune receptors
 
@@ -52,4 +52,4 @@ Immune receptors are also useful agricultural traits. Since a given receptor is 
 
 ## Properties and utility of LRR ectodomain networks
 
-In constrast to analogous Toll-like receptors in animals, plant immune-related LRR sensors form a highly diversified network of heterotypic ectodomain interactions (Smakowska-Luzan 2018 doi:10.1038/nature25184). We are working to develop orthogonal ligand-sensing systems across plant and non-plant models for biotechnological use in both agriculture and medicine.
+In constrast to analogous Toll-like receptors in animals, plant immune-related LRR sensors form a highly diversified network of heterotypic ectodomain interactions (<a href="https://www.nature.com/articles/nature25184">Smakowska-Luzan 2018 doi:10.1038/nature25184</a>). We are working to develop orthogonal ligand-sensing systems across plant and non-plant models for biotechnological use in both agriculture and medicine.
