@@ -10,7 +10,7 @@ var store = [{
         "url": "https://steinbrennerlab.org/people/chaparro.html"
       },{
         "title": "Anthony Garcia",
-        "excerpt":"Undergraduate Researcher   Anthony is an undergraduate studying Plant Biology who joined the lab in October 2019. He loves learning about plant physiology, especially how plants respond to herbivores and pathogens, and also enjoys running, finding interesting music, and eating Polish and Mexican food. ","categories": [],
+        "excerpt":"Research Technologist agg13 /at/ uw.edu   Anthony is an technician who joined the lab as an undergraduate in October 2019. He loves learning about plant physiology, especially how plants respond to herbivores and pathogens, and also enjoys running, finding interesting music, and eating Polish and Mexican food. ","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/people/garcia.html"
       },{
@@ -28,11 +28,6 @@ var store = [{
         "excerpt":"Graduate Student nguaya /at/ uw.edu Natalia joined the UW Department of Biology in September 2019. Experience BS Microbiology, MS Biological Sciences, MS Computational Biology. Universidad de Los Andes. Bogotá, Colombia Interests My MS research was focused on cell and transcriptional changes that plant pathogens undergo during host colonization, and population...","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/people/guayazan_palacios.html"
-      },{
-        "title": "Sanjana Jadhav",
-        "excerpt":"Undergraduate Researcher   Sanjana is an undergraduate studying Biology: MCD and ESRM at UW. She joined the Steinbrenner lab in January 2021 and is excited to learn more about plants and their immune systems. In her free time she enjoys drawing, and playing tennis and cooking. ","categories": [],
-        "tags": [],
-        "url": "https://steinbrennerlab.org/people/jadhav.html"
       },{
         "title": "Sandy Tran",
         "excerpt":"Undergraduate Researcher   Sandy is a microbiology major who is interested in the pathology of diseases. Outside of school, she likes to draw, play video games, and read! ","categories": [],
@@ -88,6 +83,11 @@ var store = [{
         "excerpt":"Happy new year from the lab! ","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/2020/12/31/newyear.html"
+      },{
+        "title": "New review in Plant Cell",
+        "excerpt":"Simon, Natalia, and Adam have a new long-form review in press at The Plant Cell. Adam’s twitter summary is here. Congrats! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2021/01/15/TPC_review.html"
       },{
         "title": "Anthony Garcia joins as a Research Technician",
         "excerpt":"Anthony recently graduated from UW and will stay on as a Research Technician in the lab. Congrats Anthony! ","categories": [],

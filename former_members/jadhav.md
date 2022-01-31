@@ -7,6 +7,7 @@ image:
 layout: page
 #Give your start date below.  Collections page will sort by seniority
 date: 2021-02-01
+sitemap: false
 ---
 
 Undergraduate Researcher

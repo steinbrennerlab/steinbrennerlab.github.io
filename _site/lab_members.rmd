@@ -20,7 +20,6 @@ library(scales)
 library(Cairo)
 library(wesanderson)
 
-install.packages("wesanderson")
 ```
 
 ```{r}

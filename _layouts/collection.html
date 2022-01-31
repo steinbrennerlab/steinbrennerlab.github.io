@@ -1,0 +1,18 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<h1>Current grads, postdocs, and staff</h1>
+
+<div class="entries-{{ page.entries_layout | default: 'list' }}">
+  {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order %}
+</div>
+
+<hr class="rounded">
+
+<h1>Former lab members</h1>
+Sanjana Jadhav (2020) <br>
+August Liu (2020-21)
+

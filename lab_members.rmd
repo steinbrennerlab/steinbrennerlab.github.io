@@ -1,6 +1,8 @@
 ---
 title: "Lab Gannt"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
 
@@ -27,7 +29,6 @@ library(scales)
 library(Cairo)
 library(wesanderson)
 
-install.packages("wesanderson")
 ```
 
 ```{r}
