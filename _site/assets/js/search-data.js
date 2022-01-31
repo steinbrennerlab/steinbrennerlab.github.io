@@ -84,11 +84,6 @@ var store = [{
         "tags": [],
         "url": "https://steinbrennerlab.org/2020/12/31/newyear.html"
       },{
-        "title": "New review in Plant Cell",
-        "excerpt":"Simon, Natalia, and Adam have a new long-form review in press at The Plant Cell. Adam’s twitter summary is here. Congrats! ","categories": [],
-        "tags": [],
-        "url": "https://steinbrennerlab.org/2021/01/15/TPC_review.html"
-      },{
         "title": "Anthony Garcia joins as a Research Technician",
         "excerpt":"Anthony recently graduated from UW and will stay on as a Research Technician in the lab. Congrats Anthony! ","categories": [],
         "tags": [],
@@ -103,4 +98,9 @@ var store = [{
         "excerpt":"Our lab will host two first year students for the Fall quarter, Janet and Ben. Welcome both!! ","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/2021/09/23/rotations.html"
+      },{
+        "title": "New review in Plant Cell",
+        "excerpt":"Simon, Natalia, and Adam have a new long-form review in press at The Plant Cell. Adam’s twitter summary is here. Congrats! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2022/01/15/TPC_review.html"
       }]
