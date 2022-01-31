@@ -1,9 +1,4 @@
 var store = [{
-        "title": "Adam Steinbrenner",
-        "excerpt":"Principal Investigator astein10 /at/ uw.edu Adam Steinbrenner joined the UW Department of Biology in September 2019. Experience HHMI and UC President’s Postdoctoral Fellow, University of California, San Diego (2016-2019) PhD, Plant Biology University of California, Berkeley BS, Biology Tufts University Projects I am fascinated by the plant immune system and...","categories": [],
-        "tags": [],
-        "url": "https://steinbrennerlab.org/people/steinbrenner.html"
-      },{
         "title": "Antonio Chaparro",
         "excerpt":"Research Technologist chaparro /at/ uw.edu   Tonio joined the lab in September 2019 after graduating from UW where he studied Molecular Biology and Environmental Science. He’s excited to continue growing plants and studying their complex immune systems! He also enjoys gardening, backpacking, and basketball. ","categories": [],
         "tags": [],
@@ -33,6 +28,11 @@ var store = [{
         "excerpt":"Undergraduate Researcher   Sandy is a microbiology major who is interested in the pathology of diseases. Outside of school, she likes to draw, play video games, and read! ","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/people/tran.html"
+      },{
+        "title": "Adam Steinbrenner",
+        "excerpt":"Principal Investigator astein10 /at/ uw.edu Adam Steinbrenner joined the UW Department of Biology in September 2019. Experience HHMI and UC President’s Postdoctoral Fellow, University of California, San Diego (2016-2019) PhD, Plant Biology University of California, Berkeley BS, Biology Tufts University Projects I am fascinated by the plant immune system and...","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/people/steinbrenner.html"
       },{
         "title": "Lab website launched",
         "excerpt":"The lab website is up and running!  Check back for updates ","categories": [],

@@ -8,7 +8,7 @@ library(readr)
 ```
 
 ```{r}
-lab_members <- read_delim("lab_members.csv", 
+lab_members <- read_delim("lab_members.txt", 
     "\t", escape_double = FALSE, trim_ws = TRUE)
 
 ```
@@ -26,8 +26,7 @@ library(wesanderson)
 
 # Thanks https://stats.andrewheiss.com/misc/gantt.html
 
-tasks <- read_delim("lab_members.csv", 
-    "\t", escape_double = FALSE, trim_ws = TRUE)
+tasks <- read.delim("~/08_website/github/steinbrennerlab.github.io/lab_members.txt")
 
 # Convert data to long for ggplot
 tasks.long <- tasks %>%
@@ -75,6 +74,7 @@ timeline <- ggplot(tasks.long, aes(x=Task, y=task.date, colour=Project)) +
   labs(x=NULL, y=NULL) + coord_flip() +
   scale_y_date(date_breaks="2 months", labels=date_format("%b ‘%y")) +
   theme_gantt() + theme(axis.text.x=element_text(angle=45, hjust=1)) + scale_color_manual(values=pal) +ggtitle("Steinbrenner Lab")
+
 timeline
 
 ```
