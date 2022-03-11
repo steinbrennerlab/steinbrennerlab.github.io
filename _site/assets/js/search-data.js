@@ -1,4 +1,9 @@
 var store = [{
+        "title": "Adam Steinbrenner",
+        "excerpt":"Principal Investigator astein10 /at/ uw.edu Adam Steinbrenner joined the UW Department of Biology in September 2019. Experience HHMI and UC President’s Postdoctoral Fellow, University of California, San Diego (2016-2019) PhD, Plant Biology University of California, Berkeley BS, Biology Tufts University Projects I am fascinated by the plant immune system and...","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/people/steinbrenner.html"
+      },{
         "title": "Antonio Chaparro",
         "excerpt":"Research Technologist chaparro /at/ uw.edu   Tonio joined the lab in September 2019 after graduating from UW where he studied Molecular Biology and Environmental Science. He’s excited to continue growing plants and studying their complex immune systems! He also enjoys gardening, backpacking, and basketball. ","categories": [],
         "tags": [],
@@ -29,10 +34,30 @@ var store = [{
         "tags": [],
         "url": "https://steinbrennerlab.org/people/tran.html"
       },{
-        "title": "Adam Steinbrenner",
-        "excerpt":"Principal Investigator astein10 /at/ uw.edu Adam Steinbrenner joined the UW Department of Biology in September 2019. Experience HHMI and UC President’s Postdoctoral Fellow, University of California, San Diego (2016-2019) PhD, Plant Biology University of California, Berkeley BS, Biology Tufts University Projects I am fascinated by the plant immune system and...","categories": [],
+        "title": "Nathaniel Greenwood",
+        "excerpt":"Undergraduate Researcher   Nathan is an undergraduate researcher studying Molecular Biology at UW and is interested in host-pathogen interactions. In his free time he enjoys planting, reading, and being active. ","categories": [],
         "tags": [],
-        "url": "https://steinbrennerlab.org/people/steinbrenner.html"
+        "url": "https://steinbrennerlab.org/people/greenwood.html"
+      },{
+        "title": "Caroline Divney",
+        "excerpt":"Undergraduate Researcher   Caroline is an undergraduate studying Plant Biology and joined Steinbrenner lab in September 2021. She is interested in learning more about how plants influence their surrounding environments. She also loves reading, gardening, and spending time outdoors with her friends. ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/people/divney.html"
+      },{
+        "title": "Hannah Luskin",
+        "excerpt":"Undergraduate Researcher   Hannah is a Molecular, Cellular and Developmental Biology major who joined the lab in September 2021. She enjoys learning about genetic engineering in plants especially as it relates to plant defenses or drought resistance. Outside of school, she enjoys nature photography, swimming, kayaking, and gardening. ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/people/luskin.html"
+      },{
+        "title": "Brian Behnken",
+        "excerpt":"Undergraduate Researcher Brian is a microbiology major with the intention of pursuing a PhD in immunology. He joined the lab in winter of 2022 and is looking forward to learning about plant immune systems. His interests include research and reading anything from physics to biology, and outside of the academy...","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/people/behnken.html"
+      },{
+        "title": "Heather Osterstock",
+        "excerpt":"Undergraduate Researcher   Heather is a Biochemistry major who plans to enter into the field of pharmaceuticals. She loves learning about systems (especially plants), as well as reading, tutoring, and exploring Washington! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/people/osterstock.html"
       },{
         "title": "Lab website launched",
         "excerpt":"The lab website is up and running!  Check back for updates ","categories": [],
