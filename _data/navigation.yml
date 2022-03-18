@@ -1,11 +1,13 @@
-- title: Research
-  url: /research/
 - title: News
   url: /news/
+- title: Research
+  url: /research/
 - title: People
   url: /people/
 - title: Mentorship
   url: /mentorship/
+- title: Teaching
+  url: /teaching/
 - title: Publications
   url: /publications/
 - title: Contact & Join
