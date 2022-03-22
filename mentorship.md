@@ -8,14 +8,39 @@ entries_layout: list
 permalink: /mentorship/
 ---
 
-<b>Steinbrenner Lab Mentorship Policies</b>
+## Technician, Graduate Student, and Postdoc accomplishments
 
-Our goal is to understand plant immunity through reading, discussion, and experimentation, and then share insights with the world.  As a Principal Investigator I hope to mentor the next generation of plant biologists.  I aim to excite and challenge mentees and build curiosity, skill, and independence.  I work to maintain an environment where trainees can build these foundations in a safe and welcoming space.
+Nov 2021: Natalia Guayazan-Palacios is awarded a 2021 SACNAS Student Presentation Award!!
 
-All mentorship relationships are different; I use an expectations rubric to guide each. Two weeks after joining the lab we will both fill out the rubric and discuss.  These change according the level of trainee (tech-postdoc) and over time.  For undergraduates: I have a set of generalized expectations you will receive when joining the lab, but your day-to-day expectations will come from your immediate mentor (a technician, graduate student, or postdoc).
+Mar 2021: Simon Snoeck is awarded the Mary Race Bevis Postdoctoral Research Award (UW Biology)
 
-I hope to help long-term mentees work toward their career goals.  Some mechanisms to communicate about these goals include:
-1. Rubric for Expectations of Research Supervision – to be filled out once upon joining the lab
-2. Individual Development Plan (IDP) – to be filled out within three months of joining.  The IDP is meant to set yearly goals, determine if you have sufficient resources, and discuss other possible mentors or training.  The mentee is expected to revise the IDP at least yearly.  We will set aside an hour to discuss at least once a year.
-  <a href="http://depts.washington.edu/mbtguw/wordpress/wp-content/uploads/IDP.docx">This</a> is an example format; others are possible.
+Mar 2021: Natalia Guayazan-Palacios is awarded the Heerensperger and Walter & Margaret Sargent Awards (UW Biology)
+
+
+## Undergraduate accomplishments
+
+Mar 2022: Ava Kloss-Schmidt is awarded the Mary Gates Fellowship
+
+Mar 2022: Ava Kloss-Schmidt is awarded the May Garrett Hayes and  Varanasi Scholarships (UW Biology)
+
+Mar 2021: Anthony Garcia is awarded the May Garrett Hayes Scholarship (UW Biology)
+
+Mar 2021: Anthony Garcia is awarded the Mary Gates Fellowship
+
+Jan 2021: Ava Kloss-Schmidt is awarded the John & Dorothy Franco Award and Frye-Hotson-Rigg Award (UW Biology)
+
+Jan 2021: Anthony Garcia is awarded the Frye-Hotson-Rigg Award (UW Biology)
+
+Mar 2020: Anthony Garcia is awarded the Undergraduate Excellence in Biology Scholarship (UW Biology)
+
+Jan 2020: Anthony Garcia is awarded the Donald S Farner Scholarship (UW Biology)
+
+## Steinbrenner Lab Mentorship Policies
+
+Our goal is to understand plant immunity through reading, discussion, and experimentation, and then share insights with the world. As a Principal Investigator I hope to mentor the next generation of plant biologists. I aim to excite and challenge mentees and to build curiosity, skill, and independence. I work to maintain an environment where trainees can build these foundations in a safe and welcoming space.
+
+I work hard to set expectations and goals with all permanent (non-undergraduate) lab members. We use three mechanisms beyond regular meetings:
+1. A Mentorship Compact based on UW Biology's <a href="https://www.biology.washington.edu/sites/default/files/general/Biology_MentorshipCompactChecklist_2021-04-28.docx">guidelines</a> to set logistical and mentorship expectations.
+2. Individual Development Plan (IDP) completed within three months of joining the lab permanently.  The IDP is meant to set personal and professional goals, determine if you have sufficient resources, and discuss other possible mentors or training.  The mentee is expected to revise the IDP at least yearly.  We will set aside an hour to revise at least once a year.
+  <a href="http://depts.washington.edu/mbtguw/wordpress/wp-content/uploads/IDP.docx">This</a> is an example format.
 3. Quarterly IDP check-ins – at the end of each quarter, we will structure our one-on-one meeting to discuss progress toward year goals and if any resources or changes would help to meet goals.

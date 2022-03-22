@@ -51,7 +51,7 @@ Week 2 -- Current topics in NLR Biology
 Week 3 -- Current topics in RK/RLP Biology
 
 <img src="/images/teaching/teaching03.png" class="align-left" alt="">
-
+<img src="/images/teaching/teaching05.png" class="align-left" alt="">
 <BR CLEAR="left">
 
 Week 4 -- History chemical ecology: inducible secondary metabolism
