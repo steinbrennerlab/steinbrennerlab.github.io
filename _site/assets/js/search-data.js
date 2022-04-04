@@ -128,4 +128,19 @@ var store = [{
         "excerpt":"Simon, Natalia, and Adam have a new long-form review in press at The Plant Cell. Adam’s twitter summary is here. Congrats! ","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/2022/01/15/TPC_review.html"
+      },{
+        "title": "New work in Plant Journal",
+        "excerpt":"A new publication describing the combined effects of wounding and HAMP treatment is available in The Plant Journal (link). Work was completed at UW with help of Tonio and Natalia! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2022/03/15/TPJ.html"
+      },{
+        "title": "New preprint describing PRR Evolution",
+        "excerpt":"New work is available in BioRxiv: Evolutionary gain and loss of a plant pattern-recognition receptor for HAMP recognition (link). Congrats Simon and Anthony! Adam’s twitter summary is here ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2022/04/01/biorxiv.html"
+      },{
+        "title": "Tonio and Anthony receive the NSF-GRFP",
+        "excerpt":"Awesome news: the lab’s first two members, Anthony Garcia and Tonio Chaparro, were awarded the NSF-GRFP! Tonio joined as a technician and Anthony as an undergraduate researcher (now technician). Congrats! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2022/04/04/GRFP.html"
       }]
