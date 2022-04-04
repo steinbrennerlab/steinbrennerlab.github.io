@@ -37,7 +37,7 @@ Jan 2020: Anthony Garcia is awarded the Donald S Farner Scholarship (UW Biology)
 
 ## Steinbrenner Lab Mentorship Policies
 
-Our goal is to understand plant immunity through reading, discussion, and experimentation, and then share insights with the world. As a Principal Investigator I hope to mentor the next generation of plant biologists. I aim to excite and challenge mentees and to build curiosity, skill, and independence. I work to maintain an environment where trainees can build these foundations in a safe and welcoming space.
+Our goal is to understand plant immunity through reading, discussion, and experimentation, and then share insights with the world. As a Principal Investigator I hope to mentor the next generation of plant biologists. I aim to excite and challenge mentees and to build curiosity, skill, and independence. I work to maintain an environment where trainees can build these foundations in a safe and welcoming space. Lab members will have opportunities to network with other plant biology labs in UW Biology and around campus.
 
 I work hard to set expectations and goals with all permanent (non-undergraduate) lab members. We use three mechanisms beyond regular meetings:
 1. A Mentorship Compact based on UW Biology's <a href="https://www.biology.washington.edu/sites/default/files/general/Biology_MentorshipCompactChecklist_2021-04-28.docx">guidelines</a> to set logistical and mentorship expectations.

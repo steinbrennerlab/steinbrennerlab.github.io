@@ -1,5 +1,5 @@
 ---
-title: Natalia Guayazan Palacios
+title: Natalia Guayazán Palacios
 image: 
   path: /images/blank.jpg
 #Provide a landscape-format thumbnail image, 300 x 400 pixels.

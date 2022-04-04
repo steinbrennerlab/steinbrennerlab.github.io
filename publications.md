@@ -6,16 +6,32 @@ title: Publications
 layout: page
 permalink: /publications/
 ---
+<div class="paragraph"><span style="color:rgb(102, 102, 102)"><strong>UW lab members in bold</strong></span><br />
 
 <div class="paragraph"><span style="color:rgb(102, 102, 102)">
 <strong>For an up-to-date list, see </strong></span><a href="https://scholar.google.com/citations?user=CVyh4joAAAAJ&hl=en">Google Scholar</a><span style="color:rgb(102, 102, 102)"></span><br /><br />
 
-(15) Poretsky E, Ruiz M, Ahmadian N, <strong style="color:rgb(102, 102, 102)">Steinbrenner AD</strong>, Dressano K, Schmelz EA, Huffaker A. (2021). Comparative analyses of responses to exogenous and endogenous antiherbivore elicitors enables a forward genetics approach to identify maize gene candidates mediating sensitivity to Herbivore Associated Molecular Patterns. Plant J. DOI:10.1111/tpj.15510
-<a href="https://onlinelibrary.wiley.com/doi/10.1111/tpj.15510">(link)</a>
+(17) <strong style="color:rgb(102, 102, 102)">Snoeck S</strong>, Abramson BW, <strong style="color:rgb(102, 102, 102)">Garcia AGK</strong>, Egan AN, Michael TP, <strong style="color:rgb(102, 102, 102)">Steinbrenner AD</strong>. (2022). Evolutionary gain and loss of a plant pattern-recognition receptor for HAMP recognition. bioRxiv.
+<a href="https://www.biorxiv.org/content/10.1101/2022.03.30.484633v1">(link)</a>
 <br/><br/>
 
-(14) <strong style="color:rgb(102, 102, 102)">Steinbrenner AD</strong>, Saldivar E, Hodges N, Chaparro AF, Schmelz EA. (2021). Signatures of plant defense response specificity mediated by herbivore-associated molecular patterns in legumes. bioRxiv.
-<a href="https://www.biorxiv.org/content/10.1101/2021.09.02.458788v1.abstract">(link)</a>
+<img src="/images/publications/snoeck2022.png" class="align-left" width="500" alt="">
+<br/><br/>
+<BR CLEAR="left">
+
+(16) <strong style="color:rgb(102, 102, 102)">Steinbrenner AD</strong>, Saldivar E, Hodges N, <strong style="color:rgb(102, 102, 102)">Chaparro AF, Guayazán-Palacios N</strong>, Schmelz EA. (2021). Signatures of plant defense response specificity mediated by herbivore-associated molecular patterns in legumes. The Plant Journal. DOI: 10.1111/tpj.15732. 
+<a href="https://onlinelibrary.wiley.com/doi/10.1111/tpj.15732">(link)</a> <a href="https://drive.google.com/file/d/1pZ-mKuP10QdlMtA0Gnp8NUZ6kLw-Hv9W/view?usp=sharing">(pdf)</a>
+<br/><br/>
+
+(15) <strong style="color:rgb(102, 102, 102)">Snoeck S, Guayazán-Palacios N, Steinbrenner AD</strong>. (2022) Molecular tug-of-war: Plant immune recognition of herbivory. The Plant Cell DOI: 10.1093/plcell/koac009. <a href="https://academic.oup.com/plcell/advance-article/doi/10.1093/plcell/koac009/6506533">(link)</a> <a href="https://drive.google.com/file/d/1CgDlij3QT4rpkGMZuLhTzW8r1GtmzKlr/view?usp=sharing">(pdf)</a>
+<br/><br/>
+
+<img src="/images/publications/snoeck2021.jpg" class="align-left" alt="">
+<br/><br/>
+<BR CLEAR="left">
+
+(14) Poretsky E, Ruiz M, Ahmadian N, <strong style="color:rgb(102, 102, 102)">Steinbrenner AD</strong>, Dressano K, Schmelz EA, Huffaker A. (2021). Comparative analyses of responses to exogenous and endogenous antiherbivore elicitors enables a forward genetics approach to identify maize gene candidates mediating sensitivity to Herbivore Associated Molecular Patterns. Plant J. DOI:10.1111/tpj.15510
+<a href="https://onlinelibrary.wiley.com/doi/10.1111/tpj.15510">(link)</a> <a href="https://drive.google.com/file/d/12N8Rv1w4coBNa5lzLwIPk8tjhsGQPHeP/view?usp=sharing">(pdf)</a>
 <br/><br/>
 
 (13) Bogdan P, Caetano-Anollés G, Jolles A, Kim H, Morris J, Murphy C, Royer C, Snell EH,  <strong style="color:rgb(102, 102, 102)">Steinbrenner AD</strong>, Strausfeld N. (2021) Biological networks across scales.Integrative and Comparative Biol. DOI:10.1093/icb/icab069
@@ -31,7 +47,7 @@ permalink: /publications/
 <br/><br/>
 <BR CLEAR="left">
 
-(11) <strong style="color:rgb(102, 102, 102)">Steinbrenner AD</strong>, Maria Mu&ntilde;oz-Amatria&iacute;n, Aguilar-Venegas JMA, Lo S, Okuda S, Glauser G, Dongiovanni J, Shi D, Hall M, Crubaugh D, Holton N, Zipfel C, Abagyan R, Turlings TCJ, Close TJ, Huffaker A, Schmelz EA. 2019. A receptor-like protein mediates plant immune  responses to herbivore-associated molecular patterns. Proc. Nat. Acad. Sci. DOI:10.1073/pnas.2018415117 
+(11) <strong style="color:rgb(102, 102, 102)">Steinbrenner AD</strong>, Maria Mu&ntilde;oz-Amatria&iacute;n, <strong style="color:rgb(102, 102, 102)">Chaparro AF</strong>, Aguilar-Venegas JMA, Lo S, Okuda S, Glauser G, Dongiovanni J, Shi D, Hall M, Crubaugh D, Holton N, Zipfel C, Abagyan R, Turlings TCJ, Close TJ, Huffaker A, Schmelz EA. 2020. A receptor-like protein mediates plant immune  responses to herbivore-associated molecular patterns. Proc. Nat. Acad. Sci. DOI:10.1073/pnas.2018415117 
 <a href="https://www.pnas.org/content/117/49/31510">(link)</a>
 <a href="https://drive.google.com/file/d/1LFd_q5M06H4S_DCx-RX5kv_cgbU6BzLm/view?usp=sharing">(pdf)</a>
 <br/><br/>
