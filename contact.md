@@ -33,6 +33,8 @@ The lab is eager to facilitate projects related to our research interests. If yo
 <h3>Graduate Students:</h3>
 The lab accepts students through the UW Biology PhD program. Please reach out in late summer and early fall in advance of November application deadlines. Please email Prof. Steinbrenner with a brief cover letter describing your goals for graduate study.
 
+If you are considering graduate study in my lab or others, I highly encourage you to apply for the <a href="https://www.nsfgrfp.org/">NSF GRFP</a>. I am happy to provide feedback on GRFP applications provided well in advance of a deadline. Applications prior to admittance to a graduate program are encouraged and are not disadvantaged relative to those from current graduate students. You may re-apply in graduate school.
+
 <h3>Undergraduate Students:</h3>
 The lab welcomes enthusiastic UW undergraduates in any major. Students can receive BIOL499: Independent Research credit. Paid research opportunities may be available if there is a demonstrated need. Eligible students for Federal Work Study are especially encouraged to apply.
 

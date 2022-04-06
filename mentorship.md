@@ -10,6 +10,8 @@ permalink: /mentorship/
 
 ## Technician, Graduate Student, and Postdoc accomplishments
 
+Apr 2022: Anthony Garcia and Tonio Chaparro are awarded the NSF GRFP!!!
+
 Nov 2021: Natalia Guayazan-Palacios is awarded a 2021 SACNAS Student Presentation Award!!
 
 Mar 2021: Simon Snoeck is awarded the Mary Race Bevis Postdoctoral Research Award (UW Biology)
