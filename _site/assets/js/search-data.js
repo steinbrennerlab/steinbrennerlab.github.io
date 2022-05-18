@@ -143,4 +143,9 @@ var store = [{
         "excerpt":"Awesome news: the lab’s first two members, Anthony Garcia and Tonio Chaparro, were awarded the NSF-GRFP! Tonio joined as a technician and Anthony as an undergraduate researcher (now technician). Congrats! ","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/2022/04/04/GRFP.html"
+      },{
+        "title": "Adam speaks at Plant Genomes Online meeting",
+        "excerpt":"Adam presented our lab’s recent preprint at the PGO meeting. You can view a talk recording here: Youtube link ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2022/05/04/PGO.html"
       }]

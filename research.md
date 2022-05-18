@@ -11,9 +11,10 @@ layout: page
 Our lab is interested in function and evolution of plant immune recognition. Our lens on this topic is gene families encoding pattern recognition receptors (PRRs) at the plasma membrane, which detect extracellular immunogenic molecular patterns from attackers. We use genetic and genomic tools in both model systems (tobacco, Arabidopsis) and non-model legume species to understand which patterns are detected by different plants, and how PRR activation leads to effective resistance against pests and pathogens.
 
 <img src="/images/research0.png" class="align-left" alt="">
+<br>
+<br>
+<br>
 
-<br>
-<br>
 
 ## Immune recognition of caterpillars
 
@@ -29,6 +30,7 @@ Snoeck et al. 2022, "<a href="https://drive.google.com/file/d/1CgDlij3QT4rpkGMZu
 
 <img src="/images/research00.png" class="align-left" alt="">
 
+<br>
 <br>
 <br><br><br>
 
