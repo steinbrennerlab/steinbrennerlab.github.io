@@ -37,6 +37,8 @@ google_fonts:
 collections:
   people:
     output: true
+  undergrads:
+    output: true  
 footer_links:
   - title: Twitter
     url: https://twitter.com/adsteinbrenner

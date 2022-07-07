@@ -4,11 +4,6 @@ var store = [{
         "tags": [],
         "url": "https://steinbrennerlab.org/people/steinbrenner.html"
       },{
-        "title": "Antonio Chaparro",
-        "excerpt":"Research Technologist chaparro /at/ uw.edu   Tonio joined the lab in September 2019 after graduating from UW where he studied Molecular Biology and Environmental Science. He’s excited to continue growing plants and studying their complex immune systems! He also enjoys gardening, backpacking, and basketball. ","categories": [],
-        "tags": [],
-        "url": "https://steinbrennerlab.org/people/chaparro.html"
-      },{
         "title": "Anthony Garcia",
         "excerpt":"Research Technologist agg13 /at/ uw.edu   Anthony is an technician who joined the lab as an undergraduate in October 2019. He loves learning about plant physiology, especially how plants respond to herbivores and pathogens, and also enjoys running, finding interesting music, and eating Polish and Mexican food. ","categories": [],
         "tags": [],
@@ -28,11 +23,6 @@ var store = [{
         "excerpt":"Graduate Student nguaya /at/ uw.edu Natalia joined the UW Department of Biology in September 2019. Experience BS Microbiology, MS Biological Sciences, MS Computational Biology. Universidad de Los Andes. Bogotá, Colombia Interests My MS research was focused on cell and transcriptional changes that plant pathogens undergo during host colonization, and population...","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/people/guayazan_palacios.html"
-      },{
-        "title": "Sandy Tran",
-        "excerpt":"Undergraduate Researcher   Sandy is a microbiology major who is interested in the pathology of diseases. Outside of school, she likes to draw, play video games, and read! ","categories": [],
-        "tags": [],
-        "url": "https://steinbrennerlab.org/people/tran.html"
       },{
         "title": "Nathaniel Greenwood",
         "excerpt":"Undergraduate Researcher   Nathan is an undergraduate researcher studying Molecular Biology at UW and is interested in host-pathogen interactions. In his free time he enjoys planting, reading, and being active. ","categories": [],
@@ -58,6 +48,11 @@ var store = [{
         "excerpt":"Undergraduate Researcher   Heather is a Biochemistry major who plans to enter into the field of pharmaceuticals. She loves learning about systems (especially plants), as well as reading, tutoring, and exploring Washington! ","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/people/osterstock.html"
+      },{
+        "title": "Benjamin Sheppard",
+        "excerpt":"Graduate Student bdshep /at/ uw.edu    Ben joined the UW Department of Biology in September 2021. Experience Interests ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/people/sheppard.html"
       },{
         "title": "Lab website launched",
         "excerpt":"The lab website is up and running!  Check back for updates ","categories": [],
@@ -148,4 +143,24 @@ var store = [{
         "excerpt":"Adam presented our lab’s recent preprint at the PGO meeting. You can view a talk recording here: Youtube link ","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/2022/05/04/PGO.html"
+      },{
+        "title": "Ben Sheppard joins the lab",
+        "excerpt":"1st year graduate student Ben S has joined the lab. Welcome Ben! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2022/05/15/ben_joins.html"
+      },{
+        "title": "Tonio leaves for grad school at UC Berkeley",
+        "excerpt":"Tonio has left to prepare to start at UC Berkeley PMB’s PhD program in August. He is our first full-time departure since we started the lab in 2019. Good luck Tonio! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2022/06/01/tonio_leaves.html"
+      },{
+        "title": "Steinbrenner lab at Plant Bio 22",
+        "excerpt":"We will be making the short trip to PB22 in Portland, OR. Presentation info to come! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2022/07/06/PB22.html"
+      },{
+        "title": "Ava Kloss-Schmidt",
+        "excerpt":"Undergraduate Researcher Ava is an undergraduate studying Plant Biology at UW. She joined the Steinbrenner lab in October 2019 and is excited to learn more about working with plants in a lab setting. Her favorite place in Seattle is the Volunteer Park Conservatory and she would spend all her time...","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/undergrads/kloss-schmidt.html"
       }]
