@@ -10,6 +10,8 @@ permalink: /mentorship/
 
 ## Technician, Graduate Student, and Postdoc accomplishments
 
+May 2022: Anthony Garcia and Tonio Chaparro are pursuing PhDs in Plant Biology. Tonio will head to Plant & Microbial Biology at UC Berkeley, while Anthony will rejoin UW Biology in the fall. Congrats!
+
 Apr 2022: Anthony Garcia and Tonio Chaparro are awarded the NSF GRFP!!!
 
 Nov 2021: Natalia Guayazan-Palacios is awarded a 2021 SACNAS Student Presentation Award!!
@@ -20,6 +22,10 @@ Mar 2021: Natalia Guayazan-Palacios is awarded the Heerensperger and Walter & Ma
 
 
 ## Undergraduate accomplishments
+
+May 2022: Karyn Tindbaek will join the Metzger lab at Pacific Northwest Research Institute as a technician. Good luck Karyn!
+
+May 2022: Hannah, Karyn, Nathan, and Ava presented at the lab's first in-person Undergraduate Research Symposium. Great work!
 
 Mar 2022: Ava Kloss-Schmidt is awarded the Mary Gates Fellowship
 
