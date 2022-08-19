@@ -155,9 +155,14 @@ var store = [{
         "url": "https://steinbrennerlab.org/2022/06/01/tonio_leaves.html"
       },{
         "title": "Steinbrenner lab at Plant Bio 22",
-        "excerpt":"We will be making the short trip to PB22 in Portland, OR. Presentation info to come! ","categories": [],
+        "excerpt":"We will be making the short trip to PB22 in Portland, OR. 4 lab members will present posters, and Natalia will give a talk on plant-herbivore interactions! Link to titles ","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/2022/07/06/PB22.html"
+      },{
+        "title": "Ava leaves the lab",
+        "excerpt":"Recently graduated senior Ava Kloss-Schmidt leaves the lab after 2.5 great years developing bean genetic resources and optimizing herbivory assays. Good luck at Carnegie Ava! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2022/08/15/ava_leaves.html"
       },{
         "title": "Ava Kloss-Schmidt",
         "excerpt":"Undergraduate Researcher Ava is an undergraduate studying Plant Biology at UW. She joined the Steinbrenner lab in October 2019 and is excited to learn more about working with plants in a lab setting. Her favorite place in Seattle is the Volunteer Park Conservatory and she would spend all her time...","categories": [],

@@ -85,6 +85,7 @@ timeline <- ggplot(tasks.long, aes(x=Task, y=task.date, colour=Project)) +
   theme_gantt() + theme(axis.text.x=element_text(angle=45, hjust=1)) + scale_color_manual(values=pal) +ggtitle("Steinbrenner Lab")
 
 timeline
+ggsave("lab_members.png",timeline)
 
 ```
 
