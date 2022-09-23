@@ -164,6 +164,16 @@ var store = [{
         "tags": [],
         "url": "https://steinbrennerlab.org/2022/08/15/ava_leaves.html"
       },{
+        "title": "Adam speaks at the 12th Japan-US Seminar in Plant Pathology",
+        "excerpt":"Adam will present at the 12th Japan-US Seminar in Plant Pathology on “Evolution and Function of plant receptor-like proteins (RLPs)” ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2022/08/25/USA_japan.html"
+      },{
+        "title": "Ava Kloss-Schmidt featured on UW homepage",
+        "excerpt":"Lab alum Ava was featured on the UW homepage!  ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2022/09/20/ava_featured.html"
+      },{
         "title": "Ava Kloss-Schmidt",
         "excerpt":"Undergraduate Researcher Ava is an undergraduate studying Plant Biology at UW. She joined the Steinbrenner lab in October 2019 and is excited to learn more about working with plants in a lab setting. Her favorite place in Seattle is the Volunteer Park Conservatory and she would spend all her time...","categories": [],
         "tags": [],
