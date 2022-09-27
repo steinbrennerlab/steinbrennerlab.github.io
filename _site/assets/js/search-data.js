@@ -24,11 +24,6 @@ var store = [{
         "tags": [],
         "url": "https://steinbrennerlab.org/people/guayazan_palacios.html"
       },{
-        "title": "Nathaniel Greenwood",
-        "excerpt":"Undergraduate Researcher   Nathan is an undergraduate researcher studying Molecular Biology at UW and is interested in host-pathogen interactions. In his free time he enjoys planting, reading, and being active. ","categories": [],
-        "tags": [],
-        "url": "https://steinbrennerlab.org/people/greenwood.html"
-      },{
         "title": "Caroline Divney",
         "excerpt":"Undergraduate Researcher   Caroline is an undergraduate studying Plant Biology and joined Steinbrenner lab in September 2021. She is interested in learning more about how plants influence their surrounding environments. She also loves reading, gardening, and spending time outdoors with her friends. ","categories": [],
         "tags": [],
@@ -53,6 +48,11 @@ var store = [{
         "excerpt":"Graduate Student bdshep /at/ uw.edu    Ben joined the UW Department of Biology in September 2021. Experience Interests ","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/people/sheppard.html"
+      },{
+        "title": "Wesley George",
+        "excerpt":"Research Technologist weslg /at/ uw.edu   Wesley joined the lab in 2022 and splits time with the Nemhauser lab at UW. He is interested in plant responses to stress. ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/people/george.html"
       },{
         "title": "Lab website launched",
         "excerpt":"The lab website is up and running!  Check back for updates ","categories": [],
@@ -173,6 +173,11 @@ var store = [{
         "excerpt":"Lab alum Ava was featured on the UW homepage!  ","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/2022/09/20/ava_featured.html"
+      },{
+        "title": "Anthony and William join the lab as rotation students",
+        "excerpt":"William Albers and Anthony Garcia will rotate in the lab for the fall quarter. Welcome! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2022/09/24/rotation_students.html"
       },{
         "title": "Ava Kloss-Schmidt",
         "excerpt":"Undergraduate Researcher Ava is an undergraduate studying Plant Biology at UW. She joined the Steinbrenner lab in October 2019 and is excited to learn more about working with plants in a lab setting. Her favorite place in Seattle is the Volunteer Park Conservatory and she would spend all her time...","categories": [],
