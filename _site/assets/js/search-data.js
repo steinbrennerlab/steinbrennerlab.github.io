@@ -179,6 +179,11 @@ var store = [{
         "tags": [],
         "url": "https://steinbrennerlab.org/2022/09/24/rotation_students.html"
       },{
+        "title": "New work in eLIFE",
+        "excerpt":"Simon and Anthony’s paper on evolution of the INR receptor is now out in eLIFE here! See Adam’s tweet here. Congrats! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2022/11/16/snoeck_eLIFE.html"
+      },{
         "title": "Ava Kloss-Schmidt",
         "excerpt":"Undergraduate Researcher Ava is an undergraduate studying Plant Biology at UW. She joined the Steinbrenner lab in October 2019 and is excited to learn more about working with plants in a lab setting. Her favorite place in Seattle is the Volunteer Park Conservatory and she would spend all her time...","categories": [],
         "tags": [],

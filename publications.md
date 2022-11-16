@@ -11,11 +11,18 @@ permalink: /publications/
 <div class="paragraph"><span style="color:rgb(102, 102, 102)">
 <strong>For an up-to-date list, see </strong></span><a href="https://scholar.google.com/citations?user=CVyh4joAAAAJ&hl=en">Google Scholar</a><span style="color:rgb(102, 102, 102)"></span><br /><br />
 
-(17) <strong style="color:rgb(102, 102, 102)">Snoeck S</strong>, Abramson BW, <strong style="color:rgb(102, 102, 102)">Garcia AGK</strong>, Egan AN, Michael TP, <strong style="color:rgb(102, 102, 102)">Steinbrenner AD</strong>. (2022). Evolutionary gain and loss of a plant pattern-recognition receptor for HAMP recognition. bioRxiv.
-<a href="https://www.biorxiv.org/content/10.1101/2022.03.30.484633v1">(link)</a>
+(18) <strong>Garcia, AGK, Steinbrenner AD</strong>. (2022). Bringing Plant Immunity to Light: A Genetically Encoded, Bioluminescent Reporter of Pattern Triggered Immunity in Nicotiana benthamiana. bioRxiv. <a href="https://www.biorxiv.org/content/10.1101/2022.07.28.501876v1">(link)</a>
 <br/><br/>
 
-<img src="/images/publications/snoeck2022.png" class="align-left" width="500" alt="">
+<img src="/images/publications/2022_garcia.png" class="align-left" width="500" alt="">
+<br/><br/>
+<BR CLEAR="left">
+
+(17) <strong style="color:rgb(102, 102, 102)">Snoeck S</strong>, Abramson BW, <strong style="color:rgb(102, 102, 102)">Garcia AGK</strong>, Egan AN, Michael TP, <strong style="color:rgb(102, 102, 102)">Steinbrenner AD</strong>. (2022). Evolutionary gain and loss of a plant pattern-recognition receptor for HAMP recognition. eLIFE. DOI: 10.7554/eLife.81050
+<a href="https://elifesciences.org/articles/81050">(link)</a>
+<br/><br/>
+
+<img src="/images/publications/2022_snoeck.png" class="align-left" width="500" alt="">
 <br/><br/>
 <BR CLEAR="left">
 
@@ -26,7 +33,7 @@ permalink: /publications/
 (15) <strong style="color:rgb(102, 102, 102)">Snoeck S, Guayazán-Palacios N, Steinbrenner AD</strong>. (2022) Molecular tug-of-war: Plant immune recognition of herbivory. The Plant Cell DOI: 10.1093/plcell/koac009. <a href="https://academic.oup.com/plcell/advance-article/doi/10.1093/plcell/koac009/6506533">(link)</a> <a href="https://drive.google.com/file/d/1CgDlij3QT4rpkGMZuLhTzW8r1GtmzKlr/view?usp=sharing">(pdf)</a>
 <br/><br/>
 
-<img src="/images/publications/snoeck2021.jpg" class="align-left" alt="">
+<img src="/images/publications/2021_snoeck.jpg" class="align-left" alt="">
 <br/><br/>
 <BR CLEAR="left">
 
