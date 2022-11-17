@@ -9,11 +9,6 @@ var store = [{
         "tags": [],
         "url": "https://steinbrennerlab.org/people/garcia.html"
       },{
-        "title": "Ava Kloss-Schmidt",
-        "excerpt":"Undergraduate Researcher Ava is an undergraduate studying Plant Biology at UW. She joined the Steinbrenner lab in October 2019 and is excited to learn more about working with plants in a lab setting. Her favorite place in Seattle is the Volunteer Park Conservatory and she would spend all her time...","categories": [],
-        "tags": [],
-        "url": "https://steinbrennerlab.org/people/kloss-schmidt.html"
-      },{
         "title": "Simon Snoeck",
         "excerpt":"Postdoctoral Researcher spsnoeck /at/ uw.edu Experience BS, MS and Doctor of Bioscience Engineering, Ghent university Interests My PhD research focused on genetic and molecular mechanisms of pesticide resistance and long-term host plant acclimation of the generalist herbivore Tetranychus urticae. Throughout my studies, my interests gradually evolved and extended beyond arthropods....","categories": [],
         "tags": [],
@@ -23,26 +18,6 @@ var store = [{
         "excerpt":"Graduate Student nguaya /at/ uw.edu Natalia joined the UW Department of Biology in September 2019. Experience BS Microbiology, MS Biological Sciences, MS Computational Biology. Universidad de Los Andes. Bogotá, Colombia Interests My MS research was focused on cell and transcriptional changes that plant pathogens undergo during host colonization, and population...","categories": [],
         "tags": [],
         "url": "https://steinbrennerlab.org/people/guayazan_palacios.html"
-      },{
-        "title": "Caroline Divney",
-        "excerpt":"Undergraduate Researcher   Caroline is an undergraduate studying Plant Biology and joined Steinbrenner lab in September 2021. She is interested in learning more about how plants influence their surrounding environments. She also loves reading, gardening, and spending time outdoors with her friends. ","categories": [],
-        "tags": [],
-        "url": "https://steinbrennerlab.org/people/divney.html"
-      },{
-        "title": "Hannah Luskin",
-        "excerpt":"Undergraduate Researcher   Hannah is a Molecular, Cellular and Developmental Biology major who joined the lab in September 2021. She enjoys learning about genetic engineering in plants especially as it relates to plant defenses or drought resistance. Outside of school, she enjoys nature photography, swimming, kayaking, and gardening. ","categories": [],
-        "tags": [],
-        "url": "https://steinbrennerlab.org/people/luskin.html"
-      },{
-        "title": "Brian Behnken",
-        "excerpt":"Undergraduate Researcher Brian is a microbiology major with the intention of pursuing a PhD in immunology. He joined the lab in winter of 2022 and is looking forward to learning about plant immune systems. His interests include research and reading anything from physics to biology, and outside of the academy...","categories": [],
-        "tags": [],
-        "url": "https://steinbrennerlab.org/people/behnken.html"
-      },{
-        "title": "Heather Osterstock",
-        "excerpt":"Undergraduate Researcher   Heather is a Biochemistry major who plans to enter into the field of pharmaceuticals. She loves learning about systems (especially plants), as well as reading, tutoring, and exploring Washington! ","categories": [],
-        "tags": [],
-        "url": "https://steinbrennerlab.org/people/osterstock.html"
       },{
         "title": "Benjamin Sheppard",
         "excerpt":"Graduate Student bdshep /at/ uw.edu    Ben joined the UW Department of Biology in September 2021. Experience Interests ","categories": [],
