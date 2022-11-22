@@ -39,6 +39,9 @@ Our work inspires strategies to protect crops against emerging pests and pathoge
 
 <img src="/images/homepage5.jpg" class="align-center" alt="" style="border: #000000 1px solid;">
 
+
+
+<h3 class="entry-title" style="text-align:center;font-weight:bold"><a href="/research">For more on our research and scientific questions, including publications by topic, please visit the <u> research page </u>.</a></h3>
 <br>
 
 ---

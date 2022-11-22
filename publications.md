@@ -6,10 +6,15 @@ title: Publications
 layout: page
 permalink: /publications/
 ---
+
+<h3 class="entry-title" style="text-align:left"><a href="/research">For more on our big picture scientific questions, including publications sorted by topic, please visit the <u> research page</u>.</a></h3>
+
+<br>
+
 <div class="paragraph"><span style="color:rgb(102, 102, 102)"><strong>UW lab members in bold</strong></span><br />
 
 <div class="paragraph"><span style="color:rgb(102, 102, 102)">
-<strong>For an up-to-date list, see </strong></span><a href="https://scholar.google.com/citations?user=CVyh4joAAAAJ&hl=en">Google Scholar</a><span style="color:rgb(102, 102, 102)"></span><br /><br />
+<strong>For the most up-to-date list, see </strong></span><a href="https://scholar.google.com/citations?user=CVyh4joAAAAJ&hl=en">Google Scholar</a><span style="color:rgb(102, 102, 102)"></span><br /><br />
 
 (18) <strong>Garcia, AGK, Steinbrenner AD</strong>. (2022). Bringing Plant Immunity to Light: A Genetically Encoded, Bioluminescent Reporter of Pattern Triggered Immunity in Nicotiana benthamiana. bioRxiv. <a href="https://www.biorxiv.org/content/10.1101/2022.07.28.501876v1">(link)</a>
 <br/><br/>
