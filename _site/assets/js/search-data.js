@@ -159,6 +159,11 @@ var store = [{
         "tags": [],
         "url": "https://steinbrennerlab.org/2022/11/16/snoeck_eLIFE.html"
       },{
+        "title": "Recruiting a 2023 summer intern via UC Davis",
+        "excerpt":"We are pairing with Dr. Dinesh Kumar to host a UC Davis undergraduate. The student will return to UC Davis to work with Dinesh during the academic year. Please see details here ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2023/02/20/summerIntern.html"
+      },{
         "title": "Ava Kloss-Schmidt",
         "excerpt":"Undergraduate Researcher Ava is an undergraduate studying Plant Biology at UW. She joined the Steinbrenner lab in October 2019 and is excited to learn more about working with plants in a lab setting. Her favorite place in Seattle is the Volunteer Park Conservatory and she would spend all her time...","categories": [],
         "tags": [],
