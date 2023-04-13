@@ -15,10 +15,11 @@ layout: page
 
 ## 1. Plant Immunity
 
-Our lab is interested in function and evolution of plant immune recognition. Our lens on this topic is gene families encoding pattern recognition receptors (PRRs) at the plasma membrane, which detect extracellular immunogenic molecular patterns from attackers. We use genetic and genomic tools in both model systems (tobacco, Arabidopsis) and non-model legume species to understand which patterns are detected by different plants, and how PRR activation leads to effective resistance against pests and pathogens.
+Our lab is interested in function and evolution of plant immune recognition. Our lens on this topic is gene families encoding pattern recognition receptors (PRRs) at the plasma membrane, which detect extracellular immunogenic molecular patterns from attackers. Using genetic and genomic tools in both molecular model systems (tobacco, Arabidopsis) and in crop legumes, we can learn which patterns are detected by different plants, and how PRR activation leads to effective resistance against pests and pathogens.
 
 <img src="/images/research0.png" class="align-left" alt="" width="600">
 <BR CLEAR="left">
+<br>
 
 ## 2. Immune recognition of caterpillars
 <img src="/images/research00.png" class="align-left" alt="" width="400">
@@ -32,6 +33,8 @@ We recently identified a PRR which directly detects a peptide ligand associated 
 - Steinbrenner et al. 2020, "<a href="https://drive.google.com/file/d/1LFd_q5M06H4S_DCx-RX5kv_cgbU6BzLm/view">A receptor-like protein mediates plant immune responses to herbivore-associated molecular patterns</a>", PNAS 
 - Snoeck et al. 2022, "<a href="https://drive.google.com/file/d/1CgDlij3QT4rpkGMZuLhTzW8r1GtmzKlr/view?usp=sharing">Molecular tug-of-war: Plant immune recognition of herbivory</a>", Plant Cell 
 
+<BR CLEAR="left">
+<br>
 
 ## 3. Pest recognition and differentiation by plant immune receptors
 
@@ -50,13 +53,15 @@ Since distinct hormones mediate defense against pathogens vs herbivores, we are 
 <img src="/images/research02.png" class="align-left" alt="" width="400">
 Species in the the legume family (Fabaceae) are uniquely able to respond to inceptins. In cowpea and common bean, inceptin activates canonical anti-herbivore defense responses such as protease inhibition, small molecule toxin biosynthesis, and release of parasitoid-attracting volatiles.
 
-We are interested in the ecological functions of inceptin-triggered responses, especially in relation to the generic wound response. We are developing genetic tools in legumes to understand the contribution of both wounding and PRRs to resistance against herbivores.
+We are interested in the ecological functions of inceptin-triggered responses, especially in relation to the generic wound response. We are developing genetic tools in legumes, including soybean, to understand the contribution of both wounding and PRRs to resistance against herbivores.
 
+<BR CLEAR="left">
 <b>Our papers on this topic:</b>
 
 - Steinbrenner et al. 2021, "<a href="https://www.biorxiv.org/content/10.1101/2021.09.02.458788v1.full">Signatures of plant defense response specificity mediated by herbivore-associated molecular patterns in legumes</a>", bioRxiv (in press at Plant Journal) 
 
 <BR CLEAR="left">
+<br>
 
 ## 5. Evolution of immune receptor function
 <img src="/images/research05.png" class="align-left" alt="" width="400">
@@ -68,6 +73,10 @@ The INR receptor is restricted to certain legume species, but its function is id
 <b>Our papers on this topic:</b>
 - Snoeck et al. 2022, "<a href="https://www.biorxiv.org/content/10.1101/2022.03.30.484633v1.full">Evolutionary gain and loss of a plant pattern-recognition receptor for HAMP recognition</a>", bioRxiv and in press at ELIFE
 - Schultink and Steinbrenner 2021, "<a href="https://drive.google.com/file/d/1aLeg2RQXgjAUeg3xWW1sNg6kYbBw_xPs/view?usp=sharing">A playbook for developing disease-resistant crops through immune receptor identification and transfer</a>", Curr. Opin. Plant Biol. 
+- Snoeck et al. 2023, "Plant Receptor-like proteins (RLPs): Structural features enabling versatile immune recognition." Physiological and Molecular Plant Pathology. <a href="https://authors.elsevier.com/a/1gprb39MrQ4oiE">(link)</a>
+
+<BR CLEAR="left">
+<br>
 
 ## 6. Properties and utility of LRR ectodomain networks
 
