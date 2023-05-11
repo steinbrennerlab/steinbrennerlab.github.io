@@ -9,11 +9,6 @@ var store = [{
         "tags": [],
         "url": "https://steinbrennerlab.org/people/garcia.html"
       },{
-        "title": "Simon Snoeck",
-        "excerpt":"Postdoctoral Researcher spsnoeck /at/ uw.edu Experience BS, MS and Doctor of Bioscience Engineering, Ghent university Interests My PhD research focused on genetic and molecular mechanisms of pesticide resistance and long-term host plant acclimation of the generalist herbivore Tetranychus urticae. Throughout my studies, my interests gradually evolved and extended beyond arthropods....","categories": [],
-        "tags": [],
-        "url": "https://steinbrennerlab.org/people/snoeck.html"
-      },{
         "title": "Natalia Guayazán Palacios",
         "excerpt":"Graduate Student nguaya /at/ uw.edu Natalia joined the UW Department of Biology in September 2019. Experience BS Microbiology, MS Biological Sciences, MS Computational Biology. Universidad de Los Andes. Bogotá, Colombia Interests My MS research was focused on cell and transcriptional changes that plant pathogens undergo during host colonization, and population...","categories": [],
         "tags": [],
