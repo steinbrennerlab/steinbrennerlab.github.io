@@ -4,11 +4,6 @@ var store = [{
         "tags": [],
         "url": "https://steinbrennerlab.org/people/steinbrenner.html"
       },{
-        "title": "Anthony Garcia",
-        "excerpt":"Research Technologist agg13 /at/ uw.edu   Anthony is an technician who joined the lab as an undergraduate in October 2019. He loves learning about plant physiology, especially how plants respond to herbivores and pathogens, and also enjoys running, finding interesting music, and eating Polish and Mexican food. ","categories": [],
-        "tags": [],
-        "url": "https://steinbrennerlab.org/people/garcia.html"
-      },{
         "title": "Natalia Guayazán Palacios",
         "excerpt":"Graduate Student nguaya /at/ uw.edu Natalia joined the UW Department of Biology in September 2019. Experience BS Microbiology, MS Biological Sciences, MS Computational Biology. Universidad de Los Andes. Bogotá, Colombia Interests My MS research was focused on cell and transcriptional changes that plant pathogens undergo during host colonization, and population...","categories": [],
         "tags": [],

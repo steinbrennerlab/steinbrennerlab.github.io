@@ -1,0 +1,73 @@
+```{r}
+library(ggplot2)
+library(readr)
+library(tidyverse)
+library(lubridate)
+library(scales)
+library(Cairo)
+library(wesanderson)
+```
+
+```{r}
+
+# Thanks https://stats.andrewheiss.com/misc/gantt.html
+
+tasks <- read.delim("~/08_website/github/steinbrennerlab.github.io/lab_members.txt")
+
+#change this to the current date to update all current lab members
+tasks$End[tasks$End=="today"]<-"2023-01-01"
+
+# Convert data to long for ggplot
+tasks.long <- tasks %>%
+  mutate(Start = ymd(Start),
+         End = ymd(End)) %>%
+  gather(date.type, task.date, -c(Project, Task)) %>%
+  arrange(date.type, task.date) %>%
+  mutate(Task = factor(Task, levels=rev(unique(Task)), ordered=TRUE))
+
+# Custom theme for making a clean Gantt chart
+theme_gantt <- function(base_size=11, base_family="sans") {
+  ret <- theme_bw(base_size, base_family) %+replace%
+    theme(panel.background = element_rect(fill="#ffffff", colour=NA),
+          axis.title.x=element_text(vjust=-0.2), axis.title.y=element_text(vjust=1.5),
+          title=element_text(vjust=1.2, family="Source Sans Pro Semibold"),
+          panel.border = element_blank(), axis.line=element_blank(),
+          panel.grid.minor=element_blank(),
+          panel.grid.major.y = element_blank(),
+          panel.grid.major.x = element_line(size=0.5, colour="grey80"),
+          axis.ticks=element_blank(),
+          legend.position="bottom", 
+          axis.title=element_text(size=rel(0.8), family="Source Sans Pro Semibold"),
+          strip.text=element_text(size=rel(1), family="Source Sans Pro Semibold"),
+          strip.background=element_rect(fill="#ffffff", colour=NA),
+          panel.spacing.y=unit(1.5, "lines"),
+          legend.key = element_blank())
+  
+  ret
+}
+
+# Calculate where to put the dotted lines that show up every three entries
+#x.breaks <- seq(length(tasks$Task) + 0.5 - 3, 0, by=-3)
+x.breaks <- seq(length(tasks$Task) + 0.5, 0, by=-1)
+
+
+pal <- wes_palette("Darjeeling1", 5, type = "discrete")
+pal[6:10]<-wes_palette("Darjeeling2", 5, type = "discrete")
+pal[6:9]<-pal[7:10]
+
+# Build plot
+timeline <- ggplot(tasks.long, aes(x=Task, y=task.date, colour=Project)) + 
+  geom_line(size=6) + 
+  #geom_vline(xintercept=x.breaks, colour="grey80", linetype="dotted") + 
+  guides(colour=guide_legend(title=NULL)) +
+  labs(x=NULL, y=NULL) + coord_flip() +
+  scale_y_date(date_breaks="6 months", labels=date_format("%b %Y")) +
+  theme_gantt() + theme(axis.text.x=element_text(angle=45, hjust=1)) + scale_color_manual(values=pal) +ggtitle("Steinbrenner Lab") +
+  #reorder the list according to the input text document
+scale_x_discrete(limits = rev(unique(tasks$Task)))
+
+timeline
+ggsave("~/08_website/github/steinbrennerlab.github.io/lab_members.png",width=6,height=8,timeline)
+
+```
+
