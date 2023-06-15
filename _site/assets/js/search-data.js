@@ -1,24 +1,4 @@
 var store = [{
-        "title": "Adam Steinbrenner",
-        "excerpt":"Principal Investigator astein10 /at/ uw.edu Adam Steinbrenner joined the UW Department of Biology in September 2019. Experience HHMI and UC President’s Postdoctoral Fellow, University of California, San Diego (2016-2019) PhD, Plant Biology University of California, Berkeley BS, Biology Tufts University Projects I am fascinated by the plant immune system and...","categories": [],
-        "tags": [],
-        "url": "https://steinbrennerlab.org/people/steinbrenner.html"
-      },{
-        "title": "Natalia Guayazán Palacios",
-        "excerpt":"Graduate Student nguaya /at/ uw.edu Natalia joined the UW Department of Biology in September 2019. Experience BS Microbiology, MS Biological Sciences, MS Computational Biology. Universidad de Los Andes. Bogotá, Colombia Interests My MS research was focused on cell and transcriptional changes that plant pathogens undergo during host colonization, and population...","categories": [],
-        "tags": [],
-        "url": "https://steinbrennerlab.org/people/guayazan_palacios.html"
-      },{
-        "title": "Benjamin Sheppard",
-        "excerpt":"Graduate Student bdshep /at/ uw.edu    Ben joined the UW Department of Biology in September 2021. Experience Interests ","categories": [],
-        "tags": [],
-        "url": "https://steinbrennerlab.org/people/sheppard.html"
-      },{
-        "title": "Wesley George",
-        "excerpt":"Research Technologist weslg /at/ uw.edu   Wesley joined the lab in 2022 and splits time with the Nemhauser lab at UW. He is interested in plant responses to stress. ","categories": [],
-        "tags": [],
-        "url": "https://steinbrennerlab.org/people/george.html"
-      },{
         "title": "Lab website launched",
         "excerpt":"The lab website is up and running!  Check back for updates ","categories": [],
         "tags": [],
