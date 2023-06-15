@@ -12,10 +12,11 @@ library(wesanderson)
 
 # Thanks https://stats.andrewheiss.com/misc/gantt.html
 
-tasks <- read.delim("~/08_website/github/steinbrennerlab.github.io/lab_members.txt")
+#tasks <- read.delim("~/08_website/github/steinbrennerlab.github.io/lab_members.txt")
+tasks <- read.delim("lab_members.txt")
 
 #change this to the current date to update all current lab members
-tasks$End[tasks$End=="today"]<-"2023-01-01"
+tasks$End[tasks$End=="today"]<-"2023-06-01"
 
 # Convert data to long for ggplot
 tasks.long <- tasks %>%
@@ -67,7 +68,8 @@ timeline <- ggplot(tasks.long, aes(x=Task, y=task.date, colour=Project)) +
 scale_x_discrete(limits = rev(unique(tasks$Task)))
 
 timeline
-ggsave("~/08_website/github/steinbrennerlab.github.io/lab_members.png",width=6,height=8,timeline)
+#ggsave("~/08_website/github/steinbrennerlab.github.io/lab_members.png",width=6,height=8,timeline)
+ggsave("lab_members.png",width=6,height=8,timeline)
 
 ```
 
