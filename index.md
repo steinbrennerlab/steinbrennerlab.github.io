@@ -56,6 +56,8 @@ Our work inspires strategies to protect crops against emerging pests and pathoge
 {: .text-center}
 ### @ADSteinbrenner
 {: .text-center}
+### <FONT COLOR="#ff0000">Recruiting 1-2 postdocs for Fall 2023 -- please see job ad <a href="https://twitter.com/ADSteinbrenner/status/1649427685158813699">here</a>!
+{: .text-center}
 
 <br>
 

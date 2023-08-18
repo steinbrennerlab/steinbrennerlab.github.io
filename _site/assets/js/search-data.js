@@ -134,6 +134,16 @@ var store = [{
         "tags": [],
         "url": "https://steinbrennerlab.org/2023/02/20/summerIntern.html"
       },{
+        "title": "Notice of Award for R35 MIRA grant",
+        "excerpt":"🎉 The lab has received a 5 year award to study immunodiversity of plant immune receptors. More information can be found here. ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2023/07/20/NIH.html"
+      },{
+        "title": "Wesley George leaves for UC Riverside grad program",
+        "excerpt":"Wesley leaves after a productive year as a technician. He will attend UC Riverside’s Plant Biology grad program. Congrats Wes! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2023/08/17/Wes.html"
+      },{
         "title": "Ava Kloss-Schmidt",
         "excerpt":"Undergraduate Researcher Ava is an undergraduate studying Plant Biology at UW. She joined the Steinbrenner lab in October 2019 and is excited to learn more about working with plants in a lab setting. Her favorite place in Seattle is the Volunteer Park Conservatory and she would spend all her time...","categories": [],
         "tags": [],

@@ -15,7 +15,7 @@ layout: page
 
 ## 1. Plant Immunity
 
-Our lab is interested in function and evolution of plant immune recognition. Our lens on this topic is gene families encoding pattern recognition receptors (PRRs) at the plasma membrane, which detect extracellular immunogenic molecular patterns from attackers. Using genetic and genomic tools in both molecular model systems (tobacco, Arabidopsis) and in crop legumes, we can learn which patterns are detected by different plants, and how PRR activation leads to effective resistance against pests and pathogens.
+Our lab studies how plants detect diverse attackers. Our lens on this topic is gene families encoding pattern recognition receptors (PRRs) at the plasma membrane, which detect extracellular immunogenic molecular patterns from attackers. Using genetic and genomic tools in both molecular model systems (tobacco, Arabidopsis) and in crop legumes, we can learn which patterns are detected by different plants, and how PRR activation leads to effective resistance against pests and pathogens.
 
 <img src="/images/research0.png" class="align-left" alt="" width="600">
 <BR CLEAR="left">
@@ -24,9 +24,9 @@ Our lab is interested in function and evolution of plant immune recognition. Our
 ## 2. Immune recognition of caterpillars
 <img src="/images/research00.png" class="align-left" alt="" width="400">
 
-PRRs bind extracellular ligands and initiate defense signal transduction. Many well-characterized receptors detect pathogen-associated molecular patterns (PAMPs), but receptors for other pest classes such as chewing herbivores are not well understood.
+PRRs bind extracellular ligands and initiate defense signal transduction. Many well-characterized receptors detect pathogen-associated molecular patterns (PAMPs), but receptors for analogous herbivore-associated molecular patterns (HAMPs) are not well understood.
 
-We recently identified a PRR which directly detects a peptide ligand associated with chewing heribivory. Inceptin receptor, or INR, confers binding, signaling, and defensive outputs in response to low nanomolar concentrations of inceptin peptide.  INR is unique to specific legume species.  Since inceptin peptides are widespread in caterpillar oral secretions, INR likely confers broad spectrum recognition of herbivores.
+We recently identified a PRR which directly detects a peptide ligand associated with chewing heribivory. Inceptin receptor, or INR, confers binding, signaling, and defensive outputs in response to low nanomolar concentrations of inceptin peptide. Since distinct hormones mediate defense against pathogens vs herbivores, we are interested in downstream signaling differences between INR and other cell surface receptors, especially the large family of non-kinase Receptor-like Proteins.
 
 <BR CLEAR="left">
 <b>Our papers on this topic:</b>
@@ -36,12 +36,12 @@ We recently identified a PRR which directly detects a peptide ligand associated 
 <BR CLEAR="left">
 <br>
 
-## 3. Pest recognition and differentiation by plant immune receptors
+## 3. Peptide recognition and differentiation by plant immune receptors
 
 <img src="/images/research01-2.png" class="align-left" alt="" width="400">
 Plant cell surface receptors signal through a network of co-receptor and adaptor kinases.  Canonical receptors recruit the co-receptor BAK1 and kinase cascades lead directly to early immune signaling outputs, such as MAPK phosphorylation, ethylene biosynthesis, and burst of reactive oxygen species.
 
-Since distinct hormones mediate defense against pathogens vs herbivores, we are interested in downstream signaling differences between INR and other cell surface receptors, especially the large family of non-kinase Receptor-like Proteins.
+Only a few dozen PRRs have defined ligands, but general principles are emerging regarding ligand specificity encoded by the sequence and structure of LRR ectodomains. We are developing in silico and experimental screening systems to pair receptors and ligands for the vast number of "orphan" receptor sequences annotated across plant genomes.
 
 <BR CLEAR="left">
 <b>Our papers on this topic:</b>
