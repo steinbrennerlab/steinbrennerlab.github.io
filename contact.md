@@ -16,25 +16,22 @@ Seattle, WA 98195
 <b>Contact Prof. Steinbrenner</b> <br>
 Adam Steinbrenner <br>
 astein10 /at/ uw.edu <br>
-@ADSteinbrenner <br>
-
-![no-alignment]({{ '/images/contact1.jpg' | absolute_url }})
-
-
 <br>
+
 
 <h2>Opportunities to join the lab</h2>
 
 Open positions will be shared on the news page. Other opportunities to join the lab are described below:
 
-<h3>Postdoctoral Researchers:</h3>
-The lab is eager to facilitate postdoctoral projects related to our research interests. Opportunities from current grants are listed on the <a href="http://steinbrennerlab.org">home page</a>. If you are interested to seek external postdoctoral funding to join the lab, please reach out to Adam 4-12 months in advance of application deadlines. Please email Prof. Steinbrenner with a description of your previous research and future goals. <br>
+<h3>Undergraduate Students:</h3>
+The lab welcomes inquiries from enthusiastic UW undergraduates as early as 1st year and in any STEM major, including major-undeclared students. Students can receive BIOL499: Independent Research credit. Paid research opportunities are available with priority given to Federal Work Study eligible students. Look for our job ad in the <a href="https://apps.osfa.washington.edu/workstudy/pages/jobs.php?onCampus">work study</a> database under Organization Name: Biology.
 
-Funding opportunities include:<br>
-• <a href="https://www.wrfseattle.org/grants/wrf-postdoctoral-fellowships/">WRF Postdoctoral Program</a> (due June)<br>
-• <a href="https://nifa.usda.gov/grants/funding-opportunities/agriculture-food-research-initiative-education-workforce-development">USDA NIFA Postdoctoral Fellowships Program</a> (due mid-summer)<br>
-• <a href="https://beta.nsf.gov/funding/opportunities/postdoctoral-research-fellowships-biology-prfb">NSF Postdoctoral Research Fellowships</a> (due fall)<br>
-• <a href="https://lsrf.org/">LSRF Postdoctoral Fellowships</a> (due fall)
+Please email Prof. Steinbrenner with a resumé and brief description of your interests, any previous experience, and relevant coursework.
+
+<h3>Postbacs / Technicians:</h3>
+The lab always accepts applications for enthusiastic early-career scientists seeking 1-2 years of research experience prior to admission to graduate programs. Previous experience in plant care, molecular biology, and/or genomics is required. Technicians are given mentorship and support through a network of plant molecular biologists in the UW Biology department, including the opportunity to present in weekly joint lab meetings. The lab has a strong track record supporting technicians to apply to fellowships and graduate programs while employed: see <a href="http://steinbrennerlab.org/mentorship">mentorship page page</a> for additional details.
+
+Please email Prof. Steinbrenner with a CV describing your goals for graduate study and previous research experience.
 
 <h3>Graduate Students:</h3>
 The lab accepts students through the <a href="https://www.biology.washington.edu/programs/graduate/admissions">UW Biology PhD program</a> and the <a href="https://mcb-seattle.edu/">Seattle MCB program</a>. Please reach out to Prof. Steinbrenner  in late summer or early fall in advance of November application deadlines. Your email should include a CV and brief cover letter describing your goals for graduate study.
@@ -49,7 +46,15 @@ Other potential sources of graduate funding, especially for those not eligible f
 • <a href="https://grad.ncsu.edu/student-funding/fellowships-and-grants/national/nationally-competitive-graduate-fellowships/">NCSU fellowship database</a><br>
 • <a href="https://www.pathwaystoscience.org/grad.aspx">Pathways to Science fellowship database</a>
 
-<h3>Undergraduate Students:</h3>
-The lab welcomes enthusiastic UW undergraduates in any major, including major-undeclared students. Students can receive BIOL499: Independent Research credit. Paid research opportunities are available with priority given to Federal Work Study eligible students. Look for our job ad in the <a href="https://apps.osfa.washington.edu/workstudy/pages/jobs.php?onCampus">work study</a> database under Organization Name: Biology.
+<h3>Postdoctoral Researchers:</h3>
+The lab is eager to facilitate postdoctoral projects related to our research interests. Opportunities from current grants are listed on the <a href="http://steinbrennerlab.org">home page</a>. If you are interested to seek external postdoctoral funding to join the lab, please reach out to Adam 4-12 months in advance of application deadlines. Please email Prof. Steinbrenner with a description of your previous research and future goals. <br>
 
-Please email Prof. Steinbrenner with a CV describing your interests, any previous experience, and relevant coursework.
+Funding opportunities include:<br>
+• <a href="https://www.wrfseattle.org/grants/wrf-postdoctoral-fellowships/">WRF Postdoctoral Program</a> (due June)<br>
+• <a href="https://nifa.usda.gov/grants/funding-opportunities/agriculture-food-research-initiative-education-workforce-development">USDA NIFA Postdoctoral Fellowships Program</a> (due mid-summer)<br>
+• <a href="https://beta.nsf.gov/funding/opportunities/postdoctoral-research-fellowships-biology-prfb">NSF Postdoctoral Research Fellowships</a> (due fall)<br>
+• <a href="https://lsrf.org/">LSRF Postdoctoral Fellowships</a> (due fall)
+
+
+![no-alignment]({{ '/images/contact1.jpg' | absolute_url }})
+
