@@ -16,12 +16,14 @@ Seattle, WA 98195
 <b>Contact Prof. Steinbrenner</b> <br>
 Adam Steinbrenner <br>
 astein10 /at/ uw.edu <br>
+@ADSteinbrenner on social media <br>
 <br>
 
 
 <h2>Opportunities to join the lab</h2>
 
-Open positions will be shared on the news page. Other opportunities to join the lab are described below:
+### <FONT COLOR="#ff0000">Recruiting 1-2 postdocs for Fall 2023 -- please see job ad <a href="https://drive.google.com/file/d/1sWXSK4lC-rLMsO7IUCqHePW_KkwMSBM3/view?usp=drive_link">here</a>!
+Other opportunities to join the lab are described below:
 
 <h3>Undergraduate Students:</h3>
 The lab welcomes inquiries from enthusiastic UW undergraduates as early as 1st year and in any STEM major, including major-undeclared students. Students can receive BIOL499: Independent Research credit. Paid research opportunities are available with priority given to Federal Work Study eligible students. Look for our job ad in the <a href="https://apps.osfa.washington.edu/workstudy/pages/jobs.php?onCampus">work study</a> database under Organization Name: Biology.
