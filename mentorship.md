@@ -10,11 +10,15 @@ permalink: /mentorship/
 
 ## Technician, Graduate Student, and Postdoc accomplishments
 
+September 2023: Technician Wesley George leaves after 3 total years in UW Biology (2 as an undergraduate, 1 as a technician) for graduate school at UC Riverside! Best of luck!
+
+May 2023: Natalia Guayazan-Palacios is awarded a USDA Predoctoral Fellowship to fund the remainder of graduate study! Congrats!
+
 August 2022: Simon Snoeck was selected to speak at the 10th International Workshop on Plant Peptides and Receptors (possibly the only American lab represented at the meeting!) Congrats Simon!
 
-May 2022: Anthony Garcia and Tonio Chaparro are pursuing PhDs in Plant Biology. Tonio will head to Plant & Microbial Biology at UC Berkeley, while Anthony will rejoin UW Biology in the fall. Congrats!
+May 2022: Anthony Garcia and Tonio Chaparro are pursuing PhDs in Plant Biology. Tonio will head to Plant & Microbial Biology at UC Berkeley, while Anthony will rejoin UW Biology PhD program in the fall. Congrats!
 
-Apr 2022: Anthony Garcia and Tonio Chaparro are awarded the NSF GRFP!!!
+Apr 2022: Technicians Anthony Garcia and Tonio Chaparro are awarded the NSF GRFP!!!
 
 Nov 2021: Natalia Guayazan-Palacios is awarded a 2021 SACNAS Student Presentation Award!!
 
@@ -57,3 +61,5 @@ I work hard to set expectations and goals with all rotation students and permane
 3. Individual Development Plan (IDP) completed within three months of joining the lab permanently.  The IDP is meant to set personal and professional goals, determine if you have sufficient resources, and discuss other possible mentors or training.  The mentee is expected to revise the IDP at least yearly.  We will set aside an hour to revise at least once a year.
   <a href="https://drive.google.com/file/d/1cN6p0tZamFfVHvuOl6WTysCFf-mHQL9G/view?usp=sharing">Here</a> is an example format.
 4. Quarterly IDP check-ins – at the end of each quarter, we will structure our one-on-one meeting to discuss progress toward year goals and if any resources or changes would help to meet goals.
+
+<img src="/images/mentorship/mentorship01.png" class="align-left" alt="">
