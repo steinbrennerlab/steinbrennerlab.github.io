@@ -41,6 +41,7 @@ The lab accepts students through the <a href="https://www.biology.washington.edu
 If you are considering graduate study in my lab or others, I highly encourage you to check eligibility and apply for the <a href="https://www.nsfgrfp.org/">NSF GRFP</a>. I am happy to provide feedback on GRFP applications provided well in advance of a deadline. Applications prior to admittance to a graduate program are encouraged by NSF, and are not disadvantaged relative to those from current graduate students. Generally, applicants are allowed to re-apply upon joining a graduate program.
 
 Other potential sources of graduate funding, especially for those not eligible for NSF funding, include:<br>
+• <a href="https://www.krellinst.org/csgf/how-apply/apply-now">DOE Computations Science Graduate Fellowship (Citizens and Permanenet residents only)</a><br>
 • <a href="https://us.fulbrightonline.org/">Fulbright Program</a><br>
 • <a href="https://www.hertzfoundation.org/the-fellowship/apply-for-fellowship/">Hertz Felloship</a><br>
 • <a href="https://www.pdsoros.org/apply">The Paul & Daisy Soros Fellowships for New Americans</a><br>

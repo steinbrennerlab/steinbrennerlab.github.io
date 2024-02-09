@@ -16,7 +16,7 @@ library(wesanderson)
 tasks <- read.delim("lab_members.txt")
 
 #change this to the current date to update all current lab members
-tasks$End[tasks$End=="today"]<-"2023-06-01"
+tasks$End[tasks$End=="today"]<-"2023-11-01"
 
 # Convert data to long for ggplot
 tasks.long <- tasks %>%
@@ -49,7 +49,7 @@ theme_gantt <- function(base_size=11, base_family="sans") {
 
 # Calculate where to put the dotted lines that show up every three entries
 #x.breaks <- seq(length(tasks$Task) + 0.5 - 3, 0, by=-3)
-x.breaks <- seq(length(tasks$Task) + 0.5, 0, by=-1)
+x.breaks <- seq(length(tasks$Task) + 0.5, 0, by=-3)
 
 
 pal <- wes_palette("Darjeeling1", 5, type = "discrete")
@@ -65,7 +65,8 @@ timeline <- ggplot(tasks.long, aes(x=Task, y=task.date, colour=Project)) +
   scale_y_date(date_breaks="6 months", labels=date_format("%b %Y")) +
   theme_gantt() + theme(axis.text.x=element_text(angle=45, hjust=1)) + scale_color_manual(values=pal) +ggtitle("Steinbrenner Lab") +
   #reorder the list according to the input text document
-scale_x_discrete(limits = rev(unique(tasks$Task)))
+scale_x_discrete(limits = rev(unique(tasks$Task))) +
+  geom_vline(xintercept=x.breaks, colour="grey80", linetype="dotted")
 
 timeline
 #ggsave("~/08_website/github/steinbrennerlab.github.io/lab_members.png",width=6,height=8,timeline)
