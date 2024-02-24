@@ -16,13 +16,16 @@ permalink: /publications/
 <div class="paragraph"><span style="color:rgb(102, 102, 102)">
 <strong>For the most up-to-date list, see </strong></span><a href="https://scholar.google.com/citations?user=CVyh4joAAAAJ&hl=en">Google Scholar</a><span style="color:rgb(102, 102, 102)"></span><br /><br />
 
+(20) Danielle M Stevens, Alba Moreno-Pérez, Alexandra J Weisberg, Charis Ramsing, Judith Fliegmann, Ning Zhang, Melanie Madrigal, Gregory Martin, <strong>Adam Steinbrenner</strong>, Georg Felix, Gitta Coaker. (2023). Evolutionary dynamics of proteinaceous MAMPs reveals intrabacterial antagonism of plant immune perception. bioRxiv. DOI: 10.1101/2023.09.21.558511 <a href="https://www.biorxiv.org/content/10.1101/2023.09.21.558511v1.abstract">(link)</a>
+<br/><br/>
+
 (19) <strong>Snoeck S, Garcia AGK, Steinbrenner AD</strong>. (2023). Plant Receptor-like proteins (RLPs): Structural features enabling versatile immune recognition. Physiological and Molecular Plant Pathology. DOI: 10.1016/j.pmpp.2023.102004 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0885576523000590">(link)</a> <a href="https://drive.google.com/file/d/1_K7OjJmcLrDTqWGa023tQF2d2eahVqQk/view?usp=drive_link">(pdf)</a>
 <br/><br/>
 
 (18) <strong>Garcia, AGK, Steinbrenner AD</strong>. (2022). Bringing Plant Immunity to Light: A Genetically Encoded, Bioluminescent Reporter of Pattern Triggered Immunity in Nicotiana benthamiana. Molecular Plant-Microbe Interactions. <a href="https://apsjournals.apsnet.org/doi/10.1094/MPMI-07-22-0160-TA">(link)</a> <a href="https://drive.google.com/file/d/1IoXl20dPJKSUCNt5YQc5UCHZWSgNUb5u/view?usp=drive_link">(pdf)</a>
 <br/><br/>
 
-<img src="/images/publications/2022_garcia.png" class="align-left" width="500" alt="">
+<p style="margin-left: 100px;"><img src="/images/publications/2022_garcia.png" class="align-left" width="500" alt=""></p>
 <br/><br/>
 <BR CLEAR="left">
 
@@ -30,7 +33,7 @@ permalink: /publications/
 <a href="https://elifesciences.org/articles/81050">(link)</a> <a href="https://drive.google.com/file/d/148BYMul8KbPWG0NpzLIdYateBC4kgedC/view?usp=drive_link">(pdf)</a>
 <br/><br/>
 
-<img src="/images/publications/2022_snoeck.png" class="align-left" width="500" alt="">
+<p style="margin-left: 100px;"><img src="/images/publications/2022_snoeck.png" class="align-left" width="500" alt=""></p>
 <br/><br/>
 <BR CLEAR="left">
 
@@ -41,7 +44,7 @@ permalink: /publications/
 (15) <strong style="color:rgb(102, 102, 102)">Snoeck S, Guayazán-Palacios N, Steinbrenner AD</strong>. (2022) Molecular tug-of-war: Plant immune recognition of herbivory. The Plant Cell DOI: 10.1093/plcell/koac009. <a href="https://academic.oup.com/plcell/advance-article/doi/10.1093/plcell/koac009/6506533">(link)</a> <a href="https://drive.google.com/file/d/1CgDlij3QT4rpkGMZuLhTzW8r1GtmzKlr/view?usp=sharing">(pdf)</a>
 <br/><br/>
 
-<img src="/images/publications/2021_snoeck.jpg" class="align-left" alt="">
+<p style="margin-left: 100px;"><img src="/images/publications/2021_snoeck.jpg" class="align-left" alt=""></p>
 <br/><br/>
 <BR CLEAR="left">
 
@@ -58,7 +61,7 @@ permalink: /publications/
 <a href="https://drive.google.com/file/d/1aLeg2RQXgjAUeg3xWW1sNg6kYbBw_xPs/view?usp=sharing">(pdf)</a>
 <br/><br/>
 
-<img src="/images/pubs_12.png" class="align-left" width="600" alt="">
+<p style="margin-left: 100px;"><img src="/images/pubs_12.png" class="align-left" width="600" alt=""></p>
 <br/><br/>
 <BR CLEAR="left">
 
@@ -67,7 +70,7 @@ permalink: /publications/
 <a href="https://drive.google.com/file/d/1LFd_q5M06H4S_DCx-RX5kv_cgbU6BzLm/view?usp=sharing">(pdf)</a>
 <br/><br/>
 
-<img src="/images/2020-01.png" class="align-left" width="400" alt="">
+<p style="margin-left: 100px;"><img src="/images/2020-01.png" class="align-left" width="400" alt=""></p>
 <br/><br/>
 <BR CLEAR="left">
 
@@ -77,7 +80,7 @@ permalink: /publications/
 <a href="https://drive.google.com/file/d/1l3af6XfCfEOiOEakrEQ5GFnrA5SI46M4/view?usp=sharing">(pdf)</a>
 <br/><br/>
 
-<img src="/images/pubs_10.png" class="align-left" width="600" alt="">
+<p style="margin-left: 100px;"><img src="/images/pubs_10.png" class="align-left" width="600" alt=""></p>
 <br/><br/>
 <BR CLEAR="left">
 
@@ -92,7 +95,7 @@ permalink: /publications/
 *contributed equally
 <br/><br/>
 
-<img src="/images/pubs_8.png" class="align-left" width="600" alt="">
+<p style="margin-left: 100px;"><img src="/images/pubs_8.png" class="align-left" width="600" alt=""></p>
 <br/><br/>
 <BR CLEAR="left">
 
