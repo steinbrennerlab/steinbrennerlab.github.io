@@ -16,7 +16,7 @@ library(wesanderson)
 tasks <- read.delim("lab_members.txt")
 
 #change this to the current date to update all current lab members
-tasks$End[tasks$End=="today"]<-"2023-11-01"
+tasks$End[tasks$End=="today"]<-"2024-06-01"
 
 # Convert data to long for ggplot
 tasks.long <- tasks %>%
@@ -70,7 +70,7 @@ scale_x_discrete(limits = rev(unique(tasks$Task))) +
 
 timeline
 #ggsave("~/08_website/github/steinbrennerlab.github.io/lab_members.png",width=6,height=8,timeline)
-ggsave("lab_members.png",width=6,height=8,timeline)
+ggsave("lab_members.png",width=6,height=5,timeline)
 
 ```
 

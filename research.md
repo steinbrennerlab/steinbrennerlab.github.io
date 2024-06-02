@@ -26,7 +26,7 @@ Our lab studies how plants detect diverse attackers. Our lens on this topic is g
 
 PRRs bind extracellular ligands and initiate defense signal transduction. Many well-characterized receptors detect pathogen-associated molecular patterns (PAMPs), but receptors for analogous herbivore-associated molecular patterns (HAMPs) are not well understood.
 
-We recently identified a PRR which directly detects a peptide ligand associated with chewing heribivory. Inceptin receptor, or INR, confers binding, signaling, and defensive outputs in response to low nanomolar concentrations of inceptin peptide. Since distinct hormones mediate defense against pathogens vs herbivores, we are interested in downstream signaling differences between INR and other cell surface receptors, especially the large family of non-kinase Receptor-like Proteins.
+We recently identified a PRR which directly detects a peptide ligand associated with chewing heribivory. Inceptin receptor, or INR, confers binding, signaling, and defensive outputs in response to low nanomolar concentrations of inceptin peptide. We are now using INR to ask how plants activate herbivore-specific defenses, and potential trade-offs with immunity against microbial pathogens.
 
 <BR CLEAR="left">
 <b>Our papers on this topic:</b>
@@ -49,11 +49,11 @@ Only a few dozen PRRs have defined ligands, but general principles are emerging 
 - Steinbrenner 2020, "<a href="https://drive.google.com/file/d/1l3af6XfCfEOiOEakrEQ5GFnrA5SI46M4/view?usp=sharing">The evolving landscape of cell surface pattern recognition across plant immune networks</a>", Curr. Opin. Plant Biol. 
 
 
-## ​4. Herbivore resistance in legumes
-<img src="/images/research02.png" class="align-left" alt="" width="400">
+## 4.. Herbivore resistance in legumes
+<img src="/images/research02.png" class="align-left" alt="" width="500">
 Species in the the legume family (Fabaceae) are uniquely able to respond to inceptins. In cowpea and common bean, inceptin activates canonical anti-herbivore defense responses such as protease inhibition, small molecule toxin biosynthesis, and release of parasitoid-attracting volatiles.
 
-We are interested in the ecological functions of inceptin-triggered responses, especially in relation to the generic wound response. We are developing genetic tools in legumes, including soybean, to understand the contribution of both wounding and PRRs to resistance against herbivores.
+We are interested in the ecological functions of inceptin-triggered responses, especially in relation to the generic wound response. We are developing genetic tools in legumes, including soybean. We are especially interested in how immune receptors allow activation of "indirect defenses" -- the recruitment of beneficial ecosystem services.
 
 <BR CLEAR="left">
 <b>Our papers on this topic:</b>

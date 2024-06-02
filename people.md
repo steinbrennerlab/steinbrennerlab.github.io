@@ -13,7 +13,7 @@ permalink: /people/
 
 <h3>Current grads, postdocs, and staff</h3>
 
-<img src="/images/people/wu.png" class="align-left" alt="" width="300">
+<img src="/images/undergrads/logo.jpg" class="align-left" alt="" width="300">
 <strong>
 Di Wu <br>
 Postdoctoral Researcher <br>
@@ -31,7 +31,7 @@ bbehnken /at/ uw.edu <br>
 Brian is a microbiology major with the intention of pursuing a PhD in immunology. He joined the lab in winter of 2022 and is looking forward to learning about plant immune systems. His interests include research and reading anything from physics to biology, and outside of the academy he enjoys backpacking, finding any excuse to make curry, and create art.
 <BR CLEAR="left"> 
 
-<a href="/people/sheppard.html"><img src="/images/people/sheppard.jpg" class="align-left" alt="" width="300"></a>
+<img src="/images/people/sheppard.jpg" class="align-left" alt="" width="300">
 <strong>
 Ben Sheppard <br> 
 Graduate Student <br>
@@ -40,7 +40,7 @@ bdshep /at/ uw.edu <br>
 Ben joined the UW Department of Biology in September 2021. 
 <BR CLEAR="left">
 
-<a href="/people/guayazan_palacios.html"><img src="/images/people/guayazan.jpg" class="align-left" alt="" width="300"></a>
+<img src="/images/people/guayazan.jpg" class="align-left" alt="" width="300">
 <strong>
 Natalia Guayazan-Palacios <br>
 Graduate Student <br> 
@@ -52,12 +52,17 @@ My MS research was focused on cell and transcriptional changes that plant pathog
 
 
 
-<a href="/people/steinbrenner.html"><img src="/images/people/steinbrenner.jpg" class="align-left" alt="" width="300"></a>
+<img src="/images/people/steinbrenner.jpg" class="align-left" alt="" width="300">
 <strong>
 Adam Steinbrenner <br>
 Principal Investigator <br>
 astein10 /at/ uw.edu <br>
 </strong>
+Assistant Professor, UW Dept. of Biology (2019-present)<br>
+HHMI Postdoctoral Fellow, UC San Diego (2016-2019)<br>
+PhD 2015, UC Berkeley Dept. of Plant & Microbial Biology<br><br>
+BS 2010, Tufts University<br><br>
+I am fascinated by plant immune systems. Building on my training in chemical ecology and molecular genetics of immune receptors, my lab now explores new aspects of plant immunity, often using comparative, evolutionary, and synthetic biology lenses. I love working with excited, creative trainees to develop, execute, and publish novel projects on these topics.
 <BR CLEAR="left">
 
 <div class="entries-{{ page.entries_layout | default: 'list' }}">
@@ -67,9 +72,9 @@ astein10 /at/ uw.edu <br>
 <hr class="rounded">
 
 <h3>Former full-time lab members</h3>
-Antionio Chaparro (2019-2022), currently in UC Berkeley PhD program for Plant & Microbial Biology <br>
-Anthony Garcia (2019-2023), currently in UW Biology PhD program <br>
-Wesley George (2022-2023), currently in UC Riverside program for Plant Biology<br>
+Antionio Chaparro (2019-2022), currently at UC Berkeley PhD program, Dept. of Plant & Microbial Biology <br>
+Anthony Garcia (2019-2023), currently at University of Washington PhD program, Dept. of Biology <br>
+Wesley George (2022-2023), currently at UC Riverside, Plant Biology Graduate program<br>
 <br>
 <br>
 <h3>Undergraduate lab members</h3>

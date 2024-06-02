@@ -5,7 +5,7 @@ title: ""
 layout: home
 posts_limit: 4
 ---
-### <FONT COLOR="#ff0000">Recruiting 1 postdoc for 2024 -- please see job ad <a href="https://drive.google.com/file/d/1sWXSK4lC-rLMsO7IUCqHePW_KkwMSBM3/view?usp=drive_link">here</a>!
+[comment]: <! --- announcement ### <FONT COLOR="#ff0000">Recruiting 1 postdoc for 2024 -- please see job ad <a href="https://drive.google.com/file/d/1sWXSK4lC-rLMsO7IUCqHePW_KkwMSBM3/view?usp=drive_link">here</a>!
 {: .text-center}
 
 <img src="/images/homepage1.jpg" class="align-center" alt="" style="border: #000000 1px solid;">
