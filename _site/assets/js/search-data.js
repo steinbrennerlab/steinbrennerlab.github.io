@@ -144,6 +144,11 @@ var store = [{
         "tags": [],
         "url": "https://steinbrennerlab.org/2023/08/17/Wes.html"
       },{
+        "title": "Welcome to LSAMP summer intern Jaden Benitez",
+        "excerpt":"We welcome Jaden Benitez to the lab for the summer. Jaden will participate in the Louis Stokes Alliance for Minority Participation (LSAMP) Summer Scientist program. Welcome! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2024/06/15/intern.html"
+      },{
         "title": "Ava Kloss-Schmidt",
         "excerpt":"Undergraduate Researcher Ava is an undergraduate studying Plant Biology at UW. She joined the Steinbrenner lab in October 2019 and is excited to learn more about working with plants in a lab setting. Her favorite place in Seattle is the Volunteer Park Conservatory and she would spend all her time...","categories": [],
         "tags": [],

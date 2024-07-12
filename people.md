@@ -13,7 +13,7 @@ permalink: /people/
 
 <h3>Current grads, postdocs, and staff</h3>
 
-<img src="/images/undergrads/logo.jpg" class="align-left" alt="" width="300">
+<img src="/images/people/wu.jpg" class="align-left" alt="" width="300">
 <strong>
 Di Wu <br>
 Postdoctoral Researcher <br>
@@ -104,9 +104,9 @@ Justin Kwok
 <BR CLEAR="left"> 
 
 <h3>Former undergraduates</h3>
-Hannah Luskin <br>
+Hannah Luskin, currently lab manager at Innovative Genomics Institute, Berkeley CA <br>
 Erika Khosrovian <br>
-Ava Kloss-Schmidt (2019-2022), currently technician at Rhee Lab, Carnegie Institute, Palo Alto CA <br>
+Ava Kloss-Schmidt (2019-2022), currently in NYU Biology PhD program <br>
 Karyn Tindbaek (2021-2022), currently technician at Metzger Lab, Pacific NW Research Institute, Seattle WA <br>
 Nathan Greenwood (2021-2022), currently undergraduate at UW Institute for Protein Design <br>
 Sandy Tran (2021-2022) <br>

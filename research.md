@@ -8,10 +8,10 @@ layout: page
 <br>
 
 ## Our big questions
-- How do plants first detect attack by chewing insects? We know that plants revamp hormonal and defensive chemistry after attack, but <b>what are the molecular events in the first minutes and seconds</b> that activate these changes?
+- How do plants first detect attack by chewing insects? We know that plants revamp hormonal and defensive chemistry after attack, but <b>what are the molecular signaling events in the first minutes and seconds after herbivore attack</b>? How are herbivore-specific defenses achieved?
 <br>
 
-- How does the plant innate immune system evolve? We focus on <b>cell surface receptors at the plasma membrane</b>, which form a massively diverse gene family in plants underlying pest and pathogen resistance
+- How does the plant innate immune system evolve? We focus on <b>cell surface receptors at the plasma membrane</b>, which form a massively diverse gene family in plants underlying pest and pathogen resistance.
 
 ## 1. Plant Immunity
 
