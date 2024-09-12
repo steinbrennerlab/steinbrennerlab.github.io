@@ -12,19 +12,39 @@ library(wesanderson)
 
 # Thanks https://stats.andrewheiss.com/misc/gantt.html
 
-#tasks <- read.delim("~/08_website/github/steinbrennerlab.github.io/lab_members.txt")
-tasks <- read.delim("lab_members.txt")
-
+permanent_lab_members <- read.delim("lab_members.txt")
 #change this to the current date to update all current lab members
-tasks$End[tasks$End=="today"]<-"2024-06-01"
+date <- "2024-07-01"
+permanent_lab_members$End[permanent_lab_members$End=="today"]<-date
+
+#keep only the rows that don't meet the condition of being an undergraduate or rotation student with an "End" value of "today"
+removed_entries <- permanent_lab_members %>%
+  filter(keep == 0)
+
+permanent_lab_members <- permanent_lab_members %>%
+  filter(keep == 1)
 
 # Convert data to long for ggplot
-tasks.long <- tasks %>%
+permanent_lab_members.long <- permanent_lab_members %>%
   mutate(Start = ymd(Start),
          End = ymd(End)) %>%
-  gather(date.type, task.date, -c(Project, Task)) %>%
-  arrange(date.type, task.date) %>%
+  gather(date.type, task.date, -c(Project, Task, keep)) %>%
+  group_by(Task) %>%
+  mutate(Start_Date = min(task.date)) %>%
+  ungroup() %>%
+  arrange(Start_Date, date.type, task.date) %>%
   mutate(Task = factor(Task, levels=rev(unique(Task)), ordered=TRUE))
+
+removed_entries <- removed_entries %>%
+  mutate(Start = ymd(Start),
+         End = ymd(End)) %>%
+  gather(date.type, task.date, -c(Project, Task, keep)) %>%
+  group_by(Task) %>%
+  mutate(Start_Date = min(task.date)) %>%
+  ungroup() %>%
+  arrange(Start_Date, date.type, task.date) %>%
+  mutate(Task = factor(Task, levels=rev(unique(Task)), ordered=TRUE))
+
 
 # Custom theme for making a clean Gantt chart
 theme_gantt <- function(base_size=11, base_family="sans") {
@@ -37,7 +57,15 @@ theme_gantt <- function(base_size=11, base_family="sans") {
           panel.grid.major.y = element_blank(),
           panel.grid.major.x = element_line(size=0.5, colour="grey80"),
           axis.ticks=element_blank(),
-          legend.position="bottom", 
+          legend.position="bottom",
+          legend.box = "vertical",
+          legend.box.just = "left",
+          legend.margin = margin(t = 0, r = 0, b = 0, l = 0, unit = "pt"),
+          legend.spacing.x = unit(0.2, 'cm'),
+          legend.spacing.y = unit(0.2, 'cm'),
+          legend.box.spacing = unit(0.2, 'cm'),
+          legend.key.size = unit(0.5, 'lines'),
+          legend.text = element_text(size = rel(0.8)),
           axis.title=element_text(size=rel(0.8), family="Source Sans Pro Semibold"),
           strip.text=element_text(size=rel(1), family="Source Sans Pro Semibold"),
           strip.background=element_rect(fill="#ffffff", colour=NA),
@@ -46,18 +74,18 @@ theme_gantt <- function(base_size=11, base_family="sans") {
   
   ret
 }
+  
 
 # Calculate where to put the dotted lines that show up every three entries
 #x.breaks <- seq(length(tasks$Task) + 0.5 - 3, 0, by=-3)
-x.breaks <- seq(length(tasks$Task) + 0.5, 0, by=-3)
+x.breaks <- seq(length(permanent_lab_members$Task) + 0.5, 0, by=-3)
 
 
 pal <- wes_palette("Darjeeling1", 5, type = "discrete")
-pal[6:10]<-wes_palette("Darjeeling2", 5, type = "discrete")
-pal[6:9]<-pal[7:10]
+pal[4]<-"#046C9A"
 
 # Build plot
-timeline <- ggplot(tasks.long, aes(x=Task, y=task.date, colour=Project)) + 
+timeline <- ggplot(permanent_lab_members.long, aes(x=Task, y=task.date, colour=Project)) + 
   geom_line(size=6) + 
   #geom_vline(xintercept=x.breaks, colour="grey80", linetype="dotted") + 
   guides(colour=guide_legend(title=NULL)) +
@@ -65,78 +93,25 @@ timeline <- ggplot(tasks.long, aes(x=Task, y=task.date, colour=Project)) +
   scale_y_date(date_breaks="6 months", labels=date_format("%b %Y")) +
   theme_gantt() + theme(axis.text.x=element_text(angle=45, hjust=1)) + scale_color_manual(values=pal) +ggtitle("Steinbrenner Lab") +
   #reorder the list according to the input text document
-scale_x_discrete(limits = rev(unique(tasks$Task))) +
+scale_x_discrete(limits = rev(unique(permanent_lab_members.long$Task))) +
+  geom_vline(xintercept=x.breaks, colour="grey80", linetype="dotted")
+
+# Build plot
+timeline2 <- ggplot(removed_entries, aes(x=Task, y=task.date, colour=Project)) + 
+  geom_line(size=6) + 
+  #geom_vline(xintercept=x.breaks, colour="grey80", linetype="dotted") + 
+  guides(colour=guide_legend(title=NULL)) +
+  labs(x=NULL, y=NULL) + coord_flip() +
+  scale_y_date(date_breaks="6 months", labels=date_format("%b %Y")) +
+  theme_gantt() + theme(axis.text.x=element_text(angle=45, hjust=1)) + scale_color_manual(values=pal) +ggtitle("Steinbrenner Lab") +
+  #reorder the list according to the input text document
+scale_x_discrete(limits = rev(unique(removed_entries$Task))) +
   geom_vline(xintercept=x.breaks, colour="grey80", linetype="dotted")
 
 timeline
 #ggsave("~/08_website/github/steinbrennerlab.github.io/lab_members.png",width=6,height=8,timeline)
 ggsave("lab_members.png",width=6,height=5,timeline)
-
+ggsave("previous_UG_rotations.png",width=6,height=5,timeline2)
 ```
 
-```{r}
-
-# Thanks https://stats.andrewheiss.com/misc/gantt.html
-
-tasks <- read.delim("lab_members_UG_rotation.txt")
-#tasks <- read.delim("lab_members.txt")
-
-#change this to the current date to update all current lab members
-tasks$End[tasks$End=="today"]<-"2024-06-01"
-
-# Convert data to long for ggplot
-tasks.long <- tasks %>%
-  mutate(Start = ymd(Start),
-         End = ymd(End)) %>%
-  gather(date.type, task.date, -c(Project, Task)) %>%
-  arrange(date.type, task.date) %>%
-  mutate(Task = factor(Task, levels=rev(unique(Task)), ordered=TRUE))
-
-# Custom theme for making a clean Gantt chart
-theme_gantt <- function(base_size=11, base_family="sans") {
-  ret <- theme_bw(base_size, base_family) %+replace%
-    theme(panel.background = element_rect(fill="#ffffff", colour=NA),
-          axis.title.x=element_text(vjust=-0.2), axis.title.y=element_text(vjust=1.5),
-          title=element_text(vjust=1.2, family="Source Sans Pro Semibold"),
-          panel.border = element_blank(), axis.line=element_blank(),
-          panel.grid.minor=element_blank(),
-          panel.grid.major.y = element_blank(),
-          panel.grid.major.x = element_line(size=0.5, colour="grey80"),
-          axis.ticks=element_blank(),
-          legend.position="bottom", 
-          axis.title=element_text(size=rel(0.8), family="Source Sans Pro Semibold"),
-          strip.text=element_text(size=rel(1), family="Source Sans Pro Semibold"),
-          strip.background=element_rect(fill="#ffffff", colour=NA),
-          panel.spacing.y=unit(1.5, "lines"),
-          legend.key = element_blank())
-  
-  ret
-}
-
-# Calculate where to put the dotted lines that show up every three entries
-#x.breaks <- seq(length(tasks$Task) + 0.5 - 3, 0, by=-3)
-x.breaks <- seq(length(tasks$Task) + 0.5, 0, by=-3)
-
-
-pal <- wes_palette("Darjeeling1", 5, type = "discrete")
-pal[6:10]<-wes_palette("Darjeeling2", 5, type = "discrete")
-pal[6:9]<-pal[7:10]
-
-# Build plot
-timeline <- ggplot(tasks.long, aes(x=Task, y=task.date, colour=Project)) + 
-  geom_line(size=6) + 
-  #geom_vline(xintercept=x.breaks, colour="grey80", linetype="dotted") + 
-  guides(colour=guide_legend(title=NULL)) +
-  labs(x=NULL, y=NULL) + coord_flip() +
-  scale_y_date(date_breaks="6 months", labels=date_format("%b %Y")) +
-  theme_gantt() + theme(axis.text.x=element_text(angle=45, hjust=1)) + scale_color_manual(values=pal) +ggtitle("Steinbrenner Lab") +
-  #reorder the list according to the input text document
-scale_x_discrete(limits = rev(unique(tasks$Task))) +
-  geom_vline(xintercept=x.breaks, colour="grey80", linetype="dotted")
-
-timeline
-#ggsave("lab_members.png",width=6,height=8,timeline)
-ggsave("lab_members2.png",width=6,height=5,timeline)
-
-```
 

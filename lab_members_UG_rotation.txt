@@ -17,3 +17,4 @@ William Albers	rotation student	2022-09-01	2023-01-01
 Erika Khosrovian	undergraduate	2022-10-01	2024-08-31
 Alice Lutzenhiser	undergraduate	2023-06-15	2023-09-01
 Justin Kwok	undergraduate	2023-09-01	2024-03-01
+Jaden Benitez	undergraduate	2024-06-15	2024-09-01
