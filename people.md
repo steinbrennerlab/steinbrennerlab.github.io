@@ -58,7 +58,7 @@ Adam Steinbrenner <br>
 Principal Investigator <br>
 astein10 /at/ uw.edu <br>
 </strong>
-Assistant Professor, UW Dept. of Biology (2019-present)<br>
+Associate Professor, UW Dept. of Biology<br>
 HHMI Postdoctoral Fellow, UC San Diego (2016-2019)<br>
 PhD 2015, UC Berkeley Dept. of Plant & Microbial Biology<br><br>
 BS 2010, Tufts University<br><br>
@@ -79,31 +79,35 @@ Wesley George (2022-2023), currently at UC Riverside, Plant Biology Graduate pro
 <br>
 <h3>Undergraduate lab members</h3>
 
-<img src="/images/undergrads/alonso.jpg" class="align-left" alt="" width="200">
-Morgan Alonso. I'm a junior majoring in molecular, cellular, and developmental biology and minoring in bioethics. Outside of the lab, I enjoy teaching science lessons to elementary schoolers through Science Explorers and playing on the UW lacrosse team.
+<img src="/images/undergrads/logo.jpg" class="align-left" alt="" width="200">
+Amelia Wayman
 <BR CLEAR="left"> 
 
 <img src="/images/undergrads/logo.jpg" class="align-left" alt="" width="200">
-Nick Petersen
+Tiba Hashim
 <BR CLEAR="left"> 
 
-<img src="/images/undergrads/logo.jpg" class="align-left" alt="" width="200">
-Ty Bryant
+<img src="/images/undergrads/barbosa.png" class="align-left" alt="" width="200">
+Laura Barbosa-Chifan
+<BR CLEAR="left"> 
+
+<img src="/images/undergrads/dugan.jpg" class="align-left" alt="" width="200">
+JT Dugan
 <BR CLEAR="left"> 
 
 <img src="/images/undergrads/logo.jpg" class="align-left" alt="" width="200">
 Aster Earls
 <BR CLEAR="left"> 
 
-<img src="/images/undergrads/logo.jpg" class="align-left" alt="" width="200">
+<img src="/images/undergrads/mccubbin.jpg" class="align-left" alt="" width="200">
 Euan McCubbin
 <BR CLEAR="left"> 
 
-<img src="/images/undergrads/logo.jpg" class="align-left" alt="" width="200">
-Justin Kwok
-<BR CLEAR="left"> 
 
 <h3>Former undergraduates</h3>
+Morgan Alonso
+Nick Petersen
+Justin Kwok
 Hannah Luskin, currently lab manager at Innovative Genomics Institute, Berkeley CA <br>
 Erika Khosrovian <br>
 Ava Kloss-Schmidt (2019-2022), currently in NYU Biology PhD program <br>
