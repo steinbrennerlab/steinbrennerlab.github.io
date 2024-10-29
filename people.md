@@ -105,9 +105,9 @@ Euan McCubbin
 
 
 <h3>Former undergraduates</h3>
-Morgan Alonso
-Nick Petersen
-Justin Kwok
+Morgan Alonso <br>
+Nick Petersen <br>
+Justin Kwok <br>
 Hannah Luskin, currently lab manager at Innovative Genomics Institute, Berkeley CA <br>
 Erika Khosrovian <br>
 Ava Kloss-Schmidt (2019-2022), currently in NYU Biology PhD program <br>
