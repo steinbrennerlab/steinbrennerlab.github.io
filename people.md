@@ -13,6 +13,15 @@ permalink: /people/
 
 <h3>Current grads, postdocs, and staff</h3>
 
+<img src="/images/people/wood.jpg" class="align-left" alt="" width="300">
+<strong>
+Kelsey Wood <br>
+Postdoctoral Researcher <br>
+klsywd /at/ uw.edu <br>
+</strong>
+PhD in Genomics from UC Davis, previously studied plant pathogens. Currently working on caterpillar genomics and plant-insect interactions. Passionate about science communication, outreach, teaching. Outside of science, I enjoy art, music, my cat, cooking, and travel.
+<BR CLEAR="left">
+
 <img src="/images/people/wu.jpg" class="align-left" alt="" width="300">
 <strong>
 Di Wu <br>
@@ -75,7 +84,15 @@ I am fascinated by plant immune systems. Building on my training in chemical eco
 <br>
 <h3>Undergraduate lab members</h3>
 
-<img src="/images/undergrads/logo.jpg" class="align-left" alt="" width="200">
+<img src="/images/undergrads/rupp.png" class="align-left" alt="" width="200">
+Leo Rupp
+<BR CLEAR="left"> 
+
+<img src="/images/undergrads/medina.jpg" class="align-left" alt="" width="200">
+Korina Medina
+<BR CLEAR="left"> 
+
+<img src="/images/undergrads/wayman.jpg" class="align-left" alt="" width="200">
 Amelia Wayman
 <BR CLEAR="left"> 
 
@@ -91,10 +108,6 @@ Laura Barbosa-Chifan
 JT Dugan
 <BR CLEAR="left"> 
 
-<img src="/images/undergrads/logo.jpg" class="align-left" alt="" width="200">
-Aster Earls
-<BR CLEAR="left"> 
-
 <img src="/images/undergrads/mccubbin.jpg" class="align-left" alt="" width="200">
 Euan McCubbin
 <BR CLEAR="left"> 
@@ -107,6 +120,7 @@ Simon Snoeck (2019-2022), currently postdoctoral researcher with Cyril Zipfel, U
 Wesley George (2022-2023), currently at UC Riverside, Plant Biology Graduate program<br>
 
 <h3>Former undergraduates</h3>
+Aster Earls (2024-2024) <br>
 Jaden Benitez (summer 2024) <br>
 Morgan Alonso (2022-2024)<br>
 Nick Petersen (2023-2024)<br>

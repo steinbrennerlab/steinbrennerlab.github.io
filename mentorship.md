@@ -29,6 +29,12 @@ Mar 2021: Natalia Guayazan-Palacios is awarded the Heerensperger and Walter & Ma
 
 ## Undergraduate accomplishments
 
+March 2025: Euan McCubbin was awarded the Mary Gates Undergraduate Research Scholarship! Congrats Euan!
+
+December 2024: Euan McCubbin was awarded the Frye Hotson Rigg departmental award!
+
+June 2024: Hannah Luskin will start a position as lab manager at the Innovative Genomics Institute at UC Berkeley!
+
 June 2022: Ava will graduate and join the Rhee lab at the Carnegie Institute in Palo Alto, CA. Congrats Ava!
 
 May 2022: Karyn Tindbaek will join the Metzger lab at Pacific Northwest Research Institute as a technician. Good luck Karyn!

@@ -14,10 +14,10 @@ library(wesanderson)
 
 permanent_lab_members <- read.delim("lab_members.txt")
 #change this to the current date to update all current lab members
-date <- "2024-07-01"
+date <- "2025-03-01"
 permanent_lab_members$End[permanent_lab_members$End=="today"]<-date
 
-#keep only the rows that don't meet the condition of being an undergraduate or rotation student with an "End" value of "today"
+#keep only the rows with keep value of 1
 removed_entries <- permanent_lab_members %>%
   filter(keep == 0)
 
@@ -82,11 +82,12 @@ x.breaks <- seq(length(permanent_lab_members$Task) + 0.5, 0, by=-3)
 
 
 pal <- wes_palette("Darjeeling1", 5, type = "discrete")
-pal[4]<-"#046C9A"
+pal <- c(pal, "#8566AA")
+pal[5]<-"#046C9A"
 
 # Build plot
 timeline <- ggplot(permanent_lab_members.long, aes(x=Task, y=task.date, colour=Project)) + 
-  geom_line(size=6) + 
+  geom_line(linewidth=6) + 
   #geom_vline(xintercept=x.breaks, colour="grey80", linetype="dotted") + 
   guides(colour=guide_legend(title=NULL)) +
   labs(x=NULL, y=NULL) + coord_flip() +
