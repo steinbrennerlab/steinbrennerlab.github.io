@@ -13,6 +13,24 @@ permalink: /people/
 
 <h3>Current grads, postdocs, and staff</h3>
 
+<img src="/images/people/moore.jpg" class="align-left" alt="" width="300">
+<strong>
+Amy Moore <br>
+Graduate Student <br>
+amoore02 /at/ uw.edu <br>
+</strong>
+I am a Biology graduate student who joined the lab in 2025. I previously worked as an undergraduate at the University of Minnesota in the lab of Fumi Katagiri studying the robust plant immune signaling network and as a post-bac at the University of Washington in the Brewer/Raghuraman lab using the power of yeast genetics to study DNA replication timing and origin usage. In the Steinbrenner lab I hope to understand immune recognition specificity in legumes, especially when it comes to responding to our favorite herbivore pests.
+<BR CLEAR="left">
+
+<img src="/images/people/mccubbin.jpg" class="align-left" alt="" width="300">
+<strong>
+Euan McCubbin <br>
+Research Technician <br>
+mccubeua /at/ uw.edu <br>
+</strong>
+Euan McCubbin joined the Steinbrenner Lab in January 2024 as an Undergraduate research assistant. After graduating with a B.S. in Biology from UW in 2025, he moved to an Research Technician role, and is currently engineering a system to screen DAMP candidates in vivo. Outside of science Euan enjoys competitive trivia, playing his trumpet, and going hiking.
+<BR CLEAR="left">
+
 <img src="/images/people/wood.jpg" class="align-left" alt="" width="300">
 <strong>
 Kelsey Wood <br>
@@ -84,10 +102,6 @@ I am fascinated by plant immune systems. Building on my training in chemical eco
 <br>
 <h3>Undergraduate lab members</h3>
 
-<img src="/images/undergrads/rupp.png" class="align-left" alt="" width="200">
-Leo Rupp
-<BR CLEAR="left"> 
-
 <img src="/images/undergrads/medina.jpg" class="align-left" alt="" width="200">
 Korina Medina
 <BR CLEAR="left"> 
@@ -96,20 +110,12 @@ Korina Medina
 Amelia Wayman
 <BR CLEAR="left"> 
 
-<img src="/images/undergrads/logo.jpg" class="align-left" alt="" width="200">
-Tiba Hashim
-<BR CLEAR="left"> 
-
 <img src="/images/undergrads/barbosa.png" class="align-left" alt="" width="200">
 Laura Barbosa-Chifan
 <BR CLEAR="left"> 
 
 <img src="/images/undergrads/dugan.jpg" class="align-left" alt="" width="200">
 JT Dugan
-<BR CLEAR="left"> 
-
-<img src="/images/undergrads/mccubbin.jpg" class="align-left" alt="" width="200">
-Euan McCubbin
 <BR CLEAR="left"> 
 
 
