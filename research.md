@@ -30,6 +30,7 @@ We recently identified a PRR which directly detects a peptide ligand associated 
 
 <BR CLEAR="left">
 <b>Our papers on this topic:</b>
+- Guayaz&aacute;n-Palacios et al. 2025, "The Circadian Clock Regulates Receptor-Mediated Immune Responses to a Herbivore-Associated Molecular Pattern", Plant, Cell & Environment
 - Steinbrenner et al. 2020, "<a href="https://drive.google.com/file/d/1LFd_q5M06H4S_DCx-RX5kv_cgbU6BzLm/view">A receptor-like protein mediates plant immune responses to herbivore-associated molecular patterns</a>", PNAS 
 - Snoeck et al. 2022, "<a href="https://drive.google.com/file/d/1CgDlij3QT4rpkGMZuLhTzW8r1GtmzKlr/view?usp=sharing">Molecular tug-of-war: Plant immune recognition of herbivory</a>", Plant Cell 
 
@@ -58,6 +59,7 @@ We are interested in the ecological functions of inceptin-triggered responses, e
 <BR CLEAR="left">
 <b>Our papers on this topic:</b>
 
+- Guayaz&aacute;n-Palacios et al. 2026, "<a href="https://www.science.org/doi/10.1126/sciadv.aec3229">A plant immune receptor mediates tritrophic interactions by linking caterpillar detection to predator recruitment</a>", Science Advances
 - Steinbrenner et al. 2021, "<a href="https://www.biorxiv.org/content/10.1101/2021.09.02.458788v1.full">Signatures of plant defense response specificity mediated by herbivore-associated molecular patterns in legumes</a>", bioRxiv (in press at Plant Journal) 
 
 <BR CLEAR="left">
@@ -71,6 +73,8 @@ The INR receptor is restricted to certain legume species, but its function is id
 
 <BR CLEAR="left">
 <b>Our papers on this topic:</b>
+- Sheppard et al. 2026, "<a href="https://www.biorxiv.org/content/10.1101/2026.05.07.721474v1">BAT: an integrated pipeline for gene tree construction, annotation, and functional inference</a>", bioRxiv
+- Behnken et al. 2026, "<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0343332">Natural variation in expression of a plant immune receptor mediates elicitor sensitivity</a>", PLOS ONE
 - Snoeck et al. 2022, "<a href="https://www.biorxiv.org/content/10.1101/2022.03.30.484633v1.full">Evolutionary gain and loss of a plant pattern-recognition receptor for HAMP recognition</a>", bioRxiv and in press at ELIFE
 - Schultink and Steinbrenner 2021, "<a href="https://drive.google.com/file/d/1aLeg2RQXgjAUeg3xWW1sNg6kYbBw_xPs/view?usp=sharing">A playbook for developing disease-resistant crops through immune receptor identification and transfer</a>", Curr. Opin. Plant Biol. 
 - Snoeck et al. 2023, "Plant Receptor-like proteins (RLPs): Structural features enabling versatile immune recognition." Physiological and Molecular Plant Pathology. <a href="https://authors.elsevier.com/a/1gprb39MrQ4oiE">(link)</a>
