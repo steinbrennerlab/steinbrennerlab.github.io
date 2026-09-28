@@ -68,4 +68,4 @@ I work hard to set expectations and goals with all rotation students and permane
   <a href="https://drive.google.com/file/d/1cN6p0tZamFfVHvuOl6WTysCFf-mHQL9G/view?usp=sharing">Here</a> is an example format.
 4. Quarterly IDP check-ins – at the end of each quarter, we will structure our one-on-one meeting to discuss progress toward year goals and if any resources or changes would help to meet goals.
 
-<img src="/images/mentorship/mentorship01.png" class="align-left" alt="">
+<img src="/images/mentorship/mentorship01.jpg" class="align-left" alt="">

@@ -48,7 +48,9 @@ footer_links:
     icon: fab fa-github-square
 
 # Google Analytics
-google_analytics: UA—59952122-2
+# Universal Analytics (UA-) IDs stopped collecting data in July 2023.
+# To re-enable, create a GA4 property and set its Measurement ID here, e.g.
+# google_analytics: G-XXXXXXXXXX
 
 copyright: "Copyright 2022, Steinbrenner Lab"
 # Exclude from processing.
