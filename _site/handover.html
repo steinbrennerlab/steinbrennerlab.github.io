@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<!--
+    So Simple Jekyll Theme 3.1.3
+    Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+    Free for personal and commercial use under the MIT license
+    https://github.com/mmistakes/so-simple-theme/blob/master/LICENSE
+-->
+<html lang="en-US" class="no-js">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  
+
+  
+    <title>Steinbrenner Lab Website Handover</title>
+    <meta name="description" content="The University of Washington, Seattle">
+    <link rel="canonical" href="https://steinbrennerlab.org/handover.html">
+  
+
+  <script>
+    /* Cut the mustard */
+    if ( 'querySelector' in document && 'addEventListener' in window ) {
+      document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + 'js';
+    }
+  </script>
+
+  
+
+	<link rel="stylesheet" href="/assets/css/main.css">
+  
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,700,700i|Lora:400,400i,700,700i">
+  <link rel="alternate" type="application/atom+xml" title="Steinbrenner Lab" href="/feed.xml">
+<!-- start custom head snippets -->
+
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+</head>
+
+  <body class="layout--page  steinbrenner-lab-website-handover">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#primary-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+  <div class="navigation-wrapper">
+    <a href="#menu-toggle" id="menu-toggle">Menu</a>
+    <nav id="primary-nav" class="site-nav animated drop">
+      <ul><li><a href="/news/">News</a></li><li><a href="/research/">Research</a></li><li><a href="/people/">People</a></li><li><a href="/mentorship/">Mentorship</a></li><li><a href="/lab_notes/">Lab Notes</a></li><li><a href="/teaching/">Teaching</a></li><li><a href="/publications/">Publications</a></li><li><a href="/contact/">Contact & Join</a></li></ul>
+    </nav>
+  </div><!-- /.navigation-wrapper -->
+
+
+    <header class="masthead">
+  <div class="wrap">
+    
+      <a href="/" class="site-logo" rel="home" title="Steinbrenner Lab">
+        <img src="/images/logo.jpg" class="site-logo-img animated fadeInDown" alt="Steinbrenner Lab">
+      </a>
+    
+    
+    
+      
+        <div class="site-title animated fadeIn"><a href="/">Steinbrenner Lab</a></div>
+      
+      <p class="site-description animated fadeIn" itemprop="description">The University of Washington, Seattle</p>
+    
+  </div>
+</header><!-- /.masthead -->
+
+
+    <main id="main" class="main-content" aria-label="Content">
+  <article>
+    
+
+    <div class="page-wrapper">
+      <header class="page-header">
+        
+        
+          <h1 id="page-title" class="page-title">Steinbrenner Lab Website Handover</h1>
+        
+      </header>
+      <div class="page-content">
+        <h1 id="steinbrenner-lab-website-handover">Steinbrenner Lab Website Handover</h1>
+
+<p>This repository is the source for <a href="https://steinbrennerlab.org">https://steinbrennerlab.org</a>, a GitHub Pages / Jekyll site using the So Simple theme.</p>
+
+<h2 id="architecture">Architecture</h2>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">_config.yml</code> contains site-wide Jekyll settings: title, URL, theme, plugins, Google fonts, collections, footer links, analytics ID, and custom domain assumptions.</li>
+  <li><code class="language-plaintext highlighter-rouge">Gemfile</code> and <code class="language-plaintext highlighter-rouge">Gemfile.lock</code> define the local Jekyll/GitHub Pages build environment. Use <code class="language-plaintext highlighter-rouge">bundle exec</code> when running Jekyll commands.</li>
+  <li>Top-level Markdown files are the main pages:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">index.md</code> is the homepage.</li>
+      <li><code class="language-plaintext highlighter-rouge">news.md</code> lists posts from <code class="language-plaintext highlighter-rouge">_posts</code>.</li>
+      <li><code class="language-plaintext highlighter-rouge">people.md</code> is the main lab roster page.</li>
+      <li><code class="language-plaintext highlighter-rouge">research.md</code>, <code class="language-plaintext highlighter-rouge">publications.md</code>, <code class="language-plaintext highlighter-rouge">mentorship.md</code>, <code class="language-plaintext highlighter-rouge">lab_notes.md</code>, <code class="language-plaintext highlighter-rouge">teaching.md</code>, <code class="language-plaintext highlighter-rouge">contact.md</code>, <code class="language-plaintext highlighter-rouge">internship.md</code>, and <code class="language-plaintext highlighter-rouge">cherry_tree_genomics.md</code> are standalone pages.</li>
+    </ul>
+  </li>
+  <li><code class="language-plaintext highlighter-rouge">_posts/</code> contains news posts. File names follow <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-title.md</code>, and each post has YAML front matter with <code class="language-plaintext highlighter-rouge">layout: post</code>, <code class="language-plaintext highlighter-rouge">title</code>, and <code class="language-plaintext highlighter-rouge">date</code>.</li>
+  <li><code class="language-plaintext highlighter-rouge">_data/navigation.yml</code> controls the main navigation menu.</li>
+  <li><code class="language-plaintext highlighter-rouge">images/</code> contains source images used by pages. Common subfolders are:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">images/people/</code> for grads, postdocs, staff, and PI photos.</li>
+      <li><code class="language-plaintext highlighter-rouge">images/undergrads/</code> for undergraduate photos.</li>
+      <li><code class="language-plaintext highlighter-rouge">images/publications/</code> for publication figures.</li>
+      <li><code class="language-plaintext highlighter-rouge">images/posts/</code>, <code class="language-plaintext highlighter-rouge">images/research/</code>-style files, <code class="language-plaintext highlighter-rouge">images/teaching/</code>, and similar folders for page-specific assets.</li>
+    </ul>
+  </li>
+  <li><code class="language-plaintext highlighter-rouge">assets/css/main.scss</code> and <code class="language-plaintext highlighter-rouge">assets/css/main_alt.scss</code> contain local Sass customizations layered on top of the So Simple theme.</li>
+  <li><code class="language-plaintext highlighter-rouge">_includes/</code> contains local include overrides such as <code class="language-plaintext highlighter-rouge">head.html</code> and <code class="language-plaintext highlighter-rouge">analytics.html</code>.</li>
+  <li><code class="language-plaintext highlighter-rouge">_layouts/</code> contains local layout overrides. Most pages use theme layouts through their front matter.</li>
+  <li><code class="language-plaintext highlighter-rouge">CNAME</code> contains the custom domain.</li>
+  <li><code class="language-plaintext highlighter-rouge">_site/</code> is generated Jekyll output. It is present in the repository, but it should not be edited by hand. Rebuild it with Jekyll when needed.</li>
+</ul>
+
+<p>Most page content is plain Markdown with embedded HTML. The embedded HTML is intentional and is used for image alignment, line breaks, and manual formatting.</p>
+
+<h2 id="local-build-and-preview">Local Build and Preview</h2>
+
+<p>Install dependencies once if needed:</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle <span class="nb">install</span>
+</code></pre></div></div>
+
+<p>Preview locally:</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle <span class="nb">exec </span>jekyll serve
+</code></pre></div></div>
+
+<p>Build the site:</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle <span class="nb">exec </span>jekyll build
+</code></pre></div></div>
+
+<p>The build writes generated HTML and assets to <code class="language-plaintext highlighter-rouge">_site/</code>.</p>
+
+<h2 id="updating-publications">Updating Publications</h2>
+
+<p>Publications are maintained manually in <code class="language-plaintext highlighter-rouge">publications.md</code>.</p>
+
+<ol>
+  <li>Open <code class="language-plaintext highlighter-rouge">publications.md</code>.</li>
+  <li>Add the new publication near the top of the list, above the previous newest publication.</li>
+  <li>Keep the existing style:
+    <ul>
+      <li>Number the entry manually.</li>
+      <li>Bold Steinbrenner lab authors with <code class="language-plaintext highlighter-rouge">&lt;strong&gt;...&lt;/strong&gt;</code>.</li>
+      <li>Include year, title, journal/preprint server, DOI if available, and links.</li>
+      <li>Use <code class="language-plaintext highlighter-rouge">&lt;br/&gt;&lt;br/&gt;</code> between entries to match the current spacing.</li>
+    </ul>
+  </li>
+  <li>If the publication has an image, add it under <code class="language-plaintext highlighter-rouge">images/publications/</code>.</li>
+  <li>Reference the image with the same pattern used by existing entries, for example:</li>
+</ol>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;p</span> <span class="na">style=</span><span class="s">"margin-left: 100px;"</span><span class="nt">&gt;&lt;img</span> <span class="na">src=</span><span class="s">"/images/publications/example.png"</span> <span class="na">class=</span><span class="s">"align-left"</span> <span class="na">width=</span><span class="s">"500"</span> <span class="na">alt=</span><span class="s">""</span><span class="nt">&gt;&lt;/p&gt;</span>
+<span class="nt">&lt;br/&gt;&lt;br/&gt;</span>
+<span class="nt">&lt;BR</span> <span class="na">CLEAR=</span><span class="s">"left"</span><span class="nt">&gt;</span>
+</code></pre></div></div>
+
+<ol>
+  <li>Rebuild and preview the site with <code class="language-plaintext highlighter-rouge">bundle exec jekyll serve</code> or <code class="language-plaintext highlighter-rouge">bundle exec jekyll build</code>.</li>
+</ol>
+
+<p>The page also links to Google Scholar for the most up-to-date publication list. That link is currently hard-coded near the top of <code class="language-plaintext highlighter-rouge">publications.md</code>.</p>
+
+<p>If the new paper belongs under one of the research topic summaries, also update the relevant <code class="language-plaintext highlighter-rouge">Our papers on this topic</code> list in <code class="language-plaintext highlighter-rouge">research.md</code>. Those lists are hand-written and do not pull automatically from <code class="language-plaintext highlighter-rouge">publications.md</code>.</p>
+
+<h2 id="updating-current-members">Updating Current Members</h2>
+
+<p>The visible roster is maintained manually in <code class="language-plaintext highlighter-rouge">people.md</code>.</p>
+
+<p>For a new grad student, postdoc, staff member, or PI-style profile:</p>
+
+<ol>
+  <li>Add a photo to <code class="language-plaintext highlighter-rouge">images/people/</code>. Aim for a reasonably cropped portrait or landscape image that still looks good at <code class="language-plaintext highlighter-rouge">width="300"</code>.</li>
+  <li>Open <code class="language-plaintext highlighter-rouge">people.md</code>.</li>
+  <li>Add a new block under <code class="language-plaintext highlighter-rouge">Current grads, postdocs, and staff</code>, using the existing pattern:</li>
+</ol>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/images/people/name.jpg"</span> <span class="na">class=</span><span class="s">"align-left"</span> <span class="na">alt=</span><span class="s">""</span> <span class="na">width=</span><span class="s">"300"</span><span class="nt">&gt;</span>
+<span class="nt">&lt;strong&gt;</span>
+Full Name <span class="nt">&lt;br&gt;</span>
+Role <span class="nt">&lt;br&gt;</span>
+email /at/ uw.edu <span class="nt">&lt;br&gt;</span>
+<span class="nt">&lt;/strong&gt;</span>
+Short biography paragraph.
+<span class="nt">&lt;BR</span> <span class="na">CLEAR=</span><span class="s">"left"</span><span class="nt">&gt;</span>
+</code></pre></div></div>
+
+<ol>
+  <li>Keep current members in the intended display order.</li>
+  <li>Add the person to <code class="language-plaintext highlighter-rouge">lab_timeline/lab_members.txt</code> so the lab timeline stays accurate.</li>
+  <li>Rebuild and preview the site.</li>
+</ol>
+
+<p>For a new undergraduate:</p>
+
+<ol>
+  <li>Add the photo to <code class="language-plaintext highlighter-rouge">images/undergrads/</code>.</li>
+  <li>Add a compact block under <code class="language-plaintext highlighter-rouge">Undergraduate lab members</code> in <code class="language-plaintext highlighter-rouge">people.md</code>:</li>
+</ol>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/images/undergrads/name.jpg"</span> <span class="na">class=</span><span class="s">"align-left"</span> <span class="na">alt=</span><span class="s">""</span> <span class="na">width=</span><span class="s">"200"</span><span class="nt">&gt;</span>
+Full Name
+<span class="nt">&lt;BR</span> <span class="na">CLEAR=</span><span class="s">"left"</span><span class="nt">&gt;</span>
+</code></pre></div></div>
+
+<ol>
+  <li>Add the person to <code class="language-plaintext highlighter-rouge">lab_timeline/lab_members.txt</code>.</li>
+  <li>Rebuild and preview the site.</li>
+</ol>
+
+<h2 id="moving-members-to-former-members">Moving Members to Former Members</h2>
+
+<p>When someone leaves:</p>
+
+<ol>
+  <li>In <code class="language-plaintext highlighter-rouge">people.md</code>, remove them from the current-member section.</li>
+  <li>Add them to either <code class="language-plaintext highlighter-rouge">Former full-time lab members</code> or <code class="language-plaintext highlighter-rouge">Former undergraduates</code>.</li>
+  <li>In <code class="language-plaintext highlighter-rouge">lab_timeline/lab_members.txt</code>, replace <code class="language-plaintext highlighter-rouge">today</code> in their <code class="language-plaintext highlighter-rouge">End</code> column with the actual end date.</li>
+  <li>Set <code class="language-plaintext highlighter-rouge">keep</code> according to the timeline behavior:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">keep = 1</code> means the row appears in <code class="language-plaintext highlighter-rouge">lab_members.png</code>.</li>
+      <li><code class="language-plaintext highlighter-rouge">keep = 0</code> means the row is excluded from <code class="language-plaintext highlighter-rouge">lab_members.png</code> and appears in the previous undergraduate/rotation timeline output.</li>
+    </ul>
+  </li>
+  <li>Regenerate the timeline images and preview the site.</li>
+</ol>
+
+<p>Older per-person pages exist in <code class="language-plaintext highlighter-rouge">former_members/</code> and <code class="language-plaintext highlighter-rouge">_undergrads/</code>. They are not the primary source for the current visible roster; use <code class="language-plaintext highlighter-rouge">people.md</code> first unless you intentionally want to maintain an individual profile page.</p>
+
+<h2 id="updating-the-lab-timeline">Updating the Lab Timeline</h2>
+
+<p>The timeline at the bottom of <code class="language-plaintext highlighter-rouge">people.md</code> is the image <code class="language-plaintext highlighter-rouge">lab_timeline/lab_members.png</code>, generated from <code class="language-plaintext highlighter-rouge">lab_timeline/lab_members.txt</code>.</p>
+
+<p>Important files (all in <code class="language-plaintext highlighter-rouge">lab_timeline/</code>):</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">lab_members.txt</code>: tab-delimited source table.</li>
+  <li><code class="language-plaintext highlighter-rouge">process_lab_members_txt.ipynb</code>: R notebook that reads <code class="language-plaintext highlighter-rouge">lab_members.txt</code> and writes the timeline outputs next to itself.</li>
+  <li><code class="language-plaintext highlighter-rouge">lab_members.png</code>: current lab timeline shown on the website.</li>
+  <li><code class="language-plaintext highlighter-rouge">previous_UG_rotations.png</code>: previous undergraduate/rotation timeline image.</li>
+  <li><code class="language-plaintext highlighter-rouge">previous_UG_rotations.csv</code>: generated data for previous undergraduate/rotation entries.</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">lab_members.txt</code> columns:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">Task</code>: person’s name.</li>
+  <li><code class="language-plaintext highlighter-rouge">Project</code>: role, such as <code class="language-plaintext highlighter-rouge">postdoc</code>, <code class="language-plaintext highlighter-rouge">graduate student</code>, <code class="language-plaintext highlighter-rouge">technician</code>, <code class="language-plaintext highlighter-rouge">undergraduate</code>, or <code class="language-plaintext highlighter-rouge">rotation student</code>.</li>
+  <li><code class="language-plaintext highlighter-rouge">Start</code>: start date in <code class="language-plaintext highlighter-rouge">YYYY-MM-DD</code> format.</li>
+  <li><code class="language-plaintext highlighter-rouge">End</code>: end date in <code class="language-plaintext highlighter-rouge">YYYY-MM-DD</code> format, or <code class="language-plaintext highlighter-rouge">today</code> for current members.</li>
+  <li><code class="language-plaintext highlighter-rouge">keep</code>: <code class="language-plaintext highlighter-rouge">1</code> to keep in the main timeline, <code class="language-plaintext highlighter-rouge">0</code> to exclude from the main timeline.</li>
+</ul>
+
+<p>Before regenerating the timeline, check <code class="language-plaintext highlighter-rouge">process_lab_members_txt.ipynb</code>: it has a hard-coded replacement date for rows where <code class="language-plaintext highlighter-rouge">End</code> is <code class="language-plaintext highlighter-rouge">today</code>. Update this line to the current date:</p>
+
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">date</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="s2">"YYYY-MM-DD"</span><span class="w">
+</span></code></pre></div></div>
+
+<p>Then run the notebook and confirm that <code class="language-plaintext highlighter-rouge">lab_members.png</code>, <code class="language-plaintext highlighter-rouge">previous_UG_rotations.png</code>, and <code class="language-plaintext highlighter-rouge">previous_UG_rotations.csv</code> updated as expected.</p>
+
+<h2 id="updating-news">Updating News</h2>
+
+<p>Add a new Markdown file under <code class="language-plaintext highlighter-rouge">_posts/</code> named like:</p>
+
+<div class="language-text highlighter-rouge"><div class="highlight"><pre class="highlight"><code>YYYY-MM-DD-short-title.md
+</code></pre></div></div>
+
+<p>Use this front matter:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">post</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Post</span><span class="nv"> </span><span class="s">title"</span>
+<span class="na">date</span><span class="pi">:</span> <span class="s">YYYY-MM-DD 12:00:00 -0700</span>
+<span class="nn">---</span>
+</code></pre></div></div>
+
+<p>Write the post body below the front matter. The <code class="language-plaintext highlighter-rouge">news.md</code> page automatically lists posts using the <code class="language-plaintext highlighter-rouge">posts</code> layout, and the homepage shows the latest posts according to <code class="language-plaintext highlighter-rouge">posts_limit</code> in <code class="language-plaintext highlighter-rouge">index.md</code>.</p>
+
+<h2 id="deployment-notes">Deployment Notes</h2>
+
+<p>This is a GitHub Pages site. The usual update flow is:</p>
+
+<ol>
+  <li>Edit source files.</li>
+  <li>Run <code class="language-plaintext highlighter-rouge">bundle exec jekyll serve</code> or <code class="language-plaintext highlighter-rouge">bundle exec jekyll build</code>.</li>
+  <li>Check the changed pages locally.</li>
+  <li>Commit source changes, image assets, and any intentionally regenerated outputs.</li>
+  <li>Push to GitHub.</li>
+</ol>
+
+<p>Do not hand-edit generated HTML in <code class="language-plaintext highlighter-rouge">_site/</code>; make the change in the source Markdown, Sass, data, image, or template file and rebuild.</p>
+
+
+        
+      </div>
+    </div>
+  </article>
+</main>
+
+
+    <footer id="footer" class="site-footer">
+  <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+<div class="social-icons"><a class="social-icon" href="https://twitter.com/adsteinbrenner"><i class="fab fa-twitter-square fa-2x" title="Twitter"></i></a><a class="social-icon" href="https://github.com/steinbrennerlab"><i class="fab fa-github-square fa-2x" title="GitHub"></i></a></div><div class="copyright">
+    
+      <p>Copyright 2022, Steinbrenner Lab</p>
+
+    
+  </div>
+</footer>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://use.fontawesome.com/releases/v5.0.12/js/all.js"></script>
+
+
+  </body>
+
+</html>
