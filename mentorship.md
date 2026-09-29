@@ -10,11 +10,25 @@ permalink: /mentorship/
 
 ## Technician, Graduate Student, and Postdoc accomplishments
 
+2026: Ben Sheppard is awarded the Frye-Hotson-Rigg Fellowship (UW Biology)! Congrats Ben!
+
+August 2025: Natalia Guayazán-Palacios, the lab's first graduate student, leaves to start a postdoc with Lena Mueller at the Salk Institute. Good luck Natalia!
+
+2025: Ben Sheppard receives a travel award to present his work on RLCKs in plant immune responses to herbivory at the 25th Conference of the International Plant Growth Substance Association (IPGSA2025)
+
+2025: Postdoc Di "Woody" Wu presents "Plug-and-Play: Engineering Inceptin Receptor (INR) into Soybeans Confers Herbivore Recognition and Resistance" at the Soybean Molecular Biology and Genetics Conference in Madison, WI
+
+May 2024: Technician Brian Behnken presents "Plant Cell Surface Receptor for Herbivory Mediates Attraction of Predatory Wasps" at the Mary Gates Undergraduate Research Symposium
+
+2024: Natalia Guayazán-Palacios receives an Inclusivity Scholar award and presents her research at the International Conference on Arabidopsis Research (ICAR 2024)
+
 September 2023: Technician Wesley George leaves after 3 total years in UW Biology (2 as an undergraduate, 1 as a technician) for graduate school at UC Riverside! Best of luck!
 
 May 2023: Natalia Guayazan-Palacios is awarded a USDA Predoctoral Fellowship to fund the remainder of graduate study! Congrats!
 
 August 2022: Simon Snoeck was selected to speak at the 10th International Workshop on Plant Peptides and Receptors (possibly the only American lab represented at the meeting!) Congrats Simon!
+
+July 2022: Natalia Guayazán-Palacios gives a talk on plant-herbivore interactions at Plant Biology 2022 in Portland, OR, and 4 lab members present posters!
 
 May 2022: Anthony Garcia and Tonio Chaparro are pursuing PhDs in Plant Biology. Tonio will head to Plant & Microbial Biology at UC Berkeley, while Anthony will rejoin UW Biology PhD program in the fall. Congrats!
 
@@ -22,18 +36,30 @@ Apr 2022: Technicians Anthony Garcia and Tonio Chaparro are awarded the NSF GRFP
 
 Nov 2021: Natalia Guayazan-Palacios is awarded a 2021 SACNAS Student Presentation Award!!
 
+July 2021: Simon Snoeck, Natalia Guayazán-Palacios, and Anthony Garcia give talks at Plant Biology 2021, and Ava Kloss-Schmidt presents a poster!
+
 Mar 2021: Simon Snoeck is awarded the Mary Race Bevis Postdoctoral Research Award (UW Biology)
 
 Mar 2021: Natalia Guayazan-Palacios is awarded the Heerensperger and Walter & Margaret Sargent Awards (UW Biology)
 
+2020: Simon Snoeck is awarded a Belgian American Educational Foundation (BAEF) Postdoctoral Fellowship
+
 
 ## Undergraduate accomplishments
 
+May 2026: JT Dugan and Korina Medina present their research at the Mary Gates Undergraduate Research Symposium!
+
+Autumn 2025: Anna Perfetti is awarded the Porath-Johnson Scholarship (UW Biology)! Congrats Anna!
+
+May 2025: Euan McCubbin presents his research at the Mary Gates Undergraduate Research Symposium!
+
 March 2025: Euan McCubbin was awarded the Mary Gates Undergraduate Research Scholarship! Congrats Euan!
 
-December 2024: Euan McCubbin was awarded the Frye Hotson Rigg departmental award!
+December 2024: Euan McCubbin was awarded the Frye Hotson Rigg departmental award
 
 June 2024: Hannah Luskin will start a position as lab manager at the Innovative Genomics Institute at UC Berkeley!
+
+Autumn 2022: Nathan Greenwood is awarded the May Garrett Hayes Scholarship (UW Biology)
 
 June 2022: Ava will graduate and join the Rhee lab at the Carnegie Institute in Palo Alto, CA. Congrats Ava!
 
@@ -45,6 +71,8 @@ Mar 2022: Ava Kloss-Schmidt is awarded the Mary Gates Fellowship
 
 Mar 2022: Ava Kloss-Schmidt is awarded the May Garrett Hayes and  Varanasi Scholarships (UW Biology)
 
+May 2021: Anthony Garcia presents "Developing a Fluorescent Reporter for Characterizing the Plant HAMP Receptor INR" at the Mary Gates Undergraduate Research Symposium
+
 Mar 2021: Anthony Garcia is awarded the May Garrett Hayes Scholarship (UW Biology)
 
 Mar 2021: Anthony Garcia is awarded the Mary Gates Fellowship
@@ -52,6 +80,8 @@ Mar 2021: Anthony Garcia is awarded the Mary Gates Fellowship
 Jan 2021: Ava Kloss-Schmidt is awarded the John & Dorothy Franco Award and Frye-Hotson-Rigg Award (UW Biology)
 
 Jan 2021: Anthony Garcia is awarded the Frye-Hotson-Rigg Award (UW Biology)
+
+May 2020: Anthony Garcia presents "Developing Genetically Encoded Reporters for Plant Immune Recognition of Herbivory" at the Mary Gates Undergraduate Research Symposium
 
 Mar 2020: Anthony Garcia is awarded the Undergraduate Excellence in Biology Scholarship (UW Biology)
 
@@ -69,3 +99,17 @@ I work hard to set expectations and goals with all rotation students and permane
 4. Quarterly IDP check-ins – at the end of each quarter, we will structure our one-on-one meeting to discuss progress toward year goals and if any resources or changes would help to meet goals.
 
 <img src="/images/mentorship/mentorship01.jpg" class="align-left" alt="">
+<BR CLEAR="left">
+
+{% assign stats = site.data.trainee_stats %}
+
+## Numbers
+
+Since the lab opened at UW in 2019, we have trained (as of {{ stats.as_of | date: "%B %Y" }}):
+
+- **{{ stats.undergraduates }}** undergraduate researchers, including **{{ stats.undergraduates_past_5_years }}** in the past five years
+- **{{ stats.postdocs }}** postdocs, **{{ stats.graduate_students }}** graduate students, and **{{ stats.technicians }}** technicians
+- **{{ stats.rotation_students }}** graduate rotation students
+- **{{ stats.high_school_volunteers }}** high school volunteer{% if stats.high_school_volunteers != 1 %}s{% endif %}
+
+Before starting the lab, Adam directly supervised {{ stats.undergraduates_before_uw }} undergraduates at UC San Diego, UC Berkeley, and Tufts University.

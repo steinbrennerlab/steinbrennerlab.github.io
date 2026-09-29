@@ -138,6 +138,7 @@ Important files (all in `lab_timeline/`):
 - `lab_members.png`: current lab timeline shown on the website.
 - `previous_UG_rotations.png`: previous undergraduate/rotation timeline image.
 - `previous_UG_rotations.csv`: generated data for previous undergraduate/rotation entries.
+- `../_data/trainee_stats.yml`: generated trainee counts (undergraduates overall and in the past five years, postdocs, graduate students, etc.) shown in the "Mentorship by the numbers" section of `mentorship.md`. Do not edit by hand.
 
 `lab_members.txt` columns:
 
@@ -153,7 +154,7 @@ Before regenerating the timeline, check `process_lab_members_txt.ipynb`: it has 
 date <- "YYYY-MM-DD"
 ```
 
-Then run the notebook and confirm that `lab_members.png`, `previous_UG_rotations.png`, and `previous_UG_rotations.csv` updated as expected.
+Then run the notebook and confirm that `lab_members.png`, `previous_UG_rotations.png`, `previous_UG_rotations.csv`, and `_data/trainee_stats.yml` updated as expected. The same date is used as the "as of" date and the five-year cutoff on the Mentorship page.
 
 ## Updating News
 

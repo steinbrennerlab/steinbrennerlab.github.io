@@ -159,6 +159,61 @@ var store = [{
         "tags": [],
         "url": "https://steinbrennerlab.org/2024/11/01/Kelsey.html"
       },{
+        "title": "Amy Moore joins the lab",
+        "excerpt":"Amy Moore joins the lab as a UW Biology graduate student! Amy previously studied the plant immune signaling network in Fumi Katagiri’s lab at the University of Minnesota, and DNA replication timing in yeast as a post-bac in the Brewer/Raghuraman lab at UW. Welcome Amy! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2025/01/01/amy_joins.html"
+      },{
+        "title": "Preview in Developmental Cell",
+        "excerpt":"Natalia and Adam wrote a preview on plant cell surface receptors at the forefront of the growth-defense trade-off, now out in Developmental Cell here. ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2025/02/01/devcell.html"
+      },{
+        "title": "Euan McCubbin awarded Mary Gates Research Scholarship",
+        "excerpt":"Undergraduate researcher Euan McCubbin was awarded a Mary Gates Undergraduate Research Scholarship. Congrats Euan! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2025/03/01/euan_mary_gates.html"
+      },{
+        "title": "Euan McCubbin stays on as Research Technician",
+        "excerpt":"After graduating with a B.S. in Biology, Euan McCubbin moves from undergraduate researcher to Research Technician. Euan is engineering a system to screen DAMP candidates in vivo. Congrats on graduating, Euan! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2025/06/01/euan_technician.html"
+      },{
+        "title": "Preview in Molecular Cell",
+        "excerpt":"Woody, Ben, and Adam wrote a preview, “An allele of a hexameric enzyme is poised for an autoimmune dangerous mix”, now out in Molecular Cell here. ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2025/07/01/molcell.html"
+      },{
+        "title": "Natalia heads to the Salk Institute",
+        "excerpt":"After more than five years in the lab, Natalia Guayazán-Palacios leaves to start a postdoc with Lena Mueller at the Salk Institute. Natalia was the lab’s first graduate student. We will miss you Natalia, and good luck! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2025/08/31/natalia_salk.html"
+      },{
+        "title": "New work in Plant, Cell & Environment",
+        "excerpt":"Natalia’s paper with Takato Imaizumi is out in Plant, Cell &amp; Environment here! In cowpea, responses to the caterpillar peptide In11 are gated by time of day: daytime elicitation produces stronger late-induced gene expression than nighttime, and this gating is lost in plants with arrhythmic expression of the clock genes...","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2025/10/23/PCE.html"
+      },{
+        "title": "New work in PLOS ONE",
+        "excerpt":"Brian’s paper on natural variation in INR is out in PLOS ONE here! Some common bean landraces are insensitive to the caterpillar peptide In11. Brian, Wes, Tonio, and Ava found that this variation tracks with the expression level of INR, linked to promoter variation, rather than with changes in the...","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2026/04/03/plosone.html"
+      },{
+        "title": "Ekkachai Khwanbua joins the lab",
+        "excerpt":"Ekkachai Khwanbua joins the lab as a postdoc, coming from his PhD in Plant Pathology at Iowa State University. Ekkachai is excited to learn more about plant receptor biology, including receptor-like proteins (RLPs). Welcome Ekkachai! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2026/05/01/ekkachai_joins.html"
+      },{
+        "title": "BAT preprint on bioRxiv",
+        "excerpt":"Ben, Brian, and Adam posted BAT, an integrated pipeline for gene tree construction, annotation, and functional inference, on bioRxiv here. Congrats Ben! ","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2026/05/07/BAT_biorxiv.html"
+      },{
+        "title": "New work in Science Advances",
+        "excerpt":"🎉 Natalia’s paper is out in Science Advances here! Using lab and field experiments in Mexico, the team showed that the inceptin receptor (INR) in common bean does more than amplify the wound response: recognition of inceptin activates an herbivore-specific pathway that releases a distinctive volatile blend, recruiting predatory wasps...","categories": [],
+        "tags": [],
+        "url": "https://steinbrennerlab.org/2026/05/29/sciadv.html"
+      },{
         "title": "Ava Kloss-Schmidt",
         "excerpt":"Undergraduate Researcher Ava is an undergraduate studying Plant Biology at UW. She joined the Steinbrenner lab in October 2019 and is excited to learn more about working with plants in a lab setting. Her favorite place in Seattle is the Volunteer Park Conservatory and she would spend all her time...","categories": [],
         "tags": [],
