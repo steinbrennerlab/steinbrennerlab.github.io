@@ -90,8 +90,8 @@ I am fascinated by plant immune systems. Building on my training in chemical eco
 <br>
 <h3>Undergraduate lab members</h3>
 
-<img src="/images/undergrads/medina.jpg" class="align-left" alt="" width="200">
-Korina Medina
+<img src="/images/undergrads/dong.jpg" class="align-left" alt="" width="200">
+Caitlin Dong
 <BR CLEAR="left"> 
 
 <img src="/images/undergrads/dugan.jpg" class="align-left" alt="" width="200">
@@ -100,6 +100,10 @@ JT Dugan
 
 <img src="/images/undergrads/perfetti.jpg" class="align-left" alt="" width="200">
 Anna Perfetti
+<BR CLEAR="left">
+
+<img src="/images/undergrads/logo.jpg" class="align-left" alt="" width="200">
+Samarth Kumar
 <BR CLEAR="left">
 
 
@@ -112,6 +116,7 @@ Natalia Guayaz&aacute;n-Palacios (2020-2026), currently a postdoc with Lena Muel
 Kelsey Wood (2024-2026) <br>
 
 <h3>Former undergraduates</h3>
+Korina Medina (2025-2026)<br>
 Amelia Wayman (2024-2026)<br>
 Laura Barbosa-Chifan (2024-2026)<br>
 Aster Earls (2024-2024) <br>
