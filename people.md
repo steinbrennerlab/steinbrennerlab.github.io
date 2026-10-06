@@ -102,7 +102,7 @@ JT Dugan
 Anna Perfetti
 <BR CLEAR="left">
 
-<img src="/images/undergrads/logo.jpg" class="align-left" alt="" width="200">
+<img src="/images/undergrads/kumar.jpg" class="align-left" alt="" width="200">
 Samarth Kumar
 <BR CLEAR="left">
 
